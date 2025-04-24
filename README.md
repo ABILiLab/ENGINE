@@ -96,3 +96,28 @@ The sample output file is **infer_result.csv** with the following sample content
 4RH6-A,cell surface,GO:0009986,0.1694
 4RH6-A,host cell membrane,GO:0033644,0.1396
 ```
+# GUI (Graphical user interface)
+## Introduction
+The platform integrates protein functional annotation with ENGINE. It allows you to use PDB inputs to predict information about protein function and visualise score alignments.
+## Running Environment
+* Anaconda
+* python 3.10.13
+## Running Methods
+  - Step 1. Download and install the anaconda platform. (Refer to https://blog.csdn.net/m0_61607990/article/details/129531686).
+   - Step 2. Enter the "GUI" folder.
+   - Step 3. Using the conda environment ENGINE above
+  - Step 4. Run ENGINE
+  ```python
+  python ENGINE_GUI_platform.py
+  ```
+## Use ENGINE in this platform
+After successfully running the ENGINE_GUI_platform.py file, you can follow the steps below to use ENGINE on our platform.
+### Input Data
+- Please upload a PDB file for one of the proteins you want to predict!
+### Select Parameters
+- Set 'MF', 'BP', or 'CC' and choose one of the categories for GO terms prediction.
+### Predict and save results
+- Clicking the ‘Predict’ button allows you to perform prediction operations on the input PDB and selected parameters.  
+- Click ‘Save results’ button to save the prediction result as a csv file.  
+- If you want to continue to predict other proteins, please click ‘Clean’ button first.
+### Results display
