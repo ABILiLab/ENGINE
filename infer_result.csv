@@ -1,0 +1,960 @@
+4FEZ-A,membrane-enclosed lumen,GO:0031974,0.0335
+4FEZ-A,focal adhesion,GO:0005925,0.0000
+4FEZ-A,early endosome,GO:0005769,0.0000
+4FEZ-A,transporter complex,GO:1990351,0.0330
+4FEZ-A,nuclear speck,GO:0016607,0.0000
+4FEZ-A,mitochondrial ribosome,GO:0005761,0.0000
+4FEZ-A,membrane microdomain,GO:0098857,0.0000
+4FEZ-A,cell projection membrane,GO:0031253,0.0000
+4FEZ-A,transport vesicle,GO:0030133,0.0001
+4FEZ-A,chromosome, centromeric region,GO:0000775,0.0000
+4FEZ-A,host cell plasma membrane,GO:0020002,0.0000
+4FEZ-A,lamellipodium,GO:0030027,0.0000
+4FEZ-A,cytoplasmic vesicle membrane,GO:0030659,0.0000
+4FEZ-A,nuclear lumen,GO:0031981,0.0124
+4FEZ-A,chromosome,GO:0005694,0.0985
+4FEZ-A,mitochondrial small ribosomal subunit,GO:0005763,0.0000
+4FEZ-A,cytoplasmic side of membrane,GO:0098562,0.0056
+4FEZ-A,cytosolic large ribosomal subunit,GO:0022625,0.0152
+4FEZ-A,small-subunit processome,GO:0032040,0.0006
+4FEZ-A,pore complex,GO:0046930,0.0003
+4FEZ-A,vacuole,GO:0005773,0.0044
+4FEZ-A,synaptic vesicle,GO:0008021,0.0000
+4FEZ-A,supramolecular polymer,GO:0099081,0.0015
+4FEZ-A,transmembrane transporter complex,GO:1902495,0.0309
+4FEZ-A,U4/U6 x U5 tri-snRNP complex,GO:0046540,0.0000
+4FEZ-A,specific granule,GO:0042581,0.0000
+4FEZ-A,intrinsic component of plasma membrane,GO:0031226,0.0908
+4FEZ-A,ribonucleoprotein granule,GO:0035770,0.0002
+4FEZ-A,photosystem I,GO:0009522,0.0003
+4FEZ-A,light-harvesting complex,GO:0030076,0.0020
+4FEZ-A,receptor complex,GO:0043235,0.0000
+4FEZ-A,protein kinase complex,GO:1902911,0.0000
+4FEZ-A,whole membrane,GO:0098805,0.0003
+4FEZ-A,peroxisome,GO:0005777,0.0099
+4FEZ-A,chloroplast thylakoid membrane,GO:0009535,0.0008
+4FEZ-A,cytochrome complex,GO:0070069,0.0066
+4FEZ-A,nucleolus,GO:0005730,0.0019
+4FEZ-A,coated vesicle membrane,GO:0030662,0.0000
+4FEZ-A,methyltransferase complex,GO:0034708,0.0034
+4FEZ-A,nuclear outer membrane-endoplasmic reticulum membrane network,GO:0042175,0.0013
+4FEZ-A,myofibril,GO:0030016,0.0000
+4FEZ-A,endosome,GO:0005768,0.0000
+4FEZ-A,organelle subcompartment,GO:0031984,0.0010
+4FEZ-A,endomembrane system,GO:0012505,0.0073
+4FEZ-A,extracellular matrix,GO:0031012,0.0067
+4FEZ-A,somatodendritic compartment,GO:0036477,0.0001
+4FEZ-A,secretory granule,GO:0030141,0.0002
+4FEZ-A,synaptic membrane,GO:0097060,0.0000
+4FEZ-A,plastid,GO:0009536,0.0250
+4FEZ-A,serine/threonine protein kinase complex,GO:1902554,0.0000
+4FEZ-A,host intracellular organelle,GO:0033647,0.0001
+4FEZ-A,cullin-RING ubiquitin ligase complex,GO:0031461,0.0000
+4FEZ-A,nuclear body,GO:0016604,0.0000
+4FEZ-A,proteasome core complex,GO:0005839,0.0130
+4FEZ-A,ficolin-1-rich granule,GO:0101002,0.0000
+4FEZ-A,endocytic vesicle,GO:0030139,0.0005
+4FEZ-A,cell periphery,GO:0071944,0.3756
+4FEZ-A,cytoplasmic region,GO:0099568,0.0008
+4FEZ-A,RNA polymerase complex,GO:0030880,0.0001
+4FEZ-A,proton-transporting two-sector ATPase complex,GO:0016469,0.0269
+4FEZ-A,cytosolic ribosome,GO:0022626,0.0168
+4FEZ-A,proteasome regulatory particle,GO:0005838,0.0000
+4FEZ-A,organellar large ribosomal subunit,GO:0000315,0.0001
+4FEZ-A,mediator complex,GO:0016592,0.0000
+4FEZ-A,sarcomere,GO:0030017,0.0000
+4FEZ-A,large ribosomal subunit,GO:0015934,0.0153
+4FEZ-A,U2-type spliceosomal complex,GO:0005684,0.0000
+4FEZ-A,photosystem,GO:0009521,0.0017
+4FEZ-A,organelle outer membrane,GO:0031968,0.0000
+4FEZ-A,viral nucleocapsid,GO:0019013,0.0000
+4FEZ-A,cell projection,GO:0042995,0.0060
+4FEZ-A,late endosome,GO:0005770,0.0000
+4FEZ-A,viral capsid,GO:0019028,0.0009
+4FEZ-A,intracellular organelle lumen,GO:0070013,0.0554
+4FEZ-A,host intracellular membrane-bounded organelle,GO:0033648,0.0001
+4FEZ-A,postsynapse,GO:0098794,0.0001
+4FEZ-A,lysosome,GO:0005764,0.0042
+4FEZ-A,ribosomal subunit,GO:0044391,0.0371
+4FEZ-A,plasma membrane region,GO:0098590,0.0001
+4FEZ-A,chromatin,GO:0000785,0.0017
+4FEZ-A,plastid thylakoid membrane,GO:0055035,0.0005
+4FEZ-A,extracellular region,GO:0005576,0.1791
+4FEZ-A,polymeric cytoskeletal fiber,GO:0099513,0.0004
+4FEZ-A,perinuclear region of cytoplasm,GO:0048471,0.0000
+4FEZ-A,transport vesicle membrane,GO:0030658,0.0000
+4FEZ-A,catalytic complex,GO:1902494,0.5757
+4FEZ-A,nuclear pore,GO:0005643,0.0000
+4FEZ-A,histone methyltransferase complex,GO:0035097,0.0000
+4FEZ-A,actin cytoskeleton,GO:0015629,0.0003
+4FEZ-A,respiratory chain complex,GO:0098803,0.0043
+4FEZ-A,vacuolar membrane,GO:0005774,0.0001
+4FEZ-A,virion part,GO:0044423,0.0019
+4FEZ-A,nucleoplasm,GO:0005654,0.0075
+4FEZ-A,supramolecular fiber,GO:0099512,0.0016
+4FEZ-A,non-membrane-bounded organelle,GO:0043228,0.1144
+4FEZ-A,phycobilisome,GO:0030089,0.0009
+4FEZ-A,dendrite,GO:0030425,0.0000
+4FEZ-A,cell outer membrane,GO:0009279,0.0080
+4FEZ-A,cell division site,GO:0032153,0.0155
+4FEZ-A,cytoplasmic side of plasma membrane,GO:0009898,0.0019
+4FEZ-A,nuclear chromatin,GO:0000790,0.0010
+4FEZ-A,virion membrane,GO:0055036,0.0000
+4FEZ-A,inner mitochondrial membrane protein complex,GO:0098800,0.0027
+4FEZ-A,ribosome,GO:0005840,0.0393
+4FEZ-A,thylakoid,GO:0009579,0.0234
+4FEZ-A,nuclear envelope,GO:0005635,0.0001
+4FEZ-A,spliceosomal snRNP complex,GO:0097525,0.0000
+4FEZ-A,NADH dehydrogenase complex,GO:0030964,0.0041
+4FEZ-A,nucleoid,GO:0009295,0.0335
+4FEZ-A,respirasome,GO:0070469,0.0145
+4FEZ-A,neuron to neuron synapse,GO:0098984,0.0000
+4FEZ-A,bacterial-type flagellum,GO:0009288,0.0003
+4FEZ-A,cell surface,GO:0009986,0.1787
+4FEZ-A,host cell membrane,GO:0033644,0.0001
+4FEZ-A,peptidase complex,GO:1905368,0.0154
+4FEZ-A,icosahedral viral capsid,GO:0019030,0.0000
+4FEZ-A,hemoglobin complex,GO:0005833,0.0000
+4FEZ-A,ribonucleoprotein complex,GO:1990904,0.0600
+4FEZ-A,photosynthetic membrane,GO:0034357,0.0124
+4FEZ-A,replication fork,GO:0005657,0.0046
+4FEZ-A,mitochondrion,GO:0005739,0.1330
+4FEZ-A,viral envelope,GO:0019031,0.0000
+4FEZ-A,proteasome complex,GO:0000502,0.0241
+4FEZ-A,cytosol,GO:0005829,0.7698
+4FEZ-A,mitochondrial matrix,GO:0005759,0.0154
+4FEZ-A,ubiquitin ligase complex,GO:0000151,0.0000
+4FEZ-A,outer membrane-bounded periplasmic space,GO:0030288,0.0199
+4FEZ-A,transferase complex, transferring phosphorus-containing groups,GO:0061695,0.0108
+4FEZ-A,dendritic tree,GO:0097447,0.0000
+4FEZ-A,host intracellular region,GO:0043656,0.0004
+4FEZ-A,acetyltransferase complex,GO:1902493,0.0000
+4FEZ-A,supramolecular complex,GO:0099080,0.0034
+4FEZ-A,coated vesicle,GO:0030135,0.0001
+4FEZ-A,plasma membrane bounded cell projection,GO:0120025,0.0019
+4FEZ-A,presynapse,GO:0098793,0.0000
+4FEZ-A,neuronal cell body,GO:0043025,0.0000
+4FEZ-A,endosome membrane,GO:0010008,0.0000
+4FEZ-A,phagocytic vesicle,GO:0045335,0.0002
+4FEZ-A,extrinsic component of plasma membrane,GO:0019897,0.0046
+4FEZ-A,centrosome,GO:0005813,0.0000
+4FEZ-A,nuclear chromosome,GO:0000228,0.0008
+4FEZ-A,actin-based cell projection,GO:0098858,0.0000
+4FEZ-A,preribosome,GO:0030684,0.0008
+4FEZ-A,histone acetyltransferase complex,GO:0000123,0.0000
+4FEZ-A,chromosomal region,GO:0098687,0.0001
+4FEZ-A,kinetochore,GO:0000776,0.0000
+4FEZ-A,extracellular vesicle,GO:1903561,0.0052
+4FEZ-A,vesicle membrane,GO:0012506,0.0000
+4FEZ-A,anchoring junction,GO:0070161,0.0001
+4FEZ-A,exocytic vesicle,GO:0070382,0.0000
+4FEZ-A,envelope,GO:0031975,0.0629
+4FEZ-A,glutamatergic synapse,GO:0098978,0.0000
+4FEZ-A,proteasome accessory complex,GO:0022624,0.0000
+4FEZ-A,chromosome, telomeric region,GO:0000781,0.0000
+4FEZ-A,lytic vacuole,GO:0000323,0.0016
+4FEZ-A,membrane region,GO:0098589,0.0000
+4FEZ-A,small nuclear ribonucleoprotein complex,GO:0030532,0.0000
+4FEZ-A,cytoskeleton,GO:0005856,0.0013
+4FEZ-A,endopeptidase complex,GO:1905369,0.0269
+4FEZ-A,organellar ribosome,GO:0000313,0.0001
+4FEZ-A,integral component of plasma membrane,GO:0005887,0.0379
+4FEZ-A,storage vacuole,GO:0000322,0.0000
+4FEZ-A,ATPase complex,GO:1904949,0.0869
+4FEZ-A,membrane raft,GO:0045121,0.0000
+4FEZ-A,SWI/SNF superfamily-type complex,GO:0070603,0.0001
+4FEZ-A,vesicle,GO:0031982,0.0179
+4FEZ-A,small ribosomal subunit,GO:0015935,0.0092
+4FEZ-A,ficolin-1-rich granule lumen,GO:1904813,0.0000
+4FEZ-A,preribosome, large subunit precursor,GO:0030687,0.0000
+4FEZ-A,U2-type precatalytic spliceosome,GO:0071005,0.0000
+4FEZ-A,host cell,GO:0043657,0.0011
+4FEZ-A,external side of plasma membrane,GO:0009897,0.0033
+4FEZ-A,host cell nucleus,GO:0042025,0.0000
+4FEZ-A,mitochondrial respirasome,GO:0005746,0.0004
+4FEZ-A,intrinsic component of membrane,GO:0031224,0.1109
+4FEZ-A,endoplasmic reticulum membrane,GO:0005789,0.0005
+4FEZ-A,extracellular organelle,GO:0043230,0.0049
+4FEZ-A,vesicle lumen,GO:0031983,0.0000
+4FEZ-A,plasma membrane signaling receptor complex,GO:0098802,0.0000
+4FEZ-A,nuclear membrane,GO:0031965,0.0000
+4FEZ-A,endoplasmic reticulum,GO:0005783,0.0017
+4FEZ-A,protein-DNA complex,GO:0032993,0.0098
+4FEZ-A,RNA polymerase II transcription regulator complex,GO:0090575,0.0000
+4FEZ-A,microtubule cytoskeleton,GO:0015630,0.0008
+4FEZ-A,Golgi-associated vesicle,GO:0005798,0.0000
+4FEZ-A,membrane coat,GO:0030117,0.0000
+4FEZ-A,microtubule associated complex,GO:0005875,0.0001
+4FEZ-A,mitochondrial respiratory chain complex I,GO:0005747,0.0001
+4FEZ-A,cation channel complex,GO:0034703,0.0000
+4FEZ-A,thylakoid membrane,GO:0042651,0.0129
+4FEZ-A,secretory vesicle,GO:0099503,0.0003
+4FEZ-A,secretory granule membrane,GO:0030667,0.0000
+4FEZ-A,spliceosomal complex,GO:0005681,0.0000
+4FEZ-A,extrinsic component of membrane,GO:0019898,0.0076
+4FEZ-A,Golgi apparatus,GO:0005794,0.0014
+4FEZ-A,extracellular space,GO:0005615,0.0280
+4FEZ-A,immunoglobulin complex,GO:0019814,0.0000
+4FEZ-A,blood microparticle,GO:0072562,0.0000
+4FEZ-A,apical part of cell,GO:0045177,0.0000
+4FEZ-A,proton-transporting ATP synthase complex, catalytic core F(1),GO:0045261,0.0131
+4FEZ-A,contractile fiber,GO:0043292,0.0001
+4FEZ-A,DNA-directed RNA polymerase complex,GO:0000428,0.0000
+4FEZ-A,condensed nuclear chromosome,GO:0000794,0.0000
+4FEZ-A,endonuclease complex,GO:1905348,0.0057
+4FEZ-A,organellar small ribosomal subunit,GO:0000314,0.0001
+4FEZ-A,cell cortex,GO:0005938,0.0004
+4FEZ-A,MHC protein complex,GO:0042611,0.0000
+4FEZ-A,cytosolic small ribosomal subunit,GO:0022627,0.0071
+4FEZ-A,intracellular vesicle,GO:0097708,0.0072
+4FEZ-A,nucleus,GO:0005634,0.1023
+4FEZ-A,cilium,GO:0005929,0.0008
+4FEZ-A,mitochondrial intermembrane space,GO:0005758,0.0054
+4FEZ-A,photosystem II,GO:0009523,0.0002
+4FEZ-A,cell-cell junction,GO:0005911,0.0000
+4FEZ-A,Golgi apparatus subcompartment,GO:0098791,0.0000
+4FEZ-A,intracellular non-membrane-bounded organelle,GO:0043232,0.1285
+4FEZ-A,rough endoplasmic reticulum,GO:0005791,0.0001
+4FEZ-A,asymmetric synapse,GO:0032279,0.0000
+4FEZ-A,cytoplasmic vesicle lumen,GO:0060205,0.0000
+4FEZ-A,apical plasma membrane,GO:0016324,0.0000
+4FEZ-A,P-body,GO:0000932,0.0000
+4FEZ-A,Golgi-associated vesicle membrane,GO:0030660,0.0000
+4FEZ-A,protein acetyltransferase complex,GO:0031248,0.0000
+4FEZ-A,microbody,GO:0042579,0.0105
+4FEZ-A,condensed chromosome,GO:0000793,0.0000
+4FEZ-A,ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing,GO:0055052,0.0002
+4FEZ-A,signal recognition particle,GO:0048500,0.0044
+4FEZ-A,endoplasmic reticulum lumen,GO:0005788,0.0000
+4FEZ-A,chloroplast thylakoid,GO:0009534,0.0007
+4FEZ-A,plastid thylakoid,GO:0031976,0.0005
+4FEZ-A,potassium channel complex,GO:0034705,0.0000
+4FEZ-A,nucleosome,GO:0000786,0.0002
+4FEZ-A,host cell part,GO:0033643,0.0016
+4FEZ-A,lytic vacuole membrane,GO:0098852,0.0000
+4FEZ-A,side of membrane,GO:0098552,0.0260
+4FEZ-A,ATPase dependent transmembrane transport complex,GO:0098533,0.0282
+4FEZ-A,intrinsic component of organelle membrane,GO:0031300,0.0001
+4FEZ-A,mitochondrial membrane,GO:0031966,0.0049
+4FEZ-A,microtubule organizing center,GO:0005815,0.0000
+4FEZ-A,host intracellular part,GO:0033646,0.0005
+4FEZ-A,ciliary plasm,GO:0097014,0.0005
+4FEZ-A,integral component of membrane,GO:0016021,0.1431
+4FEZ-A,transcription regulator complex,GO:0005667,0.0002
+4FEZ-A,axon,GO:0030424,0.0000
+4FEZ-A,lysosomal membrane,GO:0005765,0.0000
+4FEZ-A,vacuolar lumen,GO:0005775,0.0000
+4FEZ-A,organelle inner membrane,GO:0019866,0.0086
+4FEZ-A,cell-substrate junction,GO:0030055,0.0000
+4FEZ-A,DNA repair complex,GO:1990391,0.0179
+4FEZ-A,microtubule,GO:0005874,0.0003
+4FEZ-A,neuron projection,GO:0043005,0.0012
+4FEZ-A,condensed chromosome, centromeric region,GO:0000779,0.0000
+4FEZ-A,immunoglobulin complex, circulating,GO:0042571,0.0000
+4FEZ-A,secretory granule lumen,GO:0034774,0.0000
+4FEZ-A,cytoplasmic ribonucleoprotein granule,GO:0036464,0.0004
+4FEZ-A,site of polarized growth,GO:0030427,0.0003
+4FEZ-A,cell wall,GO:0005618,0.0482
+4FEZ-A,cell junction,GO:0030054,0.0004
+4FEZ-A,ion channel complex,GO:0034702,0.0000
+4FEZ-A,viral membrane,GO:0036338,0.0001
+4FEZ-A,catalytic step 2 spliceosome,GO:0071013,0.0000
+4FEZ-A,mitochondrial protein complex,GO:0098798,0.0028
+4FEZ-A,distal axon,GO:0150034,0.0000
+4FEZ-A,cell envelope,GO:0030313,0.0561
+4FEZ-A,organelle membrane,GO:0031090,0.0061
+4FEZ-A,endoribonuclease complex,GO:1902555,0.0001
+4FEZ-A,bounding membrane of organelle,GO:0098588,0.0003
+4FEZ-A,plasma membrane,GO:0005886,0.3920
+4FEZ-A,cell body,GO:0044297,0.0001
+4FEZ-A,photosystem I reaction center,GO:0009538,0.0001
+4FEZ-A,periplasmic space,GO:0042597,0.0400
+4FEZ-A,organelle envelope lumen,GO:0031970,0.0037
+4FEZ-A,mitochondrial envelope,GO:0005740,0.0102
+4FEZ-A,virion,GO:0019012,0.0029
+4FEZ-A,cell leading edge,GO:0031252,0.0000
+4FEZ-A,coated membrane,GO:0048475,0.0000
+4FEZ-A,small nucleolar ribonucleoprotein complex,GO:0005732,0.0012
+4FEZ-A,outer membrane,GO:0019867,0.0179
+4FEZ-A,spliceosomal tri-snRNP complex,GO:0097526,0.0000
+4FEZ-A,extracellular exosome,GO:0070062,0.0038
+4FEZ-A,primary lysosome,GO:0005766,0.0000
+4FEZ-A,transferase complex,GO:1990234,0.1566
+4FEZ-A,proton-transporting two-sector ATPase complex, proton-transporting domain,GO:0033177,0.0031
+4FEZ-A,proton-transporting ATP synthase complex, coupling factor F(o),GO:0045263,0.0012
+4FEZ-A,plasma membrane bounded cell projection cytoplasm,GO:0032838,0.0007
+4FEZ-A,spindle,GO:0005819,0.0000
+4FEZ-A,organelle envelope,GO:0031967,0.0173
+4FEZ-A,RNA polymerase II, holoenzyme,GO:0016591,0.0000
+4FEZ-A,nuclear DNA-directed RNA polymerase complex,GO:0055029,0.0000
+4FEZ-A,plasma membrane protein complex,GO:0098797,0.0360
+4FEZ-A,membrane protein complex,GO:0098796,0.1453
+4FEZ-A,mitochondrial outer membrane,GO:0005741,0.0000
+4FEZ-A,postsynaptic density,GO:0014069,0.0000
+4FEZ-A,host cell cytoplasm,GO:0030430,0.0004
+4FEZ-A,host cellular component,GO:0018995,0.0024
+4FEZ-A,proton-transporting two-sector ATPase complex, catalytic domain,GO:0033178,0.0147
+4FEZ-A,condensed chromosome kinetochore,GO:0000777,0.0000
+4FEZ-A,respiratory chain complex I,GO:0045271,0.0001
+4FEZ-A,organelle lumen,GO:0043233,0.0348
+4FEZ-A,cytoplasmic vesicle,GO:0031410,0.0073
+4FEZ-A,collagen-containing extracellular matrix,GO:0062023,0.0000
+4FEZ-A,myosin complex,GO:0016459,0.0000
+4FEZ-A,integral component of organelle membrane,GO:0031301,0.0000
+4FEZ-A,postsynaptic specialization,GO:0099572,0.0000
+4FEZ-A,precatalytic spliceosome,GO:0071011,0.0000
+4FEZ-A,90S preribosome,GO:0030686,0.0000
+4FEZ-A,oxidoreductase complex,GO:1990204,0.1146
+4FEZ-A,ATP-binding cassette (ABC) transporter complex,GO:0043190,0.0259
+4FEZ-A,azurophil granule,GO:0042582,0.0000
+4FEZ-A,synapse,GO:0045202,0.0005
+4FEZ-A,mitochondrial inner membrane,GO:0005743,0.0061
+4FEZ-A,DNA packaging complex,GO:0044815,0.0002
+4FEZ-A,Sm-like protein family complex,GO:0120114,0.0000
+4FEZ-A,RNA polymerase II, core complex,GO:0005665,0.0000
+4FEZ-A,Golgi membrane,GO:0000139,0.0000
+4FEZ-A,proton-transporting ATP synthase complex,GO:0045259,0.0263
+4FEZ-A,chloroplast,GO:0009507,0.0192
+4FEZ-A,external encapsulating structure,GO:0030312,0.1758
+4FEZ-A,pilus,GO:0009289,0.0003
+4FEZ-A,mitochondrial large ribosomal subunit,GO:0005762,0.0000
+4RH6-A,membrane-enclosed lumen,GO:0031974,0.0063
+4RH6-A,focal adhesion,GO:0005925,0.0000
+4RH6-A,early endosome,GO:0005769,0.0000
+4RH6-A,transporter complex,GO:1990351,0.0191
+4RH6-A,nuclear speck,GO:0016607,0.0000
+4RH6-A,mitochondrial ribosome,GO:0005761,0.0000
+4RH6-A,membrane microdomain,GO:0098857,0.0002
+4RH6-A,cell projection membrane,GO:0031253,0.0000
+4RH6-A,transport vesicle,GO:0030133,0.0003
+4RH6-A,chromosome, centromeric region,GO:0000775,0.0000
+4RH6-A,host cell plasma membrane,GO:0020002,0.1192
+4RH6-A,lamellipodium,GO:0030027,0.0000
+4RH6-A,cytoplasmic vesicle membrane,GO:0030659,0.0005
+4RH6-A,nuclear lumen,GO:0031981,0.0018
+4RH6-A,chromosome,GO:0005694,0.0031
+4RH6-A,mitochondrial small ribosomal subunit,GO:0005763,0.0000
+4RH6-A,cytoplasmic side of membrane,GO:0098562,0.0002
+4RH6-A,cytosolic large ribosomal subunit,GO:0022625,0.0000
+4RH6-A,small-subunit processome,GO:0032040,0.0000
+4RH6-A,pore complex,GO:0046930,0.0540
+4RH6-A,vacuole,GO:0005773,0.0520
+4RH6-A,synaptic vesicle,GO:0008021,0.0000
+4RH6-A,supramolecular polymer,GO:0099081,0.0000
+4RH6-A,transmembrane transporter complex,GO:1902495,0.0181
+4RH6-A,U4/U6 x U5 tri-snRNP complex,GO:0046540,0.0000
+4RH6-A,specific granule,GO:0042581,0.0000
+4RH6-A,intrinsic component of plasma membrane,GO:0031226,0.1975
+4RH6-A,ribonucleoprotein granule,GO:0035770,0.0000
+4RH6-A,photosystem I,GO:0009522,0.0000
+4RH6-A,light-harvesting complex,GO:0030076,0.0025
+4RH6-A,receptor complex,GO:0043235,0.0030
+4RH6-A,protein kinase complex,GO:1902911,0.0000
+4RH6-A,whole membrane,GO:0098805,0.0037
+4RH6-A,peroxisome,GO:0005777,0.0002
+4RH6-A,chloroplast thylakoid membrane,GO:0009535,0.0000
+4RH6-A,cytochrome complex,GO:0070069,0.0000
+4RH6-A,nucleolus,GO:0005730,0.0001
+4RH6-A,coated vesicle membrane,GO:0030662,0.0001
+4RH6-A,methyltransferase complex,GO:0034708,0.0000
+4RH6-A,nuclear outer membrane-endoplasmic reticulum membrane network,GO:0042175,0.0004
+4RH6-A,myofibril,GO:0030016,0.0000
+4RH6-A,endosome,GO:0005768,0.0011
+4RH6-A,organelle subcompartment,GO:0031984,0.0003
+4RH6-A,endomembrane system,GO:0012505,0.0381
+4RH6-A,extracellular matrix,GO:0031012,0.2420
+4RH6-A,somatodendritic compartment,GO:0036477,0.0000
+4RH6-A,secretory granule,GO:0030141,0.0012
+4RH6-A,synaptic membrane,GO:0097060,0.0000
+4RH6-A,plastid,GO:0009536,0.0014
+4RH6-A,serine/threonine protein kinase complex,GO:1902554,0.0000
+4RH6-A,host intracellular organelle,GO:0033647,0.0010
+4RH6-A,cullin-RING ubiquitin ligase complex,GO:0031461,0.0000
+4RH6-A,nuclear body,GO:0016604,0.0000
+4RH6-A,proteasome core complex,GO:0005839,0.0000
+4RH6-A,ficolin-1-rich granule,GO:0101002,0.0000
+4RH6-A,endocytic vesicle,GO:0030139,0.0003
+4RH6-A,cell periphery,GO:0071944,0.7198
+4RH6-A,cytoplasmic region,GO:0099568,0.0000
+4RH6-A,RNA polymerase complex,GO:0030880,0.0000
+4RH6-A,proton-transporting two-sector ATPase complex,GO:0016469,0.0000
+4RH6-A,cytosolic ribosome,GO:0022626,0.0001
+4RH6-A,proteasome regulatory particle,GO:0005838,0.0000
+4RH6-A,organellar large ribosomal subunit,GO:0000315,0.0000
+4RH6-A,mediator complex,GO:0016592,0.0000
+4RH6-A,sarcomere,GO:0030017,0.0000
+4RH6-A,large ribosomal subunit,GO:0015934,0.0001
+4RH6-A,U2-type spliceosomal complex,GO:0005684,0.0000
+4RH6-A,photosystem,GO:0009521,0.0008
+4RH6-A,organelle outer membrane,GO:0031968,0.0000
+4RH6-A,viral nucleocapsid,GO:0019013,0.0001
+4RH6-A,cell projection,GO:0042995,0.0402
+4RH6-A,late endosome,GO:0005770,0.0000
+4RH6-A,viral capsid,GO:0019028,0.0017
+4RH6-A,intracellular organelle lumen,GO:0070013,0.0043
+4RH6-A,host intracellular membrane-bounded organelle,GO:0033648,0.0009
+4RH6-A,postsynapse,GO:0098794,0.0002
+4RH6-A,lysosome,GO:0005764,0.0253
+4RH6-A,ribosomal subunit,GO:0044391,0.0003
+4RH6-A,plasma membrane region,GO:0098590,0.0001
+4RH6-A,chromatin,GO:0000785,0.0000
+4RH6-A,plastid thylakoid membrane,GO:0055035,0.0000
+4RH6-A,extracellular region,GO:0005576,0.9961
+4RH6-A,polymeric cytoskeletal fiber,GO:0099513,0.0000
+4RH6-A,perinuclear region of cytoplasm,GO:0048471,0.0000
+4RH6-A,transport vesicle membrane,GO:0030658,0.0000
+4RH6-A,catalytic complex,GO:1902494,0.0095
+4RH6-A,nuclear pore,GO:0005643,0.0002
+4RH6-A,histone methyltransferase complex,GO:0035097,0.0000
+4RH6-A,actin cytoskeleton,GO:0015629,0.0000
+4RH6-A,respiratory chain complex,GO:0098803,0.0000
+4RH6-A,vacuolar membrane,GO:0005774,0.0000
+4RH6-A,virion part,GO:0044423,0.0106
+4RH6-A,nucleoplasm,GO:0005654,0.0010
+4RH6-A,supramolecular fiber,GO:0099512,0.0000
+4RH6-A,non-membrane-bounded organelle,GO:0043228,0.0274
+4RH6-A,phycobilisome,GO:0030089,0.0001
+4RH6-A,dendrite,GO:0030425,0.0000
+4RH6-A,cell outer membrane,GO:0009279,0.5082
+4RH6-A,cell division site,GO:0032153,0.0011
+4RH6-A,cytoplasmic side of plasma membrane,GO:0009898,0.0002
+4RH6-A,nuclear chromatin,GO:0000790,0.0000
+4RH6-A,virion membrane,GO:0055036,0.0049
+4RH6-A,inner mitochondrial membrane protein complex,GO:0098800,0.0000
+4RH6-A,ribosome,GO:0005840,0.0011
+4RH6-A,thylakoid,GO:0009579,0.0015
+4RH6-A,nuclear envelope,GO:0005635,0.0027
+4RH6-A,spliceosomal snRNP complex,GO:0097525,0.0000
+4RH6-A,NADH dehydrogenase complex,GO:0030964,0.0001
+4RH6-A,nucleoid,GO:0009295,0.0001
+4RH6-A,respirasome,GO:0070469,0.0035
+4RH6-A,neuron to neuron synapse,GO:0098984,0.0000
+4RH6-A,bacterial-type flagellum,GO:0009288,0.0004
+4RH6-A,cell surface,GO:0009986,0.1694
+4RH6-A,host cell membrane,GO:0033644,0.1396
+4RH6-A,peptidase complex,GO:1905368,0.0000
+4RH6-A,icosahedral viral capsid,GO:0019030,0.0001
+4RH6-A,hemoglobin complex,GO:0005833,0.0000
+4RH6-A,ribonucleoprotein complex,GO:1990904,0.0008
+4RH6-A,photosynthetic membrane,GO:0034357,0.0029
+4RH6-A,replication fork,GO:0005657,0.0003
+4RH6-A,mitochondrion,GO:0005739,0.0019
+4RH6-A,viral envelope,GO:0019031,0.0107
+4RH6-A,proteasome complex,GO:0000502,0.0000
+4RH6-A,cytosol,GO:0005829,0.0183
+4RH6-A,mitochondrial matrix,GO:0005759,0.0004
+4RH6-A,ubiquitin ligase complex,GO:0000151,0.0000
+4RH6-A,outer membrane-bounded periplasmic space,GO:0030288,0.0542
+4RH6-A,transferase complex, transferring phosphorus-containing groups,GO:0061695,0.0008
+4RH6-A,dendritic tree,GO:0097447,0.0000
+4RH6-A,host intracellular region,GO:0043656,0.0015
+4RH6-A,acetyltransferase complex,GO:1902493,0.0000
+4RH6-A,supramolecular complex,GO:0099080,0.0004
+4RH6-A,coated vesicle,GO:0030135,0.0002
+4RH6-A,plasma membrane bounded cell projection,GO:0120025,0.0013
+4RH6-A,presynapse,GO:0098793,0.0001
+4RH6-A,neuronal cell body,GO:0043025,0.0000
+4RH6-A,endosome membrane,GO:0010008,0.0000
+4RH6-A,phagocytic vesicle,GO:0045335,0.0000
+4RH6-A,extrinsic component of plasma membrane,GO:0019897,0.0004
+4RH6-A,centrosome,GO:0005813,0.0000
+4RH6-A,nuclear chromosome,GO:0000228,0.0001
+4RH6-A,actin-based cell projection,GO:0098858,0.0009
+4RH6-A,preribosome,GO:0030684,0.0000
+4RH6-A,histone acetyltransferase complex,GO:0000123,0.0000
+4RH6-A,chromosomal region,GO:0098687,0.0002
+4RH6-A,kinetochore,GO:0000776,0.0000
+4RH6-A,extracellular vesicle,GO:1903561,0.0080
+4RH6-A,vesicle membrane,GO:0012506,0.0002
+4RH6-A,anchoring junction,GO:0070161,0.0006
+4RH6-A,exocytic vesicle,GO:0070382,0.0000
+4RH6-A,envelope,GO:0031975,0.3450
+4RH6-A,glutamatergic synapse,GO:0098978,0.0000
+4RH6-A,proteasome accessory complex,GO:0022624,0.0000
+4RH6-A,chromosome, telomeric region,GO:0000781,0.0003
+4RH6-A,lytic vacuole,GO:0000323,0.0338
+4RH6-A,membrane region,GO:0098589,0.0002
+4RH6-A,small nuclear ribonucleoprotein complex,GO:0030532,0.0000
+4RH6-A,cytoskeleton,GO:0005856,0.0004
+4RH6-A,endopeptidase complex,GO:1905369,0.0000
+4RH6-A,organellar ribosome,GO:0000313,0.0000
+4RH6-A,integral component of plasma membrane,GO:0005887,0.1312
+4RH6-A,storage vacuole,GO:0000322,0.0057
+4RH6-A,ATPase complex,GO:1904949,0.0000
+4RH6-A,membrane raft,GO:0045121,0.0001
+4RH6-A,SWI/SNF superfamily-type complex,GO:0070603,0.0000
+4RH6-A,vesicle,GO:0031982,0.1379
+4RH6-A,small ribosomal subunit,GO:0015935,0.0001
+4RH6-A,ficolin-1-rich granule lumen,GO:1904813,0.0000
+4RH6-A,preribosome, large subunit precursor,GO:0030687,0.0000
+4RH6-A,U2-type precatalytic spliceosome,GO:0071005,0.0000
+4RH6-A,host cell,GO:0043657,0.0471
+4RH6-A,external side of plasma membrane,GO:0009897,0.0072
+4RH6-A,host cell nucleus,GO:0042025,0.0002
+4RH6-A,mitochondrial respirasome,GO:0005746,0.0000
+4RH6-A,intrinsic component of membrane,GO:0031224,0.7986
+4RH6-A,endoplasmic reticulum membrane,GO:0005789,0.0005
+4RH6-A,extracellular organelle,GO:0043230,0.0502
+4RH6-A,vesicle lumen,GO:0031983,0.0001
+4RH6-A,plasma membrane signaling receptor complex,GO:0098802,0.0026
+4RH6-A,nuclear membrane,GO:0031965,0.0000
+4RH6-A,endoplasmic reticulum,GO:0005783,0.0064
+4RH6-A,protein-DNA complex,GO:0032993,0.0004
+4RH6-A,RNA polymerase II transcription regulator complex,GO:0090575,0.0000
+4RH6-A,microtubule cytoskeleton,GO:0015630,0.0001
+4RH6-A,Golgi-associated vesicle,GO:0005798,0.0000
+4RH6-A,membrane coat,GO:0030117,0.0000
+4RH6-A,microtubule associated complex,GO:0005875,0.0000
+4RH6-A,mitochondrial respiratory chain complex I,GO:0005747,0.0000
+4RH6-A,cation channel complex,GO:0034703,0.0002
+4RH6-A,thylakoid membrane,GO:0042651,0.0020
+4RH6-A,secretory vesicle,GO:0099503,0.0084
+4RH6-A,secretory granule membrane,GO:0030667,0.0000
+4RH6-A,spliceosomal complex,GO:0005681,0.0000
+4RH6-A,extrinsic component of membrane,GO:0019898,0.0017
+4RH6-A,Golgi apparatus,GO:0005794,0.0058
+4RH6-A,extracellular space,GO:0005615,0.6974
+4RH6-A,immunoglobulin complex,GO:0019814,0.0029
+4RH6-A,blood microparticle,GO:0072562,0.0011
+4RH6-A,apical part of cell,GO:0045177,0.0013
+4RH6-A,proton-transporting ATP synthase complex, catalytic core F(1),GO:0045261,0.0000
+4RH6-A,contractile fiber,GO:0043292,0.0000
+4RH6-A,DNA-directed RNA polymerase complex,GO:0000428,0.0000
+4RH6-A,condensed nuclear chromosome,GO:0000794,0.0000
+4RH6-A,endonuclease complex,GO:1905348,0.0000
+4RH6-A,organellar small ribosomal subunit,GO:0000314,0.0000
+4RH6-A,cell cortex,GO:0005938,0.0037
+4RH6-A,MHC protein complex,GO:0042611,0.0018
+4RH6-A,cytosolic small ribosomal subunit,GO:0022627,0.0000
+4RH6-A,intracellular vesicle,GO:0097708,0.1384
+4RH6-A,nucleus,GO:0005634,0.0116
+4RH6-A,cilium,GO:0005929,0.0001
+4RH6-A,mitochondrial intermembrane space,GO:0005758,0.0000
+4RH6-A,photosystem II,GO:0009523,0.0012
+4RH6-A,cell-cell junction,GO:0005911,0.0010
+4RH6-A,Golgi apparatus subcompartment,GO:0098791,0.0000
+4RH6-A,intracellular non-membrane-bounded organelle,GO:0043232,0.0241
+4RH6-A,rough endoplasmic reticulum,GO:0005791,0.0000
+4RH6-A,asymmetric synapse,GO:0032279,0.0000
+4RH6-A,cytoplasmic vesicle lumen,GO:0060205,0.0000
+4RH6-A,apical plasma membrane,GO:0016324,0.0000
+4RH6-A,P-body,GO:0000932,0.0000
+4RH6-A,Golgi-associated vesicle membrane,GO:0030660,0.0000
+4RH6-A,protein acetyltransferase complex,GO:0031248,0.0000
+4RH6-A,microbody,GO:0042579,0.0004
+4RH6-A,condensed chromosome,GO:0000793,0.0000
+4RH6-A,ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing,GO:0055052,0.0000
+4RH6-A,signal recognition particle,GO:0048500,0.0000
+4RH6-A,endoplasmic reticulum lumen,GO:0005788,0.0004
+4RH6-A,chloroplast thylakoid,GO:0009534,0.0000
+4RH6-A,plastid thylakoid,GO:0031976,0.0000
+4RH6-A,potassium channel complex,GO:0034705,0.0000
+4RH6-A,nucleosome,GO:0000786,0.0000
+4RH6-A,host cell part,GO:0033643,0.0520
+4RH6-A,lytic vacuole membrane,GO:0098852,0.0000
+4RH6-A,side of membrane,GO:0098552,0.0554
+4RH6-A,ATPase dependent transmembrane transport complex,GO:0098533,0.0142
+4RH6-A,intrinsic component of organelle membrane,GO:0031300,0.0001
+4RH6-A,mitochondrial membrane,GO:0031966,0.0005
+4RH6-A,microtubule organizing center,GO:0005815,0.0000
+4RH6-A,host intracellular part,GO:0033646,0.0027
+4RH6-A,ciliary plasm,GO:0097014,0.0000
+4RH6-A,integral component of membrane,GO:0016021,0.7078
+4RH6-A,transcription regulator complex,GO:0005667,0.0004
+4RH6-A,axon,GO:0030424,0.0002
+4RH6-A,lysosomal membrane,GO:0005765,0.0000
+4RH6-A,vacuolar lumen,GO:0005775,0.0003
+4RH6-A,organelle inner membrane,GO:0019866,0.0006
+4RH6-A,cell-substrate junction,GO:0030055,0.0000
+4RH6-A,DNA repair complex,GO:1990391,0.0000
+4RH6-A,microtubule,GO:0005874,0.0000
+4RH6-A,neuron projection,GO:0043005,0.0014
+4RH6-A,condensed chromosome, centromeric region,GO:0000779,0.0000
+4RH6-A,immunoglobulin complex, circulating,GO:0042571,0.0012
+4RH6-A,secretory granule lumen,GO:0034774,0.0000
+4RH6-A,cytoplasmic ribonucleoprotein granule,GO:0036464,0.0000
+4RH6-A,site of polarized growth,GO:0030427,0.0004
+4RH6-A,cell wall,GO:0005618,0.4686
+4RH6-A,cell junction,GO:0030054,0.0040
+4RH6-A,ion channel complex,GO:0034702,0.0002
+4RH6-A,viral membrane,GO:0036338,0.0134
+4RH6-A,catalytic step 2 spliceosome,GO:0071013,0.0000
+4RH6-A,mitochondrial protein complex,GO:0098798,0.0005
+4RH6-A,distal axon,GO:0150034,0.0000
+4RH6-A,cell envelope,GO:0030313,0.3916
+4RH6-A,organelle membrane,GO:0031090,0.0109
+4RH6-A,endoribonuclease complex,GO:1902555,0.0000
+4RH6-A,bounding membrane of organelle,GO:0098588,0.0033
+4RH6-A,plasma membrane,GO:0005886,0.3284
+4RH6-A,cell body,GO:0044297,0.0000
+4RH6-A,photosystem I reaction center,GO:0009538,0.0000
+4RH6-A,periplasmic space,GO:0042597,0.1282
+4RH6-A,organelle envelope lumen,GO:0031970,0.0000
+4RH6-A,mitochondrial envelope,GO:0005740,0.0003
+4RH6-A,virion,GO:0019012,0.0160
+4RH6-A,cell leading edge,GO:0031252,0.0000
+4RH6-A,coated membrane,GO:0048475,0.0000
+4RH6-A,small nucleolar ribonucleoprotein complex,GO:0005732,0.0000
+4RH6-A,outer membrane,GO:0019867,0.5080
+4RH6-A,spliceosomal tri-snRNP complex,GO:0097526,0.0000
+4RH6-A,extracellular exosome,GO:0070062,0.0054
+4RH6-A,primary lysosome,GO:0005766,0.0000
+4RH6-A,transferase complex,GO:1990234,0.0014
+4RH6-A,proton-transporting two-sector ATPase complex, proton-transporting domain,GO:0033177,0.0000
+4RH6-A,proton-transporting ATP synthase complex, coupling factor F(o),GO:0045263,0.0000
+4RH6-A,plasma membrane bounded cell projection cytoplasm,GO:0032838,0.0000
+4RH6-A,spindle,GO:0005819,0.0000
+4RH6-A,organelle envelope,GO:0031967,0.0099
+4RH6-A,RNA polymerase II, holoenzyme,GO:0016591,0.0000
+4RH6-A,nuclear DNA-directed RNA polymerase complex,GO:0055029,0.0000
+4RH6-A,plasma membrane protein complex,GO:0098797,0.1007
+4RH6-A,membrane protein complex,GO:0098796,0.2643
+4RH6-A,mitochondrial outer membrane,GO:0005741,0.0000
+4RH6-A,postsynaptic density,GO:0014069,0.0000
+4RH6-A,host cell cytoplasm,GO:0030430,0.0057
+4RH6-A,host cellular component,GO:0018995,0.0542
+4RH6-A,proton-transporting two-sector ATPase complex, catalytic domain,GO:0033178,0.0000
+4RH6-A,condensed chromosome kinetochore,GO:0000777,0.0000
+4RH6-A,respiratory chain complex I,GO:0045271,0.0000
+4RH6-A,organelle lumen,GO:0043233,0.0047
+4RH6-A,cytoplasmic vesicle,GO:0031410,0.1177
+4RH6-A,collagen-containing extracellular matrix,GO:0062023,0.0080
+4RH6-A,myosin complex,GO:0016459,0.0000
+4RH6-A,integral component of organelle membrane,GO:0031301,0.0001
+4RH6-A,postsynaptic specialization,GO:0099572,0.0000
+4RH6-A,precatalytic spliceosome,GO:0071011,0.0000
+4RH6-A,90S preribosome,GO:0030686,0.0000
+4RH6-A,oxidoreductase complex,GO:1990204,0.0051
+4RH6-A,ATP-binding cassette (ABC) transporter complex,GO:0043190,0.0150
+4RH6-A,azurophil granule,GO:0042582,0.0000
+4RH6-A,synapse,GO:0045202,0.0013
+4RH6-A,mitochondrial inner membrane,GO:0005743,0.0002
+4RH6-A,DNA packaging complex,GO:0044815,0.0000
+4RH6-A,Sm-like protein family complex,GO:0120114,0.0000
+4RH6-A,RNA polymerase II, core complex,GO:0005665,0.0000
+4RH6-A,Golgi membrane,GO:0000139,0.0002
+4RH6-A,proton-transporting ATP synthase complex,GO:0045259,0.0000
+4RH6-A,chloroplast,GO:0009507,0.0007
+4RH6-A,external encapsulating structure,GO:0030312,0.7527
+4RH6-A,pilus,GO:0009289,0.0377
+4RH6-A,mitochondrial large ribosomal subunit,GO:0005762,0.0000
+6ASO-C,membrane-enclosed lumen,GO:0031974,0.4971
+6ASO-C,focal adhesion,GO:0005925,0.0002
+6ASO-C,early endosome,GO:0005769,0.0001
+6ASO-C,transporter complex,GO:1990351,0.0004
+6ASO-C,nuclear speck,GO:0016607,0.0023
+6ASO-C,mitochondrial ribosome,GO:0005761,0.0026
+6ASO-C,membrane microdomain,GO:0098857,0.0000
+6ASO-C,cell projection membrane,GO:0031253,0.0000
+6ASO-C,transport vesicle,GO:0030133,0.0055
+6ASO-C,chromosome, centromeric region,GO:0000775,0.0513
+6ASO-C,host cell plasma membrane,GO:0020002,0.0001
+6ASO-C,lamellipodium,GO:0030027,0.0001
+6ASO-C,cytoplasmic vesicle membrane,GO:0030659,0.0025
+6ASO-C,nuclear lumen,GO:0031981,0.4877
+6ASO-C,chromosome,GO:0005694,0.2979
+6ASO-C,mitochondrial small ribosomal subunit,GO:0005763,0.0021
+6ASO-C,cytoplasmic side of membrane,GO:0098562,0.0050
+6ASO-C,cytosolic large ribosomal subunit,GO:0022625,0.0150
+6ASO-C,small-subunit processome,GO:0032040,0.0375
+6ASO-C,pore complex,GO:0046930,0.0000
+6ASO-C,vacuole,GO:0005773,0.0309
+6ASO-C,synaptic vesicle,GO:0008021,0.0001
+6ASO-C,supramolecular polymer,GO:0099081,0.0022
+6ASO-C,transmembrane transporter complex,GO:1902495,0.0004
+6ASO-C,U4/U6 x U5 tri-snRNP complex,GO:0046540,0.4211
+6ASO-C,specific granule,GO:0042581,0.0000
+6ASO-C,intrinsic component of plasma membrane,GO:0031226,0.0004
+6ASO-C,ribonucleoprotein granule,GO:0035770,0.1038
+6ASO-C,photosystem I,GO:0009522,0.0000
+6ASO-C,light-harvesting complex,GO:0030076,0.0000
+6ASO-C,receptor complex,GO:0043235,0.0001
+6ASO-C,protein kinase complex,GO:1902911,0.0028
+6ASO-C,whole membrane,GO:0098805,0.0446
+6ASO-C,peroxisome,GO:0005777,0.0027
+6ASO-C,chloroplast thylakoid membrane,GO:0009535,0.0001
+6ASO-C,cytochrome complex,GO:0070069,0.0000
+6ASO-C,nucleolus,GO:0005730,0.1252
+6ASO-C,coated vesicle membrane,GO:0030662,0.0046
+6ASO-C,methyltransferase complex,GO:0034708,0.0905
+6ASO-C,nuclear outer membrane-endoplasmic reticulum membrane network,GO:0042175,0.0216
+6ASO-C,myofibril,GO:0030016,0.0000
+6ASO-C,endosome,GO:0005768,0.0214
+6ASO-C,organelle subcompartment,GO:0031984,0.0006
+6ASO-C,endomembrane system,GO:0012505,0.1565
+6ASO-C,extracellular matrix,GO:0031012,0.0035
+6ASO-C,somatodendritic compartment,GO:0036477,0.0002
+6ASO-C,secretory granule,GO:0030141,0.0023
+6ASO-C,synaptic membrane,GO:0097060,0.0000
+6ASO-C,plastid,GO:0009536,0.0019
+6ASO-C,serine/threonine protein kinase complex,GO:1902554,0.0002
+6ASO-C,host intracellular organelle,GO:0033647,0.0006
+6ASO-C,cullin-RING ubiquitin ligase complex,GO:0031461,0.0261
+6ASO-C,nuclear body,GO:0016604,0.0052
+6ASO-C,proteasome core complex,GO:0005839,0.0086
+6ASO-C,ficolin-1-rich granule,GO:0101002,0.0001
+6ASO-C,endocytic vesicle,GO:0030139,0.0011
+6ASO-C,cell periphery,GO:0071944,0.0115
+6ASO-C,cytoplasmic region,GO:0099568,0.0020
+6ASO-C,RNA polymerase complex,GO:0030880,0.0867
+6ASO-C,proton-transporting two-sector ATPase complex,GO:0016469,0.0021
+6ASO-C,cytosolic ribosome,GO:0022626,0.0537
+6ASO-C,proteasome regulatory particle,GO:0005838,0.0060
+6ASO-C,organellar large ribosomal subunit,GO:0000315,0.0004
+6ASO-C,mediator complex,GO:0016592,0.0139
+6ASO-C,sarcomere,GO:0030017,0.0000
+6ASO-C,large ribosomal subunit,GO:0015934,0.0267
+6ASO-C,U2-type spliceosomal complex,GO:0005684,0.1293
+6ASO-C,photosystem,GO:0009521,0.0002
+6ASO-C,organelle outer membrane,GO:0031968,0.0101
+6ASO-C,viral nucleocapsid,GO:0019013,0.0000
+6ASO-C,cell projection,GO:0042995,0.0332
+6ASO-C,late endosome,GO:0005770,0.0024
+6ASO-C,viral capsid,GO:0019028,0.0006
+6ASO-C,intracellular organelle lumen,GO:0070013,0.4886
+6ASO-C,host intracellular membrane-bounded organelle,GO:0033648,0.0009
+6ASO-C,postsynapse,GO:0098794,0.0002
+6ASO-C,lysosome,GO:0005764,0.0065
+6ASO-C,ribosomal subunit,GO:0044391,0.0518
+6ASO-C,plasma membrane region,GO:0098590,0.0001
+6ASO-C,chromatin,GO:0000785,0.1465
+6ASO-C,plastid thylakoid membrane,GO:0055035,0.0000
+6ASO-C,extracellular region,GO:0005576,0.0217
+6ASO-C,polymeric cytoskeletal fiber,GO:0099513,0.0022
+6ASO-C,perinuclear region of cytoplasm,GO:0048471,0.0005
+6ASO-C,transport vesicle membrane,GO:0030658,0.0020
+6ASO-C,catalytic complex,GO:1902494,0.6800
+6ASO-C,nuclear pore,GO:0005643,0.0135
+6ASO-C,histone methyltransferase complex,GO:0035097,0.0386
+6ASO-C,actin cytoskeleton,GO:0015629,0.0013
+6ASO-C,respiratory chain complex,GO:0098803,0.0001
+6ASO-C,vacuolar membrane,GO:0005774,0.0177
+6ASO-C,virion part,GO:0044423,0.0006
+6ASO-C,nucleoplasm,GO:0005654,0.4329
+6ASO-C,supramolecular fiber,GO:0099512,0.0019
+6ASO-C,non-membrane-bounded organelle,GO:0043228,0.4921
+6ASO-C,phycobilisome,GO:0030089,0.0000
+6ASO-C,dendrite,GO:0030425,0.0000
+6ASO-C,cell outer membrane,GO:0009279,0.0001
+6ASO-C,cell division site,GO:0032153,0.0115
+6ASO-C,cytoplasmic side of plasma membrane,GO:0009898,0.0004
+6ASO-C,nuclear chromatin,GO:0000790,0.0525
+6ASO-C,virion membrane,GO:0055036,0.0000
+6ASO-C,inner mitochondrial membrane protein complex,GO:0098800,0.0007
+6ASO-C,ribosome,GO:0005840,0.1138
+6ASO-C,thylakoid,GO:0009579,0.0003
+6ASO-C,nuclear envelope,GO:0005635,0.0191
+6ASO-C,spliceosomal snRNP complex,GO:0097525,0.4936
+6ASO-C,NADH dehydrogenase complex,GO:0030964,0.0001
+6ASO-C,nucleoid,GO:0009295,0.0012
+6ASO-C,respirasome,GO:0070469,0.0004
+6ASO-C,neuron to neuron synapse,GO:0098984,0.0002
+6ASO-C,bacterial-type flagellum,GO:0009288,0.0012
+6ASO-C,cell surface,GO:0009986,0.0004
+6ASO-C,host cell membrane,GO:0033644,0.0000
+6ASO-C,peptidase complex,GO:1905368,0.0842
+6ASO-C,icosahedral viral capsid,GO:0019030,0.0001
+6ASO-C,hemoglobin complex,GO:0005833,0.0000
+6ASO-C,ribonucleoprotein complex,GO:1990904,0.4376
+6ASO-C,photosynthetic membrane,GO:0034357,0.0006
+6ASO-C,replication fork,GO:0005657,0.0408
+6ASO-C,mitochondrion,GO:0005739,0.0825
+6ASO-C,viral envelope,GO:0019031,0.0000
+6ASO-C,proteasome complex,GO:0000502,0.0463
+6ASO-C,cytosol,GO:0005829,0.2935
+6ASO-C,mitochondrial matrix,GO:0005759,0.0063
+6ASO-C,ubiquitin ligase complex,GO:0000151,0.0410
+6ASO-C,outer membrane-bounded periplasmic space,GO:0030288,0.0001
+6ASO-C,transferase complex, transferring phosphorus-containing groups,GO:0061695,0.1441
+6ASO-C,dendritic tree,GO:0097447,0.0000
+6ASO-C,host intracellular region,GO:0043656,0.0004
+6ASO-C,acetyltransferase complex,GO:1902493,0.0237
+6ASO-C,supramolecular complex,GO:0099080,0.0666
+6ASO-C,coated vesicle,GO:0030135,0.0042
+6ASO-C,plasma membrane bounded cell projection,GO:0120025,0.0190
+6ASO-C,presynapse,GO:0098793,0.0001
+6ASO-C,neuronal cell body,GO:0043025,0.0001
+6ASO-C,endosome membrane,GO:0010008,0.0092
+6ASO-C,phagocytic vesicle,GO:0045335,0.0010
+6ASO-C,extrinsic component of plasma membrane,GO:0019897,0.0001
+6ASO-C,centrosome,GO:0005813,0.0026
+6ASO-C,nuclear chromosome,GO:0000228,0.1255
+6ASO-C,actin-based cell projection,GO:0098858,0.0000
+6ASO-C,preribosome,GO:0030684,0.0620
+6ASO-C,histone acetyltransferase complex,GO:0000123,0.0204
+6ASO-C,chromosomal region,GO:0098687,0.0878
+6ASO-C,kinetochore,GO:0000776,0.0334
+6ASO-C,extracellular vesicle,GO:1903561,0.0048
+6ASO-C,vesicle membrane,GO:0012506,0.0028
+6ASO-C,anchoring junction,GO:0070161,0.0012
+6ASO-C,exocytic vesicle,GO:0070382,0.0000
+6ASO-C,envelope,GO:0031975,0.0983
+6ASO-C,glutamatergic synapse,GO:0098978,0.0000
+6ASO-C,proteasome accessory complex,GO:0022624,0.0076
+6ASO-C,chromosome, telomeric region,GO:0000781,0.0239
+6ASO-C,lytic vacuole,GO:0000323,0.0209
+6ASO-C,membrane region,GO:0098589,0.0000
+6ASO-C,small nuclear ribonucleoprotein complex,GO:0030532,0.4862
+6ASO-C,cytoskeleton,GO:0005856,0.0187
+6ASO-C,endopeptidase complex,GO:1905369,0.0570
+6ASO-C,organellar ribosome,GO:0000313,0.0050
+6ASO-C,integral component of plasma membrane,GO:0005887,0.0003
+6ASO-C,storage vacuole,GO:0000322,0.0096
+6ASO-C,ATPase complex,GO:1904949,0.0523
+6ASO-C,membrane raft,GO:0045121,0.0000
+6ASO-C,SWI/SNF superfamily-type complex,GO:0070603,0.0220
+6ASO-C,vesicle,GO:0031982,0.1081
+6ASO-C,small ribosomal subunit,GO:0015935,0.0466
+6ASO-C,ficolin-1-rich granule lumen,GO:1904813,0.0001
+6ASO-C,preribosome, large subunit precursor,GO:0030687,0.0325
+6ASO-C,U2-type precatalytic spliceosome,GO:0071005,0.0016
+6ASO-C,host cell,GO:0043657,0.0014
+6ASO-C,external side of plasma membrane,GO:0009897,0.0000
+6ASO-C,host cell nucleus,GO:0042025,0.0004
+6ASO-C,mitochondrial respirasome,GO:0005746,0.0001
+6ASO-C,intrinsic component of membrane,GO:0031224,0.0021
+6ASO-C,endoplasmic reticulum membrane,GO:0005789,0.0131
+6ASO-C,extracellular organelle,GO:0043230,0.0040
+6ASO-C,vesicle lumen,GO:0031983,0.0002
+6ASO-C,plasma membrane signaling receptor complex,GO:0098802,0.0000
+6ASO-C,nuclear membrane,GO:0031965,0.0011
+6ASO-C,endoplasmic reticulum,GO:0005783,0.0508
+6ASO-C,protein-DNA complex,GO:0032993,0.0648
+6ASO-C,RNA polymerase II transcription regulator complex,GO:0090575,0.0531
+6ASO-C,microtubule cytoskeleton,GO:0015630,0.0109
+6ASO-C,Golgi-associated vesicle,GO:0005798,0.0060
+6ASO-C,membrane coat,GO:0030117,0.0034
+6ASO-C,microtubule associated complex,GO:0005875,0.0020
+6ASO-C,mitochondrial respiratory chain complex I,GO:0005747,0.0001
+6ASO-C,cation channel complex,GO:0034703,0.0000
+6ASO-C,thylakoid membrane,GO:0042651,0.0002
+6ASO-C,secretory vesicle,GO:0099503,0.0035
+6ASO-C,secretory granule membrane,GO:0030667,0.0000
+6ASO-C,spliceosomal complex,GO:0005681,0.2996
+6ASO-C,extrinsic component of membrane,GO:0019898,0.0082
+6ASO-C,Golgi apparatus,GO:0005794,0.0117
+6ASO-C,extracellular space,GO:0005615,0.0140
+6ASO-C,immunoglobulin complex,GO:0019814,0.0000
+6ASO-C,blood microparticle,GO:0072562,0.0000
+6ASO-C,apical part of cell,GO:0045177,0.0000
+6ASO-C,proton-transporting ATP synthase complex, catalytic core F(1),GO:0045261,0.0007
+6ASO-C,contractile fiber,GO:0043292,0.0000
+6ASO-C,DNA-directed RNA polymerase complex,GO:0000428,0.0884
+6ASO-C,condensed nuclear chromosome,GO:0000794,0.0051
+6ASO-C,endonuclease complex,GO:1905348,0.0050
+6ASO-C,organellar small ribosomal subunit,GO:0000314,0.0056
+6ASO-C,cell cortex,GO:0005938,0.0067
+6ASO-C,MHC protein complex,GO:0042611,0.0000
+6ASO-C,cytosolic small ribosomal subunit,GO:0022627,0.0237
+6ASO-C,intracellular vesicle,GO:0097708,0.0644
+6ASO-C,nucleus,GO:0005634,0.7064
+6ASO-C,cilium,GO:0005929,0.0061
+6ASO-C,mitochondrial intermembrane space,GO:0005758,0.0022
+6ASO-C,photosystem II,GO:0009523,0.0000
+6ASO-C,cell-cell junction,GO:0005911,0.0004
+6ASO-C,Golgi apparatus subcompartment,GO:0098791,0.0001
+6ASO-C,intracellular non-membrane-bounded organelle,GO:0043232,0.4743
+6ASO-C,rough endoplasmic reticulum,GO:0005791,0.0006
+6ASO-C,asymmetric synapse,GO:0032279,0.0001
+6ASO-C,cytoplasmic vesicle lumen,GO:0060205,0.0004
+6ASO-C,apical plasma membrane,GO:0016324,0.0000
+6ASO-C,P-body,GO:0000932,0.0317
+6ASO-C,Golgi-associated vesicle membrane,GO:0030660,0.0024
+6ASO-C,protein acetyltransferase complex,GO:0031248,0.0240
+6ASO-C,microbody,GO:0042579,0.0034
+6ASO-C,condensed chromosome,GO:0000793,0.0295
+6ASO-C,ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing,GO:0055052,0.0000
+6ASO-C,signal recognition particle,GO:0048500,0.0044
+6ASO-C,endoplasmic reticulum lumen,GO:0005788,0.0002
+6ASO-C,chloroplast thylakoid,GO:0009534,0.0000
+6ASO-C,plastid thylakoid,GO:0031976,0.0001
+6ASO-C,potassium channel complex,GO:0034705,0.0000
+6ASO-C,nucleosome,GO:0000786,0.0046
+6ASO-C,host cell part,GO:0033643,0.0005
+6ASO-C,lytic vacuole membrane,GO:0098852,0.0033
+6ASO-C,side of membrane,GO:0098552,0.0045
+6ASO-C,ATPase dependent transmembrane transport complex,GO:0098533,0.0001
+6ASO-C,intrinsic component of organelle membrane,GO:0031300,0.0003
+6ASO-C,mitochondrial membrane,GO:0031966,0.0244
+6ASO-C,microtubule organizing center,GO:0005815,0.0092
+6ASO-C,host intracellular part,GO:0033646,0.0005
+6ASO-C,ciliary plasm,GO:0097014,0.0017
+6ASO-C,integral component of membrane,GO:0016021,0.0023
+6ASO-C,transcription regulator complex,GO:0005667,0.0371
+6ASO-C,axon,GO:0030424,0.0001
+6ASO-C,lysosomal membrane,GO:0005765,0.0000
+6ASO-C,vacuolar lumen,GO:0005775,0.0001
+6ASO-C,organelle inner membrane,GO:0019866,0.0034
+6ASO-C,cell-substrate junction,GO:0030055,0.0003
+6ASO-C,DNA repair complex,GO:1990391,0.0120
+6ASO-C,microtubule,GO:0005874,0.0041
+6ASO-C,neuron projection,GO:0043005,0.0008
+6ASO-C,condensed chromosome, centromeric region,GO:0000779,0.0078
+6ASO-C,immunoglobulin complex, circulating,GO:0042571,0.0000
+6ASO-C,secretory granule lumen,GO:0034774,0.0006
+6ASO-C,cytoplasmic ribonucleoprotein granule,GO:0036464,0.1231
+6ASO-C,site of polarized growth,GO:0030427,0.0137
+6ASO-C,cell wall,GO:0005618,0.0021
+6ASO-C,cell junction,GO:0030054,0.0024
+6ASO-C,ion channel complex,GO:0034702,0.0000
+6ASO-C,viral membrane,GO:0036338,0.0000
+6ASO-C,catalytic step 2 spliceosome,GO:0071013,0.2158
+6ASO-C,mitochondrial protein complex,GO:0098798,0.0228
+6ASO-C,distal axon,GO:0150034,0.0000
+6ASO-C,cell envelope,GO:0030313,0.0003
+6ASO-C,organelle membrane,GO:0031090,0.0628
+6ASO-C,endoribonuclease complex,GO:1902555,0.0060
+6ASO-C,bounding membrane of organelle,GO:0098588,0.0404
+6ASO-C,plasma membrane,GO:0005886,0.0050
+6ASO-C,cell body,GO:0044297,0.0002
+6ASO-C,photosystem I reaction center,GO:0009538,0.0000
+6ASO-C,periplasmic space,GO:0042597,0.0001
+6ASO-C,organelle envelope lumen,GO:0031970,0.0024
+6ASO-C,mitochondrial envelope,GO:0005740,0.0266
+6ASO-C,virion,GO:0019012,0.0006
+6ASO-C,cell leading edge,GO:0031252,0.0000
+6ASO-C,coated membrane,GO:0048475,0.0033
+6ASO-C,small nucleolar ribonucleoprotein complex,GO:0005732,0.0829
+6ASO-C,outer membrane,GO:0019867,0.0347
+6ASO-C,spliceosomal tri-snRNP complex,GO:0097526,0.5841
+6ASO-C,extracellular exosome,GO:0070062,0.0036
+6ASO-C,primary lysosome,GO:0005766,0.0000
+6ASO-C,transferase complex,GO:1990234,0.3782
+6ASO-C,proton-transporting two-sector ATPase complex, proton-transporting domain,GO:0033177,0.0001
+6ASO-C,proton-transporting ATP synthase complex, coupling factor F(o),GO:0045263,0.0000
+6ASO-C,plasma membrane bounded cell projection cytoplasm,GO:0032838,0.0016
+6ASO-C,spindle,GO:0005819,0.0047
+6ASO-C,organelle envelope,GO:0031967,0.0526
+6ASO-C,RNA polymerase II, holoenzyme,GO:0016591,0.0822
+6ASO-C,nuclear DNA-directed RNA polymerase complex,GO:0055029,0.0748
+6ASO-C,plasma membrane protein complex,GO:0098797,0.0015
+6ASO-C,membrane protein complex,GO:0098796,0.0889
+6ASO-C,mitochondrial outer membrane,GO:0005741,0.0136
+6ASO-C,postsynaptic density,GO:0014069,0.0001
+6ASO-C,host cell cytoplasm,GO:0030430,0.0004
+6ASO-C,host cellular component,GO:0018995,0.0008
+6ASO-C,proton-transporting two-sector ATPase complex, catalytic domain,GO:0033178,0.0020
+6ASO-C,condensed chromosome kinetochore,GO:0000777,0.0068
+6ASO-C,respiratory chain complex I,GO:0045271,0.0001
+6ASO-C,organelle lumen,GO:0043233,0.4730
+6ASO-C,cytoplasmic vesicle,GO:0031410,0.0401
+6ASO-C,collagen-containing extracellular matrix,GO:0062023,0.0001
+6ASO-C,myosin complex,GO:0016459,0.0000
+6ASO-C,integral component of organelle membrane,GO:0031301,0.0003
+6ASO-C,postsynaptic specialization,GO:0099572,0.0001
+6ASO-C,precatalytic spliceosome,GO:0071011,0.0066
+6ASO-C,90S preribosome,GO:0030686,0.0266
+6ASO-C,oxidoreductase complex,GO:1990204,0.0051
+6ASO-C,ATP-binding cassette (ABC) transporter complex,GO:0043190,0.0001
+6ASO-C,azurophil granule,GO:0042582,0.0000
+6ASO-C,synapse,GO:0045202,0.0010
+6ASO-C,mitochondrial inner membrane,GO:0005743,0.0020
+6ASO-C,DNA packaging complex,GO:0044815,0.0298
+6ASO-C,Sm-like protein family complex,GO:0120114,0.4761
+6ASO-C,RNA polymerase II, core complex,GO:0005665,0.0700
+6ASO-C,Golgi membrane,GO:0000139,0.0048
+6ASO-C,proton-transporting ATP synthase complex,GO:0045259,0.0004
+6ASO-C,chloroplast,GO:0009507,0.0013
+6ASO-C,external encapsulating structure,GO:0030312,0.0019
+6ASO-C,pilus,GO:0009289,0.0001
+6ASO-C,mitochondrial large ribosomal subunit,GO:0005762,0.0003
