@@ -71,7 +71,7 @@ conda activate ENGINE
 pip install -r requirements.txt
 ```
 # Usage
-The **infer_temp** folder allows you to batch store PDB files that need to be tested and enter MF, BP or CC categories at runtime.  
+The **infer_temp** folder allows you to batch store PDB files that need to be tested and enter MF, BP or CC categories at runtime. The model file corresponding to the corresponding path in **infer_main.py** is saved in [here](https://zenodo.org/records/15276485), just download it and save it to the model folder.
 For example:
 ```python
 python ENGINE_main.py --data_list ./infer_temp --cate cc
