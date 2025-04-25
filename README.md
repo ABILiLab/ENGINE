@@ -115,9 +115,17 @@ After successfully running the ENGINE_GUI_platform.py file, you can follow the s
 ### Input Data
 - Please upload a PDB file for one of the proteins you want to predict!
 ### Select Parameters
-- Set 'MF', 'BP', or 'CC' and choose one of the categories for GO terms prediction.
+- Set 'MF', 'BP', or 'CC' and choose one of the categories for GO terms prediction.  
+Fig1.................
 ### Predict and save results
 - Clicking the ‘Predict’ button allows you to perform prediction operations on the input PDB and selected parameters.  
 - Click ‘Save results’ button to save the prediction result as a csv file.  
 - If you want to continue to predict other proteins, please click ‘Clean’ button first.
 ### Results display
+#### Plot
+- In the 'Plot' on the right, we have provided a bar graph to show how the predicted scores for GO terms are arranged from highest to lowest.
+- You can customise the number of ‘Top’ displayed.  
+Fig2.................
+#### Results Table
+- On the right-hand side, in `Prediction`, we provide a table of prediction results showing the functional annotation information of the entered proteins, including the PDB ID of the underlying proteins as well as GO terms, in addition to the names corresponding to the GO terms, and the last column represents the predicted scores.  
+Fig3.................
