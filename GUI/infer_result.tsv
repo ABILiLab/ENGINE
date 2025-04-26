@@ -1,0 +1,1944 @@
+Proteins	Gonames	Goterms	Probability
+4FEZ-A	UTP biosynthetic process	GO:0006228	0.0160
+4FEZ-A	purine nucleoside diphosphate metabolic process	GO:0009135	0.2518
+4FEZ-A	positive regulation of immune effector process	GO:0002699	0.0000
+4FEZ-A	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	GO:0000463	0.0001
+4FEZ-A	purine ribonucleoside diphosphate metabolic process	GO:0009179	0.3002
+4FEZ-A	B cell differentiation	GO:0030183	0.0000
+4FEZ-A	response to lipopolysaccharide	GO:0032496	0.0000
+4FEZ-A	positive regulation of nucleobase-containing compound metabolic process	GO:0045935	0.0024
+4FEZ-A	DNA modification	GO:0006304	0.0006
+4FEZ-A	pyrimidine-containing compound biosynthetic process	GO:0072528	0.2720
+4FEZ-A	regulation of cysteine-type endopeptidase activity	GO:2000116	0.0000
+4FEZ-A	protein peptidyl-prolyl isomerization	GO:0000413	0.0005
+4FEZ-A	regulation of signal transduction	GO:0009966	0.0005
+4FEZ-A	regeneration	GO:0031099	0.0000
+4FEZ-A	regulation of animal organ morphogenesis	GO:2000027	0.0000
+4FEZ-A	cellular modified amino acid metabolic process	GO:0006575	0.0540
+4FEZ-A	protein kinase B signaling	GO:0043491	0.0000
+4FEZ-A	regulation of cell cycle	GO:0051726	0.0003
+4FEZ-A	organic hydroxy compound metabolic process	GO:1901615	0.0521
+4FEZ-A	neutrophil chemotaxis	GO:0030593	0.0000
+4FEZ-A	negative regulation of protein-containing complex disassembly	GO:0043242	0.0000
+4FEZ-A	animal organ development	GO:0048513	0.0011
+4FEZ-A	regulation of transmembrane transporter activity	GO:0022898	0.0001
+4FEZ-A	response to oxidative stress	GO:0006979	0.0063
+4FEZ-A	positive regulation of response to biotic stimulus	GO:0002833	0.0000
+4FEZ-A	negative regulation of translation	GO:0017148	0.0012
+4FEZ-A	regulation of leukocyte differentiation	GO:1902105	0.0000
+4FEZ-A	negative regulation of cell migration	GO:0030336	0.0000
+4FEZ-A	establishment of RNA localization	GO:0051236	0.0000
+4FEZ-A	inositol lipid-mediated signaling	GO:0048017	0.0000
+4FEZ-A	localization of cell	GO:0051674	0.0023
+4FEZ-A	calcium ion transport	GO:0006816	0.0000
+4FEZ-A	tryptophan biosynthetic process	GO:0000162	0.0651
+4FEZ-A	organic substance transport	GO:0071702	0.0092
+4FEZ-A	positive regulation of nitrogen compound metabolic process	GO:0051173	0.0035
+4FEZ-A	intracellular transport	GO:0046907	0.0025
+4FEZ-A	protein localization to mitochondrion	GO:0070585	0.0000
+4FEZ-A	positive regulation of immune response	GO:0050778	0.0001
+4FEZ-A	purine nucleotide metabolic process	GO:0006163	0.6644
+4FEZ-A	regulation of translational fidelity	GO:0006450	0.0242
+4FEZ-A	meiotic cell cycle	GO:0051321	0.0000
+4FEZ-A	positive regulation of cytokine production	GO:0001819	0.0000
+4FEZ-A	cobalamin metabolic process	GO:0009235	0.0196
+4FEZ-A	glycerophospholipid metabolic process	GO:0006650	0.0036
+4FEZ-A	positive regulation of cellular process	GO:0048522	0.0117
+4FEZ-A	metal ion transport	GO:0030001	0.0049
+4FEZ-A	tRNA processing	GO:0008033	0.0358
+4FEZ-A	regulation of transcription, DNA-templated	GO:0006355	0.0080
+4FEZ-A	nucleoside monophosphate phosphorylation	GO:0046940	0.0197
+4FEZ-A	regulation of leukocyte activation	GO:0002694	0.0000
+4FEZ-A	regulation of cellular biosynthetic process	GO:0031326	0.0150
+4FEZ-A	nucleoside triphosphate biosynthetic process	GO:0009142	0.2826
+4FEZ-A	defense response to Gram-negative bacterium	GO:0050829	0.0000
+4FEZ-A	pyrimidine deoxyribonucleoside triphosphate metabolic process	GO:0009211	0.0136
+4FEZ-A	receptor metabolic process	GO:0043112	0.0000
+4FEZ-A	positive regulation of metabolic process	GO:0009893	0.0044
+4FEZ-A	negative regulation of endopeptidase activity	GO:0010951	0.0000
+4FEZ-A	proteolysis	GO:0006508	0.1280
+4FEZ-A	leukocyte degranulation	GO:0043299	0.0000
+4FEZ-A	small molecule catabolic process	GO:0044282	0.1072
+4FEZ-A	regulation of cell shape	GO:0008360	0.0311
+4FEZ-A	protein-containing complex subunit organization	GO:0043933	0.0505
+4FEZ-A	integrin-mediated signaling pathway	GO:0007229	0.0000
+4FEZ-A	negative regulation of cellular component movement	GO:0051271	0.0000
+4FEZ-A	neutrophil activation	GO:0042119	0.0000
+4FEZ-A	viral entry into host cell	GO:0046718	0.0000
+4FEZ-A	deoxyribonucleoside monophosphate metabolic process	GO:0009162	0.0184
+4FEZ-A	cellular amino acid metabolic process	GO:0006520	0.8080
+4FEZ-A	cellular component disassembly	GO:0022411	0.0022
+4FEZ-A	multi-organism reproductive process	GO:0044703	0.0008
+4FEZ-A	complement activation	GO:0006956	0.0000
+4FEZ-A	regulation of intracellular transport	GO:0032386	0.0000
+4FEZ-A	NAD biosynthetic process	GO:0009435	0.0128
+4FEZ-A	multi-organism process	GO:0051704	0.0076
+4FEZ-A	autophagosome assembly	GO:0000045	0.0000
+4FEZ-A	blood vessel morphogenesis	GO:0048514	0.0000
+4FEZ-A	hormone transport	GO:0009914	0.0000
+4FEZ-A	cleavage involved in rRNA processing	GO:0000469	0.0001
+4FEZ-A	actin filament depolymerization	GO:0030042	0.0000
+4FEZ-A	cell cycle checkpoint	GO:0000075	0.0000
+4FEZ-A	positive regulation of DNA metabolic process	GO:0051054	0.0006
+4FEZ-A	regulation of ATPase activity	GO:0043462	0.0002
+4FEZ-A	hexose metabolic process	GO:0019318	0.1358
+4FEZ-A	regulation of leukocyte migration	GO:0002685	0.0000
+4FEZ-A	sporulation resulting in formation of a cellular spore	GO:0030435	0.0036
+4FEZ-A	positive regulation of cell motility	GO:2000147	0.0000
+4FEZ-A	response to oxygen radical	GO:0000305	0.0025
+4FEZ-A	regulation of plasma membrane bounded cell projection organization	GO:0120035	0.0000
+4FEZ-A	chromatin assembly	GO:0031497	0.0000
+4FEZ-A	negative regulation of immune system process	GO:0002683	0.0000
+4FEZ-A	deoxyribonucleoside triphosphate metabolic process	GO:0009200	0.0210
+4FEZ-A	mRNA export from nucleus	GO:0006406	0.0000
+4FEZ-A	anatomical structure morphogenesis	GO:0009653	0.0393
+4FEZ-A	regulation of macroautophagy	GO:0016241	0.0000
+4FEZ-A	regulation of ion transmembrane transporter activity	GO:0032412	0.0000
+4FEZ-A	posttranscriptional regulation of gene expression	GO:0010608	0.0052
+4FEZ-A	protein-chromophore linkage	GO:0018298	0.0013
+4FEZ-A	membrane assembly	GO:0071709	0.0000
+4FEZ-A	cellular response to nutrient levels	GO:0031669	0.0006
+4FEZ-A	pyrimidine nucleobase metabolic process	GO:0006206	0.1729
+4FEZ-A	negative regulation of organelle organization	GO:0010639	0.0000
+4FEZ-A	supramolecular fiber organization	GO:0097435	0.0001
+4FEZ-A	secondary metabolic process	GO:0019748	0.0014
+4FEZ-A	MAPK cascade	GO:0000165	0.0001
+4FEZ-A	developmental growth	GO:0048589	0.0002
+4FEZ-A	RNA catabolic process	GO:0006401	0.0167
+4FEZ-A	Fc-gamma receptor signaling pathway	GO:0038094	0.0000
+4FEZ-A	RNA phosphodiester bond hydrolysis	GO:0090501	0.0042
+4FEZ-A	regulation of cellular metabolic process	GO:0031323	0.0185
+4FEZ-A	response to osmotic stress	GO:0006970	0.0067
+4FEZ-A	extracellular matrix organization	GO:0030198	0.0000
+4FEZ-A	DNA replication	GO:0006260	0.0204
+4FEZ-A	positive regulation of lipid metabolic process	GO:0045834	0.0000
+4FEZ-A	response to endogenous stimulus	GO:0009719	0.0040
+4FEZ-A	positive regulation of peptide secretion	GO:0002793	0.0000
+4FEZ-A	positive regulation of cell communication	GO:0010647	0.0003
+4FEZ-A	regulation of RNA metabolic process	GO:0051252	0.0075
+4FEZ-A	response to bacterium	GO:0009617	0.0004
+4FEZ-A	positive regulation of cellular amide metabolic process	GO:0034250	0.0001
+4FEZ-A	methane metabolic process	GO:0015947	0.0013
+4FEZ-A	regulation of apoptotic process	GO:0042981	0.0001
+4FEZ-A	positive regulation of peptidyl-tyrosine phosphorylation	GO:0050731	0.0000
+4FEZ-A	nuclear chromosome segregation	GO:0098813	0.0000
+4FEZ-A	superoxide metabolic process	GO:0006801	0.0022
+4FEZ-A	response to host defenses	GO:0052200	0.0007
+4FEZ-A	regulation of leukocyte mediated immunity	GO:0002703	0.0000
+4FEZ-A	regulation of cytokinesis	GO:0032465	0.0001
+4FEZ-A	proteolysis involved in cellular protein catabolic process	GO:0051603	0.0285
+4FEZ-A	visual perception	GO:0007601	0.0000
+4FEZ-A	negative regulation of transcription, DNA-templated	GO:0045892	0.0010
+4FEZ-A	protein alkylation	GO:0008213	0.0011
+4FEZ-A	ncRNA 5'-end processing	GO:0034471	0.0004
+4FEZ-A	cellular response to starvation	GO:0009267	0.0006
+4FEZ-A	response to radiation	GO:0009314	0.0054
+4FEZ-A	leukocyte differentiation	GO:0002521	0.0000
+4FEZ-A	fatty acid derivative transport	GO:1901571	0.0000
+4FEZ-A	tRNA metabolic process	GO:0006399	0.2546
+4FEZ-A	response to ketone	GO:1901654	0.0001
+4FEZ-A	cellular response to lipid	GO:0071396	0.0001
+4FEZ-A	nucleoside metabolic process	GO:0009116	0.2873
+4FEZ-A	neurogenesis	GO:0022008	0.0000
+4FEZ-A	regulation of cell cycle G1/S phase transition	GO:1902806	0.0000
+4FEZ-A	response to lipid	GO:0033993	0.0006
+4FEZ-A	response to monosaccharide	GO:0034284	0.0005
+4FEZ-A	response to type I interferon	GO:0034340	0.0000
+4FEZ-A	canonical Wnt signaling pathway	GO:0060070	0.0000
+4FEZ-A	cell morphogenesis involved in differentiation	GO:0000904	0.0001
+4FEZ-A	ribonucleoside diphosphate metabolic process	GO:0009185	0.2760
+4FEZ-A	response to purine-containing compound	GO:0014074	0.0000
+4FEZ-A	response to nutrient	GO:0007584	0.0037
+4FEZ-A	tricarboxylic acid cycle	GO:0006099	0.2238
+4FEZ-A	cell junction assembly	GO:0034329	0.0000
+4FEZ-A	detoxification	GO:0098754	0.0031
+4FEZ-A	protein sumoylation	GO:0016925	0.0000
+4FEZ-A	internal peptidyl-lysine acetylation	GO:0018393	0.0002
+4FEZ-A	carboxylic acid biosynthetic process	GO:0046394	0.6713
+4FEZ-A	response to drug	GO:0042493	0.0017
+4FEZ-A	glycoprotein metabolic process	GO:0009100	0.0010
+4FEZ-A	alanine metabolic process	GO:0006522	0.0132
+4FEZ-A	negative regulation of signal transduction	GO:0009968	0.0001
+4FEZ-A	ribonucleoside biosynthetic process	GO:0042455	0.3101
+4FEZ-A	regulation of hormone levels	GO:0010817	0.0016
+4FEZ-A	myeloid leukocyte differentiation	GO:0002573	0.0000
+4FEZ-A	ether metabolic process	GO:0018904	0.0016
+4FEZ-A	metallo-sulfur cluster assembly	GO:0031163	0.0057
+4FEZ-A	cellular developmental process	GO:0048869	0.0116
+4FEZ-A	mitochondrial gene expression	GO:0140053	0.0002
+4FEZ-A	lysine metabolic process	GO:0006553	0.2193
+4FEZ-A	peptidyl-tyrosine dephosphorylation	GO:0035335	0.0001
+4FEZ-A	establishment of protein localization to organelle	GO:0072594	0.0016
+4FEZ-A	regulation of cell adhesion	GO:0030155	0.0000
+4FEZ-A	ion transmembrane transport	GO:0034220	0.0304
+4FEZ-A	pyridine nucleotide biosynthetic process	GO:0019363	0.0174
+4FEZ-A	regulation of protein depolymerization	GO:1901879	0.0000
+4FEZ-A	modulation of chemical synaptic transmission	GO:0050804	0.0000
+4FEZ-A	nucleoside diphosphate phosphorylation	GO:0006165	0.4114
+4FEZ-A	carboxylic acid catabolic process	GO:0046395	0.1148
+4FEZ-A	generation of precursor metabolites and energy	GO:0006091	0.2261
+4FEZ-A	neuron projection development	GO:0031175	0.0000
+4FEZ-A	cell-cell adhesion	GO:0098609	0.0000
+4FEZ-A	regulation of endocytosis	GO:0030100	0.0000
+4FEZ-A	cellular aldehyde metabolic process	GO:0006081	0.2033
+4FEZ-A	xylan catabolic process	GO:0045493	0.0001
+4FEZ-A	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	GO:0000462	0.0002
+4FEZ-A	pyrimidine-containing compound metabolic process	GO:0072527	0.2249
+4FEZ-A	I-kappaB kinase/NF-kappaB signaling	GO:0007249	0.0000
+4FEZ-A	plasma membrane bounded cell projection organization	GO:0120036	0.0000
+4FEZ-A	deoxyribonucleoside monophosphate biosynthetic process	GO:0009157	0.0264
+4FEZ-A	chemotaxis	GO:0006935	0.0010
+4FEZ-A	cytokine production	GO:0001816	0.0000
+4FEZ-A	response to oxygen-containing compound	GO:1901700	0.0198
+4FEZ-A	leukocyte proliferation	GO:0070661	0.0000
+4FEZ-A	ncRNA metabolic process	GO:0034660	0.1644
+4FEZ-A	nucleic acid-templated transcription	GO:0097659	0.0094
+4FEZ-A	response to host	GO:0075136	0.0005
+4FEZ-A	vesicle-mediated transport in synapse	GO:0099003	0.0000
+4FEZ-A	immunoglobulin mediated immune response	GO:0016064	0.0000
+4FEZ-A	riboflavin biosynthetic process	GO:0009231	0.0081
+4FEZ-A	cellular biogenic amine metabolic process	GO:0006576	0.0986
+4FEZ-A	regulation of response to biotic stimulus	GO:0002831	0.0002
+4FEZ-A	cytoskeleton-dependent cytokinesis	GO:0061640	0.0000
+4FEZ-A	regulation of neuron death	GO:1901214	0.0000
+4FEZ-A	immune response-regulating signaling pathway	GO:0002764	0.0001
+4FEZ-A	peptidyl-serine modification	GO:0018209	0.0002
+4FEZ-A	nucleoside triphosphate metabolic process	GO:0009141	0.2952
+4FEZ-A	guanosine-containing compound biosynthetic process	GO:1901070	0.2082
+4FEZ-A	trans-synaptic signaling	GO:0099537	0.0000
+4FEZ-A	microtubule polymerization or depolymerization	GO:0031109	0.0000
+4FEZ-A	regulation of MAPK cascade	GO:0043408	0.0000
+4FEZ-A	negative regulation of locomotion	GO:0040013	0.0000
+4FEZ-A	response to inorganic substance	GO:0010035	0.0092
+4FEZ-A	chromatin organization involved in regulation of transcription	GO:0034401	0.0000
+4FEZ-A	response to nitrogen compound	GO:1901698	0.0079
+4FEZ-A	cell aging	GO:0007569	0.0000
+4FEZ-A	protein-containing complex disassembly	GO:0032984	0.0014
+4FEZ-A	regulation of protein phosphorylation	GO:0001932	0.0004
+4FEZ-A	sensory organ development	GO:0007423	0.0000
+4FEZ-A	chromosome separation	GO:0051304	0.0000
+4FEZ-A	positive regulation of cellular protein metabolic process	GO:0032270	0.0009
+4FEZ-A	flavin-containing compound biosynthetic process	GO:0042727	0.0076
+4FEZ-A	regulation of generation of precursor metabolites and energy	GO:0043467	0.0016
+4FEZ-A	cellular amide catabolic process	GO:0043605	0.0024
+4FEZ-A	vesicle-mediated transport	GO:0016192	0.0000
+4FEZ-A	protein targeting to membrane	GO:0006612	0.0008
+4FEZ-A	regulation of secretion by cell	GO:1903530	0.0000
+4FEZ-A	diaminopimelate metabolic process	GO:0046451	0.1690
+4FEZ-A	forebrain development	GO:0030900	0.0000
+4FEZ-A	cellulose metabolic process	GO:0030243	0.0004
+4FEZ-A	tetrahydrofolate interconversion	GO:0035999	0.1396
+4FEZ-A	RNA phosphodiester bond hydrolysis, endonucleolytic	GO:0090502	0.0023
+4FEZ-A	thiamine-containing compound biosynthetic process	GO:0042724	0.0220
+4FEZ-A	cellular amino acid catabolic process	GO:0009063	0.1089
+4FEZ-A	response to hormone	GO:0009725	0.0012
+4FEZ-A	renal system development	GO:0072001	0.0000
+4FEZ-A	carbohydrate derivative biosynthetic process	GO:1901137	0.5207
+4FEZ-A	actin filament organization	GO:0007015	0.0002
+4FEZ-A	chemical homeostasis	GO:0048878	0.0021
+4FEZ-A	aromatic amino acid family metabolic process	GO:0009072	0.1894
+4FEZ-A	RNA methylation	GO:0001510	0.0102
+4FEZ-A	spindle organization	GO:0007051	0.0000
+4FEZ-A	nucleoside phosphate metabolic process	GO:0006753	0.7023
+4FEZ-A	cellular protein modification process	GO:0006464	0.0443
+4FEZ-A	inorganic anion transport	GO:0015698	0.0023
+4FEZ-A	nitrogen compound transport	GO:0071705	0.0041
+4FEZ-A	regulation of morphogenesis of an epithelium	GO:1905330	0.0000
+4FEZ-A	cellular response to heat	GO:0034605	0.0010
+4FEZ-A	translational termination	GO:0006415	0.0010
+4FEZ-A	positive regulation of catalytic activity	GO:0043085	0.0012
+4FEZ-A	regulation of actin filament polymerization	GO:0030833	0.0000
+4FEZ-A	peptidyl-amino acid modification	GO:0018193	0.0235
+4FEZ-A	meiotic cell cycle process	GO:1903046	0.0001
+4FEZ-A	mRNA metabolic process	GO:0016071	0.0013
+4FEZ-A	nucleic acid transport	GO:0050657	0.0001
+4FEZ-A	positive regulation of growth	GO:0045927	0.0000
+4FEZ-A	protein transmembrane transport	GO:0071806	0.0004
+4FEZ-A	Rho protein signal transduction	GO:0007266	0.0000
+4FEZ-A	protein heterooligomerization	GO:0051291	0.0000
+4FEZ-A	glycosaminoglycan metabolic process	GO:0030203	0.0323
+4FEZ-A	methylation	GO:0032259	0.0147
+4FEZ-A	peptidoglycan metabolic process	GO:0000270	0.0244
+4FEZ-A	cellular response to carbohydrate stimulus	GO:0071322	0.0001
+4FEZ-A	organelle localization	GO:0051640	0.0000
+4FEZ-A	sensory perception of light stimulus	GO:0050953	0.0000
+4FEZ-A	glutathione metabolic process	GO:0006749	0.0022
+4FEZ-A	pyrimidine ribonucleoside monophosphate metabolic process	GO:0009173	0.1249
+4FEZ-A	positive regulation of biosynthetic process	GO:0009891	0.0022
+4FEZ-A	proteasomal protein catabolic process	GO:0010498	0.0018
+4FEZ-A	regulation of lymphocyte activation	GO:0051249	0.0000
+4FEZ-A	cation transport	GO:0006812	0.0189
+4FEZ-A	sequestering of calcium ion	GO:0051208	0.0000
+4FEZ-A	photosynthesis	GO:0015979	0.0051
+4FEZ-A	signal transduction by p53 class mediator	GO:0072331	0.0000
+4FEZ-A	cellular response to DNA damage stimulus	GO:0006974	0.0502
+4FEZ-A	tRNA wobble base modification	GO:0002097	0.0118
+4FEZ-A	lymphocyte mediated immunity	GO:0002449	0.0000
+4FEZ-A	histidine metabolic process	GO:0006547	0.0866
+4FEZ-A	positive regulation of calcium ion transport	GO:0051928	0.0000
+4FEZ-A	cell septum assembly	GO:0090529	0.0027
+4FEZ-A	purine nucleotide biosynthetic process	GO:0006164	0.5582
+4FEZ-A	regulation of calcium ion transmembrane transporter activity	GO:1901019	0.0000
+4FEZ-A	glucan metabolic process	GO:0044042	0.0032
+4FEZ-A	mRNA splicing, via spliceosome	GO:0000398	0.0000
+4FEZ-A	muscle cell proliferation	GO:0033002	0.0000
+4FEZ-A	regulation of kinase activity	GO:0043549	0.0002
+4FEZ-A	negative regulation of binding	GO:0051100	0.0000
+4FEZ-A	regulation of microtubule-based process	GO:0032886	0.0000
+4FEZ-A	Notch signaling pathway	GO:0007219	0.0000
+4FEZ-A	gluconeogenesis	GO:0006094	0.0536
+4FEZ-A	positive regulation of biological process	GO:0048518	0.0090
+4FEZ-A	neutrophil degranulation	GO:0043312	0.0000
+4FEZ-A	platelet activation	GO:0030168	0.0000
+4FEZ-A	indole-containing compound biosynthetic process	GO:0042435	0.0463
+4FEZ-A	DNA methylation or demethylation	GO:0044728	0.0005
+4FEZ-A	negative regulation of cell cycle	GO:0045786	0.0000
+4FEZ-A	protein tetramerization	GO:0051262	0.0238
+4FEZ-A	fatty acid catabolic process	GO:0009062	0.0198
+4FEZ-A	epithelium migration	GO:0090132	0.0000
+4FEZ-A	cellular polysaccharide metabolic process	GO:0044264	0.0491
+4FEZ-A	positive regulation of NF-kappaB transcription factor activity	GO:0051092	0.0000
+4FEZ-A	digestion	GO:0007586	0.0000
+4FEZ-A	cell motility	GO:0048870	0.0019
+4FEZ-A	organophosphate catabolic process	GO:0046434	0.0252
+4FEZ-A	drug metabolic process	GO:0017144	0.0001
+4FEZ-A	learning or memory	GO:0007611	0.0000
+4FEZ-A	negative regulation of cellular catabolic process	GO:0031330	0.0001
+4FEZ-A	cellular response to chemical stimulus	GO:0070887	0.0136
+4FEZ-A	alcohol biosynthetic process	GO:0046165	0.0038
+4FEZ-A	reactive oxygen species biosynthetic process	GO:1903409	0.0000
+4FEZ-A	guanosine-containing compound metabolic process	GO:1901068	0.1278
+4FEZ-A	nucleobase-containing small molecule metabolic process	GO:0055086	0.6627
+4FEZ-A	DNA-templated transcription, elongation	GO:0006354	0.0000
+4FEZ-A	glycoside metabolic process	GO:0016137	0.0008
+4FEZ-A	modulation by symbiont of host cellular process	GO:0044068	0.0000
+4FEZ-A	dicarboxylic acid metabolic process	GO:0043648	0.2086
+4FEZ-A	benzene-containing compound metabolic process	GO:0042537	0.0042
+4FEZ-A	regulation of ERK1 and ERK2 cascade	GO:0070372	0.0000
+4FEZ-A	positive regulation of neurogenesis	GO:0050769	0.0000
+4FEZ-A	regulation of protein polymerization	GO:0032271	0.0000
+4FEZ-A	tissue development	GO:0009888	0.0005
+4FEZ-A	negative regulation of macromolecule biosynthetic process	GO:0010558	0.0025
+4FEZ-A	ATP metabolic process	GO:0046034	0.2545
+4FEZ-A	regulation of cell morphogenesis	GO:0022604	0.0305
+4FEZ-A	RNA metabolic process	GO:0016070	0.1815
+4FEZ-A	protein acetylation	GO:0006473	0.0009
+4FEZ-A	cellular lipid catabolic process	GO:0044242	0.0175
+4FEZ-A	lipid catabolic process	GO:0016042	0.0090
+4FEZ-A	membrane docking	GO:0022406	0.0000
+4FEZ-A	regulation of ATP metabolic process	GO:1903578	0.0013
+4FEZ-A	one-carbon metabolic process	GO:0006730	0.2033
+4FEZ-A	pyrimidine nucleoside monophosphate biosynthetic process	GO:0009130	0.2822
+4FEZ-A	purine-containing compound salvage	GO:0043101	0.0847
+4FEZ-A	lipid biosynthetic process	GO:0008610	0.2537
+4FEZ-A	positive regulation of protein phosphorylation	GO:0001934	0.0000
+4FEZ-A	post-transcriptional gene silencing by RNA	GO:0035194	0.0000
+4FEZ-A	cell wall macromolecule catabolic process	GO:0016998	0.0005
+4FEZ-A	adaptive thermogenesis	GO:1990845	0.0000
+4FEZ-A	folic acid-containing compound metabolic process	GO:0006760	0.0341
+4FEZ-A	cellular response to organic substance	GO:0071310	0.0029
+4FEZ-A	ATP biosynthetic process	GO:0006754	0.0190
+4FEZ-A	vesicle localization	GO:0051648	0.0000
+4FEZ-A	purine nucleotide salvage	GO:0032261	0.0353
+4FEZ-A	protein refolding	GO:0042026	0.0038
+4FEZ-A	peptide hormone secretion	GO:0030072	0.0000
+4FEZ-A	actin polymerization or depolymerization	GO:0008154	0.0001
+4FEZ-A	detection of abiotic stimulus	GO:0009582	0.0005
+4FEZ-A	phosphorus metabolic process	GO:0006793	0.7204
+4FEZ-A	regulation of metabolic process	GO:0019222	0.0233
+4FEZ-A	negative regulation of protein modification process	GO:0031400	0.0000
+4FEZ-A	GTP biosynthetic process	GO:0006183	0.0433
+4FEZ-A	nucleotide-sugar metabolic process	GO:0009225	0.0947
+4FEZ-A	fatty acid beta-oxidation	GO:0006635	0.0139
+4FEZ-A	regulation of protein transport	GO:0051223	0.0000
+4FEZ-A	peptidyl-lysine methylation	GO:0018022	0.0000
+4FEZ-A	brain development	GO:0007420	0.0000
+4FEZ-A	porphyrin-containing compound biosynthetic process	GO:0006779	0.0389
+4FEZ-A	positive regulation of intracellular signal transduction	GO:1902533	0.0001
+4FEZ-A	establishment of protein localization to membrane	GO:0090150	0.0004
+4FEZ-A	response to peptide	GO:1901652	0.0003
+4FEZ-A	protein dephosphorylation	GO:0006470	0.0006
+4FEZ-A	modulation of process of other organism	GO:0035821	0.0002
+4FEZ-A	lipid oxidation	GO:0034440	0.0165
+4FEZ-A	actin filament polymerization	GO:0030041	0.0000
+4FEZ-A	cytolysis	GO:0019835	0.0000
+4FEZ-A	translation	GO:0006412	0.2472
+4FEZ-A	cellular response to interleukin-1	GO:0071347	0.0000
+4FEZ-A	cellular response to peptide	GO:1901653	0.0001
+4FEZ-A	blood coagulation	GO:0007596	0.0000
+4FEZ-A	response to antibiotic	GO:0046677	0.0057
+4FEZ-A	granulocyte chemotaxis	GO:0071621	0.0000
+4FEZ-A	leukocyte activation involved in immune response	GO:0002366	0.0000
+4FEZ-A	chorismate metabolic process	GO:0046417	0.0343
+4FEZ-A	calcium ion transmembrane transport	GO:0070588	0.0000
+4FEZ-A	neuron projection morphogenesis	GO:0048812	0.0000
+4FEZ-A	response to biotic stimulus	GO:0009607	0.0035
+4FEZ-A	hepaticobiliary system development	GO:0061008	0.0000
+4FEZ-A	reactive nitrogen species metabolic process	GO:2001057	0.0005
+4FEZ-A	regulation of response to stress	GO:0080134	0.0005
+4FEZ-A	regulation of catalytic activity	GO:0050790	0.0038
+4FEZ-A	protein localization to extracellular region	GO:0071692	0.0002
+4FEZ-A	apoptotic signaling pathway	GO:0097190	0.0000
+4FEZ-A	positive regulation of response to stimulus	GO:0048584	0.0008
+4FEZ-A	rRNA metabolic process	GO:0016072	0.0090
+4FEZ-A	iron ion transport	GO:0006826	0.0010
+4FEZ-A	regulation of trans-synaptic signaling	GO:0099177	0.0000
+4FEZ-A	sulfur compound metabolic process	GO:0006790	0.2973
+4FEZ-A	L-methionine salvage	GO:0071267	0.0151
+4FEZ-A	carbohydrate catabolic process	GO:0016052	0.1222
+4FEZ-A	cell migration	GO:0016477	0.0003
+4FEZ-A	behavior	GO:0007610	0.0022
+4FEZ-A	actin cytoskeleton organization	GO:0030036	0.0001
+4FEZ-A	nucleotide metabolic process	GO:0009117	0.6748
+4FEZ-A	ribonucleoside triphosphate metabolic process	GO:0009199	0.1716
+4FEZ-A	positive regulation of ERK1 and ERK2 cascade	GO:0070374	0.0000
+4FEZ-A	histone lysine methylation	GO:0034968	0.0000
+4FEZ-A	regulation of phosphatase activity	GO:0010921	0.0000
+4FEZ-A	DNA recombination	GO:0006310	0.0051
+4FEZ-A	positive regulation of secretion	GO:0051047	0.0000
+4FEZ-A	acetyl-CoA metabolic process	GO:0006084	0.0079
+4FEZ-A	heart contraction	GO:0060047	0.0000
+4FEZ-A	TOR signaling	GO:0031929	0.0000
+4FEZ-A	protein localization to membrane	GO:0072657	0.0004
+4FEZ-A	regulation of sequestering of calcium ion	GO:0051282	0.0000
+4FEZ-A	photosynthesis, light harvesting	GO:0009765	0.0000
+4FEZ-A	cellular response to reactive oxygen species	GO:0034614	0.0037
+4FEZ-A	response to heat	GO:0009408	0.0142
+4FEZ-A	negative regulation of phosphate metabolic process	GO:0045936	0.0004
+4FEZ-A	neuron development	GO:0048666	0.0000
+4FEZ-A	transcription by RNA polymerase III	GO:0006383	0.0000
+4FEZ-A	tube morphogenesis	GO:0035239	0.0000
+4FEZ-A	purine-containing compound metabolic process	GO:0072521	0.6576
+4FEZ-A	cellular ketone metabolic process	GO:0042180	0.0089
+4FEZ-A	zymogen activation	GO:0031638	0.0000
+4FEZ-A	tissue morphogenesis	GO:0048729	0.0001
+4FEZ-A	spermatogenesis	GO:0007283	0.0000
+4FEZ-A	ATP synthesis coupled proton transport	GO:0015986	0.0124
+4FEZ-A	regulation of response to external stimulus	GO:0032101	0.0003
+4FEZ-A	purine nucleoside biosynthetic process	GO:0042451	0.2512
+4FEZ-A	hormone metabolic process	GO:0042445	0.0016
+4FEZ-A	cell adhesion	GO:0007155	0.0002
+4FEZ-A	regulation of proteolysis	GO:0030162	0.0001
+4FEZ-A	regulation of protein modification by small protein conjugation or removal	GO:1903320	0.0000
+4FEZ-A	response to endoplasmic reticulum stress	GO:0034976	0.0002
+4FEZ-A	regulation of developmental growth	GO:0048638	0.0000
+4FEZ-A	thiamine biosynthetic process	GO:0009228	0.0181
+4FEZ-A	water-soluble vitamin metabolic process	GO:0006767	0.0787
+4FEZ-A	regulation of receptor signaling pathway via STAT	GO:1904892	0.0000
+4FEZ-A	ribonucleoside triphosphate biosynthetic process	GO:0009201	0.1763
+4FEZ-A	anaerobic respiration	GO:0009061	0.0032
+4FEZ-A	SRP-dependent cotranslational protein targeting to membrane	GO:0006614	0.0009
+4FEZ-A	thioester biosynthetic process	GO:0035384	0.0534
+4FEZ-A	negative regulation of apoptotic signaling pathway	GO:2001234	0.0000
+4FEZ-A	cellular oxidant detoxification	GO:0098869	0.0024
+4FEZ-A	cytoskeleton organization	GO:0007010	0.0013
+4FEZ-A	positive regulation of transcription by RNA polymerase II	GO:0045944	0.0000
+4FEZ-A	DNA packaging	GO:0006323	0.0005
+4FEZ-A	response to molecule of bacterial origin	GO:0002237	0.0000
+4FEZ-A	regulation of gene expression, epigenetic	GO:0040029	0.0000
+4FEZ-A	glucose 6-phosphate metabolic process	GO:0051156	0.0285
+4FEZ-A	positive regulation of neuron differentiation	GO:0045666	0.0000
+4FEZ-A	regulation of cell cycle process	GO:0010564	0.0001
+4FEZ-A	heart process	GO:0003015	0.0000
+4FEZ-A	positive regulation of ion transmembrane transporter activity	GO:0032414	0.0000
+4FEZ-A	G2/M transition of mitotic cell cycle	GO:0000086	0.0001
+4FEZ-A	peptide secretion	GO:0002790	0.0002
+4FEZ-A	regulation of G protein-coupled receptor signaling pathway	GO:0008277	0.0000
+4FEZ-A	nucleotide catabolic process	GO:0009166	0.0254
+4FEZ-A	icosanoid secretion	GO:0032309	0.0000
+4FEZ-A	ribonucleoside monophosphate biosynthetic process	GO:0009156	0.4740
+4FEZ-A	metal ion homeostasis	GO:0055065	0.0013
+4FEZ-A	response to external stimulus	GO:0009605	0.0237
+4FEZ-A	response to alkaloid	GO:0043279	0.0000
+4FEZ-A	sphingolipid metabolic process	GO:0006665	0.0000
+4FEZ-A	phagocytosis	GO:0006909	0.0000
+4FEZ-A	purine ribonucleoside salvage	GO:0006166	0.0440
+4FEZ-A	regulation of protein-containing complex assembly	GO:0043254	0.0001
+4FEZ-A	amino acid salvage	GO:0043102	0.0173
+4FEZ-A	regulation of small molecule metabolic process	GO:0062012	0.0021
+4FEZ-A	vascular process in circulatory system	GO:0003018	0.0000
+4FEZ-A	negative regulation of phosphorus metabolic process	GO:0010563	0.0002
+4FEZ-A	signal transduction	GO:0007165	0.0119
+4FEZ-A	regulation of pH	GO:0006885	0.0002
+4FEZ-A	thiamine diphosphate metabolic process	GO:0042357	0.0077
+4FEZ-A	oligosaccharide metabolic process	GO:0009311	0.0356
+4FEZ-A	isoprenoid biosynthetic process	GO:0008299	0.0332
+4FEZ-A	cell recognition	GO:0008037	0.0000
+4FEZ-A	regulation of blood pressure	GO:0008217	0.0000
+4FEZ-A	developmental maturation	GO:0021700	0.0001
+4FEZ-A	positive regulation of secretion by cell	GO:1903532	0.0000
+4FEZ-A	signal transduction by protein phosphorylation	GO:0023014	0.0003
+4FEZ-A	quinone biosynthetic process	GO:1901663	0.0062
+4FEZ-A	regulation of secretion	GO:0051046	0.0000
+4FEZ-A	myeloid leukocyte migration	GO:0097529	0.0000
+4FEZ-A	ribosome biogenesis	GO:0042254	0.0167
+4FEZ-A	cellular ion homeostasis	GO:0006873	0.0017
+4FEZ-A	unsaturated fatty acid metabolic process	GO:0033559	0.0001
+4FEZ-A	nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	GO:0000288	0.0000
+4FEZ-A	mitotic cytokinesis	GO:0000281	0.0000
+4FEZ-A	ion homeostasis	GO:0050801	0.0012
+4FEZ-A	regulation of cell motility	GO:2000145	0.0002
+4FEZ-A	cell surface receptor signaling pathway involved in cell-cell signaling	GO:1905114	0.0000
+4FEZ-A	embryo development ending in birth or egg hatching	GO:0009792	0.0002
+4FEZ-A	cellular response to hexose stimulus	GO:0071331	0.0001
+4FEZ-A	steroid metabolic process	GO:0008202	0.0011
+4FEZ-A	liver development	GO:0001889	0.0000
+4FEZ-A	nucleoside bisphosphate metabolic process	GO:0033865	0.1091
+4FEZ-A	locomotory behavior	GO:0007626	0.0000
+4FEZ-A	primary alcohol metabolic process	GO:0034308	0.0027
+4FEZ-A	heart development	GO:0007507	0.0000
+4FEZ-A	nucleoside phosphate biosynthetic process	GO:1901293	0.6754
+4FEZ-A	negative regulation of cell death	GO:0060548	0.0000
+4FEZ-A	negative regulation of cellular component organization	GO:0051129	0.0000
+4FEZ-A	regulation of leukocyte cell-cell adhesion	GO:1903037	0.0000
+4FEZ-A	cellular response to oxygen radical	GO:0071450	0.0023
+4FEZ-A	sulfur compound catabolic process	GO:0044273	0.0020
+4FEZ-A	negative regulation of immune response	GO:0050777	0.0000
+4FEZ-A	regulation of production of molecular mediator of immune response	GO:0002700	0.0000
+4FEZ-A	cellular response to endogenous stimulus	GO:0071495	0.0020
+4FEZ-A	histone methylation	GO:0016571	0.0000
+4FEZ-A	protein import	GO:0017038	0.0006
+4FEZ-A	response to organophosphorus	GO:0046683	0.0000
+4FEZ-A	negative regulation of cell development	GO:0010721	0.0000
+4FEZ-A	sterol biosynthetic process	GO:0016126	0.0027
+4FEZ-A	regulation of molecular function	GO:0065009	0.0059
+4FEZ-A	negative regulation of peptidase activity	GO:0010466	0.0000
+4FEZ-A	response to organic cyclic compound	GO:0014070	0.0029
+4FEZ-A	regulation of cell population proliferation	GO:0042127	0.0001
+4FEZ-A	negative regulation of cellular macromolecule biosynthetic process	GO:2000113	0.0025
+4FEZ-A	pyridine nucleotide metabolic process	GO:0019362	0.0401
+4FEZ-A	pyruvate metabolic process	GO:0006090	0.3893
+4FEZ-A	circulatory system development	GO:0072359	0.0001
+4FEZ-A	glycerolipid metabolic process	GO:0046486	0.0050
+4FEZ-A	dicarboxylic acid biosynthetic process	GO:0043650	0.1420
+4FEZ-A	retinoid metabolic process	GO:0001523	0.0000
+4FEZ-A	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	GO:0000466	0.0001
+4FEZ-A	negative regulation of nervous system development	GO:0051961	0.0000
+4FEZ-A	pigment metabolic process	GO:0042440	0.0439
+4FEZ-A	methionine biosynthetic process	GO:0009086	0.1015
+4FEZ-A	cellular response to light stimulus	GO:0071482	0.0002
+4FEZ-A	innate immune response	GO:0045087	0.0002
+4FEZ-A	regulation of immune system process	GO:0002682	0.0001
+4FEZ-A	response to peptide hormone	GO:0043434	0.0004
+4FEZ-A	negative regulation of neurogenesis	GO:0050768	0.0000
+4FEZ-A	cellular response to extracellular stimulus	GO:0031668	0.0197
+4FEZ-A	response to decreased oxygen levels	GO:0036293	0.0023
+4FEZ-A	negative regulation of biosynthetic process	GO:0009890	0.0034
+4FEZ-A	response to chemical	GO:0042221	0.0499
+4FEZ-A	embryo development	GO:0009790	0.0002
+4FEZ-A	positive regulation of mitotic cell cycle	GO:0045931	0.0000
+4FEZ-A	cellular response to oxygen-containing compound	GO:1901701	0.0118
+4FEZ-A	leukocyte chemotaxis	GO:0030595	0.0000
+4FEZ-A	cell differentiation	GO:0030154	0.0090
+4FEZ-A	translational initiation	GO:0006413	0.0040
+4FEZ-A	positive regulation of protein transport	GO:0051222	0.0000
+4FEZ-A	detection of external stimulus	GO:0009581	0.0005
+4FEZ-A	localization	GO:0051179	0.0313
+4FEZ-A	oxygen transport	GO:0015671	0.0000
+4FEZ-A	fatty acid oxidation	GO:0019395	0.0123
+4FEZ-A	carbohydrate derivative transport	GO:1901264	0.0002
+4FEZ-A	ribosome assembly	GO:0042255	0.0055
+4FEZ-A	cellular response to organic cyclic compound	GO:0071407	0.0018
+4FEZ-A	lipid transport	GO:0006869	0.0000
+4FEZ-A	insulin secretion	GO:0030073	0.0000
+4FEZ-A	regulation of biological quality	GO:0065008	0.0393
+4FEZ-A	regulation of macromolecule metabolic process	GO:0060255	0.0152
+4FEZ-A	negative regulation of sequestering of calcium ion	GO:0051283	0.0000
+4FEZ-A	UTP metabolic process	GO:0046051	0.0143
+4FEZ-A	aromatic compound biosynthetic process	GO:0019438	0.7083
+4FEZ-A	chromatin organization involved in negative regulation of transcription	GO:0097549	0.0000
+4FEZ-A	regulation of protein dephosphorylation	GO:0035304	0.0000
+4FEZ-A	nucleotide phosphorylation	GO:0046939	0.2911
+4FEZ-A	mitochondrial translational termination	GO:0070126	0.0000
+4FEZ-A	regulation of cellular amide metabolic process	GO:0034248	0.0062
+4FEZ-A	developmental process	GO:0032502	0.0536
+4FEZ-A	cell-matrix adhesion	GO:0007160	0.0000
+4FEZ-A	cellular response to alcohol	GO:0097306	0.0000
+4FEZ-A	antigen processing and presentation of exogenous peptide antigen	GO:0002478	0.0000
+4FEZ-A	thiamine metabolic process	GO:0006772	0.0074
+4FEZ-A	lipid localization	GO:0010876	0.0000
+4FEZ-A	positive regulation of protein modification process	GO:0031401	0.0001
+4FEZ-A	membrane fusion	GO:0061025	0.0000
+4FEZ-A	transcription-coupled nucleotide-excision repair	GO:0006283	0.0000
+4FEZ-A	mRNA processing	GO:0006397	0.0001
+4FEZ-A	monocarboxylic acid catabolic process	GO:0072329	0.0431
+4FEZ-A	protein glycosylation	GO:0006486	0.0006
+4FEZ-A	regulation of Rho protein signal transduction	GO:0035023	0.0000
+4FEZ-A	carbohydrate transmembrane transport	GO:0034219	0.0027
+4FEZ-A	RNA splicing, via transesterification reactions	GO:0000375	0.0000
+4FEZ-A	DNA-dependent DNA replication	GO:0006261	0.0011
+4FEZ-A	cell division	GO:0051301	0.0347
+4FEZ-A	heterocycle catabolic process	GO:0046700	0.0752
+4FEZ-A	amino sugar biosynthetic process	GO:0046349	0.0316
+4FEZ-A	protein transport	GO:0015031	0.0012
+4FEZ-A	cellular biogenic amine catabolic process	GO:0042402	0.0032
+4FEZ-A	negative regulation of programmed cell death	GO:0043069	0.0000
+4FEZ-A	protein polyubiquitination	GO:0000209	0.0001
+4FEZ-A	L-phenylalanine metabolic process	GO:0006558	0.0021
+4FEZ-A	cell projection morphogenesis	GO:0048858	0.0000
+4FEZ-A	positive regulation of binding	GO:0051099	0.0000
+4FEZ-A	regulation of cold-induced thermogenesis	GO:0120161	0.0000
+4FEZ-A	negative regulation of gene expression	GO:0010629	0.0030
+4FEZ-A	glutamine family amino acid metabolic process	GO:0009064	0.2869
+4FEZ-A	response to disaccharide	GO:0034285	0.0000
+4FEZ-A	photosynthesis, light reaction	GO:0019684	0.0000
+4FEZ-A	polyamine metabolic process	GO:0006595	0.0216
+4FEZ-A	cellular component organization or biogenesis	GO:0071840	0.1822
+4FEZ-A	activation of protein kinase activity	GO:0032147	0.0000
+4FEZ-A	cellular response to metal ion	GO:0071248	0.0002
+4FEZ-A	protein targeting	GO:0006605	0.0013
+4FEZ-A	epidermis development	GO:0008544	0.0000
+4FEZ-A	response to glucose	GO:0009749	0.0006
+4FEZ-A	response to ionizing radiation	GO:0010212	0.0001
+4FEZ-A	thioester metabolic process	GO:0035383	0.0429
+4FEZ-A	peptidoglycan catabolic process	GO:0009253	0.0002
+4FEZ-A	ADP metabolic process	GO:0046031	0.2685
+4FEZ-A	phospholipid biosynthetic process	GO:0008654	0.0692
+4FEZ-A	head development	GO:0060322	0.0000
+4FEZ-A	potassium ion transmembrane transport	GO:0071805	0.0001
+4FEZ-A	rRNA-containing ribonucleoprotein complex export from nucleus	GO:0071428	0.0001
+4FEZ-A	muscle structure development	GO:0061061	0.0000
+4FEZ-A	cellular response to xenobiotic stimulus	GO:0071466	0.0028
+4FEZ-A	regulation of cytosolic calcium ion concentration	GO:0051480	0.0000
+4FEZ-A	autophagy	GO:0006914	0.0000
+4FEZ-A	positive regulation of cellular component movement	GO:0051272	0.0000
+4FEZ-A	RNA capping	GO:0036260	0.0000
+4FEZ-A	signaling	GO:0023052	0.0191
+4FEZ-A	antigen processing and presentation of exogenous antigen	GO:0019884	0.0000
+4FEZ-A	folic acid-containing compound biosynthetic process	GO:0009396	0.0046
+4FEZ-A	mitochondrion organization	GO:0007005	0.0001
+4FEZ-A	positive regulation of transferase activity	GO:0051347	0.0002
+4FEZ-A	7-methylguanosine mRNA capping	GO:0006370	0.0000
+4FEZ-A	regulation of Ras protein signal transduction	GO:0046578	0.0001
+4FEZ-A	negative regulation of catalytic activity	GO:0043086	0.0003
+4FEZ-A	isoprenoid metabolic process	GO:0006720	0.0278
+4FEZ-A	cellular response to tumor necrosis factor	GO:0071356	0.0000
+4FEZ-A	positive regulation of ion transmembrane transport	GO:0034767	0.0000
+4FEZ-A	glycerol metabolic process	GO:0006071	0.0286
+4FEZ-A	striated muscle cell differentiation	GO:0051146	0.0000
+4FEZ-A	negative regulation of response to external stimulus	GO:0032102	0.0001
+4FEZ-A	deoxyribonucleotide biosynthetic process	GO:0009263	0.0269
+4FEZ-A	purine ribonucleoside monophosphate metabolic process	GO:0009167	0.3741
+4FEZ-A	cell wall macromolecule metabolic process	GO:0044036	0.0642
+4FEZ-A	regulation of exocytosis	GO:0017157	0.0000
+4FEZ-A	fatty acid biosynthetic process	GO:0006633	0.0912
+4FEZ-A	macromolecule modification	GO:0043412	0.0721
+4FEZ-A	intracellular protein transport	GO:0006886	0.0009
+4FEZ-A	actin nucleation	GO:0045010	0.0000
+4FEZ-A	alpha-amino acid catabolic process	GO:1901606	0.0748
+4FEZ-A	cell cycle G2/M phase transition	GO:0044839	0.0001
+4FEZ-A	positive regulation of cellular catabolic process	GO:0031331	0.0002
+4FEZ-A	dendrite development	GO:0016358	0.0000
+4FEZ-A	regulation of anatomical structure size	GO:0090066	0.0001
+4FEZ-A	regulation of myeloid cell differentiation	GO:0045637	0.0000
+4FEZ-A	positive regulation of organelle organization	GO:0010638	0.0002
+4FEZ-A	diaminopimelate biosynthetic process	GO:0019877	0.1076
+4FEZ-A	glyceraldehyde-3-phosphate metabolic process	GO:0019682	0.0525
+4FEZ-A	response to glucocorticoid	GO:0051384	0.0000
+4FEZ-A	ribosomal small subunit biogenesis	GO:0042274	0.0025
+4FEZ-A	RNA processing	GO:0006396	0.0288
+4FEZ-A	regulation of T cell proliferation	GO:0042129	0.0000
+4FEZ-A	regulation of transporter activity	GO:0032409	0.0001
+4FEZ-A	purine nucleobase metabolic process	GO:0006144	0.0183
+4FEZ-A	cellular response to glucose stimulus	GO:0071333	0.0001
+4FEZ-A	gliogenesis	GO:0042063	0.0000
+4FEZ-A	camera-type eye development	GO:0043010	0.0000
+4FEZ-A	regulation of lipid metabolic process	GO:0019216	0.0002
+4FEZ-A	ribose phosphate biosynthetic process	GO:0046390	0.6216
+4FEZ-A	export from cell	GO:0140352	0.0004
+4FEZ-A	negative regulation of cellular protein metabolic process	GO:0032269	0.0008
+4FEZ-A	regulation of inflammatory response	GO:0050727	0.0000
+4FEZ-A	RNA transport	GO:0050658	0.0000
+4FEZ-A	regulation of chromatin organization	GO:1902275	0.0000
+4FEZ-A	glucan catabolic process	GO:0009251	0.0004
+4FEZ-A	response to alcohol	GO:0097305	0.0009
+4FEZ-A	regulation of cellular component movement	GO:0051270	0.0003
+4FEZ-A	heme biosynthetic process	GO:0006783	0.0421
+4FEZ-A	cellular component morphogenesis	GO:0032989	0.0000
+4FEZ-A	iron coordination entity transport	GO:1901678	0.0003
+4FEZ-A	secretion by cell	GO:0032940	0.0002
+4FEZ-A	response to wounding	GO:0009611	0.0002
+4FEZ-A	post-embryonic development	GO:0009791	0.0007
+4FEZ-A	tryptophan metabolic process	GO:0006568	0.0455
+4FEZ-A	regulation of cellular macromolecule biosynthetic process	GO:2000112	0.0116
+4FEZ-A	regulation of DNA binding	GO:0051101	0.0002
+4FEZ-A	positive regulation of cell growth	GO:0030307	0.0000
+4FEZ-A	urogenital system development	GO:0001655	0.0000
+4FEZ-A	vesicle organization	GO:0016050	0.0000
+4FEZ-A	negative regulation of cell motility	GO:2000146	0.0000
+4FEZ-A	cell-cell signaling	GO:0007267	0.0006
+4FEZ-A	reproduction	GO:0000003	0.0067
+4FEZ-A	cellular monovalent inorganic cation homeostasis	GO:0030004	0.0001
+4FEZ-A	cellular component macromolecule biosynthetic process	GO:0070589	0.0237
+4FEZ-A	regulation of response to DNA damage stimulus	GO:2001020	0.0001
+4FEZ-A	terpenoid biosynthetic process	GO:0016114	0.0121
+4FEZ-A	striated muscle tissue development	GO:0014706	0.0000
+4FEZ-A	DNA metabolic process	GO:0006259	0.1126
+4FEZ-A	multi-organism transport	GO:0044766	0.0000
+4FEZ-A	negative regulation of defense response	GO:0031348	0.0000
+4FEZ-A	synaptic vesicle cycle	GO:0099504	0.0000
+4FEZ-A	angiogenesis	GO:0001525	0.0000
+4FEZ-A	cell morphogenesis involved in neuron differentiation	GO:0048667	0.0000
+4FEZ-A	response to oxygen levels	GO:0070482	0.0019
+4FEZ-A	myeloid cell homeostasis	GO:0002262	0.0000
+4FEZ-A	endosomal transport	GO:0016197	0.0000
+4FEZ-A	positive regulation of locomotion	GO:0040017	0.0000
+4FEZ-A	regulation of dephosphorylation	GO:0035303	0.0000
+4FEZ-A	viral release from host cell by cytolysis	GO:0044659	0.0000
+4FEZ-A	flavin-containing compound metabolic process	GO:0042726	0.0064
+4FEZ-A	protein deubiquitination	GO:0016579	0.0001
+4FEZ-A	RNA export from nucleus	GO:0006405	0.0000
+4FEZ-A	cellular metal ion homeostasis	GO:0006875	0.0012
+4FEZ-A	cellular response to growth factor stimulus	GO:0071363	0.0000
+4FEZ-A	lipopolysaccharide biosynthetic process	GO:0009103	0.0404
+4FEZ-A	regulation of viral process	GO:0050792	0.0000
+4FEZ-A	programmed cell death	GO:0012501	0.0002
+4FEZ-A	nucleoside monophosphate biosynthetic process	GO:0009124	0.4829
+4FEZ-A	archaeal or bacterial-type flagellum-dependent cell motility	GO:0097588	0.0002
+4FEZ-A	glycolipid biosynthetic process	GO:0009247	0.0366
+4FEZ-A	beta-glucan catabolic process	GO:0051275	0.0002
+4FEZ-A	pyridine-containing compound biosynthetic process	GO:0072525	0.1139
+4FEZ-A	hemopoiesis	GO:0030097	0.0000
+4FEZ-A	negative regulation of metabolic process	GO:0009892	0.0049
+4FEZ-A	positive regulation of inflammatory response	GO:0050729	0.0000
+4FEZ-A	cell population proliferation	GO:0008283	0.0001
+4FEZ-A	tRNA aminoacylation for protein translation	GO:0006418	0.2406
+4FEZ-A	G protein-coupled receptor signaling pathway	GO:0007186	0.0001
+4FEZ-A	ribonucleoprotein complex assembly	GO:0022618	0.0036
+4FEZ-A	cellular macromolecule localization	GO:0070727	0.0014
+4FEZ-A	vasculature development	GO:0001944	0.0000
+4FEZ-A	amine catabolic process	GO:0009310	0.0040
+4FEZ-A	viral RNA genome replication	GO:0039694	0.0000
+4FEZ-A	cation homeostasis	GO:0055080	0.0014
+4FEZ-A	pyrimidine deoxyribonucleotide biosynthetic process	GO:0009221	0.0168
+4FEZ-A	gene silencing by miRNA	GO:0035195	0.0000
+4FEZ-A	positive regulation of RNA biosynthetic process	GO:1902680	0.0008
+4FEZ-A	regulation of cytokine-mediated signaling pathway	GO:0001959	0.0000
+4FEZ-A	DNA-templated transcription, termination	GO:0006353	0.0008
+4FEZ-A	telomere organization	GO:0032200	0.0001
+4FEZ-A	protein export from nucleus	GO:0006611	0.0000
+4FEZ-A	S-adenosylmethionine metabolic process	GO:0046500	0.0378
+4FEZ-A	regulation of endopeptidase activity	GO:0052548	0.0000
+4FEZ-A	regulation of blood circulation	GO:1903522	0.0000
+4FEZ-A	pyridoxal phosphate metabolic process	GO:0042822	0.0608
+4FEZ-A	glycerol ether metabolic process	GO:0006662	0.0003
+4FEZ-A	alditol metabolic process	GO:0019400	0.0290
+4FEZ-A	isoleucine biosynthetic process	GO:0009097	0.0828
+4FEZ-A	cell wall macromolecule biosynthetic process	GO:0044038	0.0245
+4FEZ-A	tetrahydrofolate metabolic process	GO:0046653	0.0388
+4FEZ-A	regulation of multicellular organismal process	GO:0051239	0.0004
+4FEZ-A	maturation of SSU-rRNA	GO:0030490	0.0003
+4FEZ-A	mitotic cell cycle process	GO:1903047	0.0001
+4FEZ-A	signal release	GO:0023061	0.0000
+4FEZ-A	cellular amine metabolic process	GO:0044106	0.0382
+4FEZ-A	positive regulation of DNA-binding transcription factor activity	GO:0051091	0.0000
+4FEZ-A	oligosaccharide transport	GO:0015772	0.0004
+4FEZ-A	oxidative phosphorylation	GO:0006119	0.0034
+4FEZ-A	positive regulation of cell differentiation	GO:0045597	0.0000
+4FEZ-A	negative regulation of secretion	GO:0051048	0.0000
+4FEZ-A	regulation of reproductive process	GO:2000241	0.0002
+4FEZ-A	positive regulation of supramolecular fiber organization	GO:1902905	0.0000
+4FEZ-A	hemicellulose metabolic process	GO:0010410	0.0001
+4FEZ-A	regulation of canonical Wnt signaling pathway	GO:0060828	0.0000
+4FEZ-A	transcription initiation from RNA polymerase II promoter	GO:0006367	0.0000
+4FEZ-A	coenzyme A biosynthetic process	GO:0015937	0.0062
+4FEZ-A	regulation of immune effector process	GO:0002697	0.0000
+4FEZ-A	monocarboxylic acid metabolic process	GO:0032787	0.5798
+4FEZ-A	symbiotic process	GO:0044403	0.0030
+4FEZ-A	negative regulation of apoptotic process	GO:0043066	0.0000
+4FEZ-A	response to estradiol	GO:0032355	0.0000
+4FEZ-A	positive regulation of ion transport	GO:0043270	0.0000
+4FEZ-A	negative regulation of phosphorylation	GO:0042326	0.0002
+4FEZ-A	sulfur compound biosynthetic process	GO:0044272	0.3235
+4FEZ-A	posttranscriptional gene silencing	GO:0016441	0.0000
+4FEZ-A	mitochondrial ATP synthesis coupled electron transport	GO:0042775	0.0006
+4FEZ-A	regulation of defense response to virus by virus	GO:0050690	0.0000
+4FEZ-A	polyamine biosynthetic process	GO:0006596	0.0206
+4FEZ-A	prosthetic group metabolic process	GO:0051189	0.0121
+4FEZ-A	multi-organism cellular process	GO:0044764	0.0084
+4FEZ-A	killing by symbiont of host cells	GO:0001907	0.0000
+4FEZ-A	regulation of hydrolase activity	GO:0051336	0.0003
+4FEZ-A	polysaccharide localization	GO:0033037	0.0001
+4FEZ-A	response to mechanical stimulus	GO:0009612	0.0000
+4FEZ-A	positive regulation of cell projection organization	GO:0031346	0.0000
+4FEZ-A	cellular metabolic compound salvage	GO:0043094	0.1128
+4FEZ-A	chorismate biosynthetic process	GO:0009423	0.0624
+4FEZ-A	regulation of tube diameter	GO:0035296	0.0000
+4FEZ-A	cell wall organization or biogenesis	GO:0071554	0.0527
+4FEZ-A	deoxyribose phosphate biosynthetic process	GO:0046385	0.0192
+4FEZ-A	nucleobase-containing compound biosynthetic process	GO:0034654	0.5893
+4FEZ-A	regulation of protein modification process	GO:0031399	0.0001
+4FEZ-A	negative regulation of protein depolymerization	GO:1901880	0.0000
+4FEZ-A	locomotion	GO:0040011	0.0081
+4FEZ-A	GTP metabolic process	GO:0046039	0.0274
+4FEZ-A	ribonucleoprotein complex export from nucleus	GO:0071426	0.0001
+4FEZ-A	L-serine metabolic process	GO:0006563	0.1476
+4FEZ-A	ion transport	GO:0006811	0.0296
+4FEZ-A	response to organonitrogen compound	GO:0010243	0.0043
+4FEZ-A	intracellular receptor signaling pathway	GO:0030522	0.0000
+4FEZ-A	exocytosis	GO:0006887	0.0000
+4FEZ-A	regulation of peptidyl-tyrosine phosphorylation	GO:0050730	0.0000
+4FEZ-A	response to abiotic stimulus	GO:0009628	0.0353
+4FEZ-A	response to external biotic stimulus	GO:0043207	0.0026
+4FEZ-A	ncRNA processing	GO:0034470	0.0254
+4FEZ-A	diterpenoid metabolic process	GO:0016101	0.0000
+4FEZ-A	positive regulation of phosphate metabolic process	GO:0045937	0.0004
+4FEZ-A	DNA duplex unwinding	GO:0032508	0.0030
+4FEZ-A	positive regulation of phosphorylation	GO:0042327	0.0004
+4FEZ-A	cellular catabolic process	GO:0044248	0.3366
+4FEZ-A	protein catabolic process	GO:0030163	0.0317
+4FEZ-A	phosphoenolpyruvate-dependent sugar phosphotransferase system	GO:0009401	0.0046
+4FEZ-A	regulation of cellular catabolic process	GO:0031329	0.0006
+4FEZ-A	negative regulation of cell projection organization	GO:0031345	0.0000
+4FEZ-A	cysteine metabolic process	GO:0006534	0.1534
+4FEZ-A	organic hydroxy compound biosynthetic process	GO:1901617	0.0345
+4FEZ-A	protein localization to nucleus	GO:0034504	0.0000
+4FEZ-A	regulation of cell cycle phase transition	GO:1901987	0.0000
+4FEZ-A	cell killing	GO:0001906	0.0000
+4FEZ-A	regulation of cell migration	GO:0030334	0.0001
+4FEZ-A	ribonucleoside metabolic process	GO:0009119	0.2350
+4FEZ-A	ribonucleoprotein complex localization	GO:0071166	0.0000
+4FEZ-A	regulation of phosphorylation	GO:0042325	0.0015
+4FEZ-A	regulation of cell cycle G2/M phase transition	GO:1902749	0.0001
+4FEZ-A	regulation of neuron apoptotic process	GO:0043523	0.0000
+4FEZ-A	gene silencing	GO:0016458	0.0000
+4FEZ-A	maintenance of location in cell	GO:0051651	0.0000
+4FEZ-A	cellular biogenic amine biosynthetic process	GO:0042401	0.0808
+4FEZ-A	glycolipid metabolic process	GO:0006664	0.0206
+4FEZ-A	multicellular organismal process	GO:0032501	0.0041
+4FEZ-A	generation of neurons	GO:0048699	0.0000
+4FEZ-A	cellular component biogenesis	GO:0044085	0.0858
+4FEZ-A	regulation of nucleic acid-templated transcription	GO:1903506	0.0063
+4FEZ-A	regulation of cation channel activity	GO:2001257	0.0000
+4FEZ-A	indole-containing compound metabolic process	GO:0042430	0.0369
+4FEZ-A	lipooligosaccharide metabolic process	GO:1901269	0.0472
+4FEZ-A	positive regulation of intracellular transport	GO:0032388	0.0000
+4FEZ-A	regulation of peptide secretion	GO:0002791	0.0000
+4FEZ-A	pyrimidine deoxyribonucleoside monophosphate biosynthetic process	GO:0009177	0.0144
+4FEZ-A	nucleoside diphosphate metabolic process	GO:0009132	0.4450
+4FEZ-A	regulation of RNA biosynthetic process	GO:2001141	0.0061
+4FEZ-A	cytosolic calcium ion transport	GO:0060401	0.0000
+4FEZ-A	purine nucleoside triphosphate metabolic process	GO:0009144	0.1466
+4FEZ-A	IMP biosynthetic process	GO:0006188	0.2741
+4FEZ-A	cellular protein-containing complex assembly	GO:0034622	0.0024
+4FEZ-A	riboflavin metabolic process	GO:0006771	0.0146
+4FEZ-A	regulation of apoptotic signaling pathway	GO:2001233	0.0000
+4FEZ-A	negative regulation of protein polymerization	GO:0032272	0.0000
+4FEZ-A	nucleobase biosynthetic process	GO:0046112	0.2148
+4FEZ-A	positive regulation of T cell activation	GO:0050870	0.0000
+4FEZ-A	aldehyde biosynthetic process	GO:0046184	0.0659
+4FEZ-A	cation transmembrane transport	GO:0098655	0.0234
+4FEZ-A	cold-induced thermogenesis	GO:0106106	0.0000
+4FEZ-A	Fc-epsilon receptor signaling pathway	GO:0038095	0.0000
+4FEZ-A	mitochondrial translational elongation	GO:0070125	0.0000
+4FEZ-A	isopentenyl diphosphate metabolic process	GO:0046490	0.0417
+4FEZ-A	rRNA catabolic process	GO:0016075	0.0016
+4FEZ-A	positive regulation of RNA metabolic process	GO:0051254	0.0011
+4FEZ-A	reproductive process	GO:0022414	0.0054
+4FEZ-A	positive regulation of leukocyte activation	GO:0002696	0.0000
+4FEZ-A	energy derivation by oxidation of organic compounds	GO:0015980	0.1021
+4FEZ-A	modification-dependent protein catabolic process	GO:0019941	0.0023
+4FEZ-A	potassium ion transport	GO:0006813	0.0005
+4FEZ-A	monovalent inorganic cation transport	GO:0015672	0.0309
+4FEZ-A	negative regulation of protein transport	GO:0051224	0.0000
+4FEZ-A	regulation of mRNA metabolic process	GO:1903311	0.0001
+4FEZ-A	circadian rhythm	GO:0007623	0.0003
+4FEZ-A	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	GO:0000184	0.0000
+4FEZ-A	sterol metabolic process	GO:0016125	0.0037
+4FEZ-A	erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process	GO:1902221	0.0027
+4FEZ-A	vacuole organization	GO:0007033	0.0001
+4FEZ-A	quinone metabolic process	GO:1901661	0.0054
+4FEZ-A	purine nucleoside monophosphate biosynthetic process	GO:0009127	0.3676
+4FEZ-A	mitochondrial translation	GO:0032543	0.0001
+4FEZ-A	protein localization to organelle	GO:0033365	0.0016
+4FEZ-A	positive regulation of signal transduction	GO:0009967	0.0002
+4FEZ-A	antibiotic catabolic process	GO:0017001	0.0000
+4FEZ-A	regulation of stress-activated protein kinase signaling cascade	GO:0070302	0.0000
+4FEZ-A	cellular response to abiotic stimulus	GO:0071214	0.0003
+4FEZ-A	beta-lactam antibiotic metabolic process	GO:0030653	0.0000
+4FEZ-A	positive regulation of protein-containing complex assembly	GO:0031334	0.0001
+4FEZ-A	organelle disassembly	GO:1903008	0.0000
+4FEZ-A	cell cycle	GO:0007049	0.0264
+4FEZ-A	protein autophosphorylation	GO:0046777	0.0004
+4FEZ-A	regulation of mRNA catabolic process	GO:0061013	0.0000
+4FEZ-A	multicellular organism reproduction	GO:0032504	0.0010
+4FEZ-A	T cell receptor signaling pathway	GO:0050852	0.0000
+4FEZ-A	establishment of localization	GO:0051234	0.0202
+4FEZ-A	regulation of cytokine production	GO:0001817	0.0000
+4FEZ-A	immune response-regulating cell surface receptor signaling pathway	GO:0002768	0.0001
+4FEZ-A	viral release from host cell	GO:0019076	0.0000
+4FEZ-A	neutrophil activation involved in immune response	GO:0002283	0.0000
+4FEZ-A	membrane organization	GO:0061024	0.0000
+4FEZ-A	regulation of vasculature development	GO:1901342	0.0000
+4FEZ-A	leukocyte activation	GO:0045321	0.0000
+4FEZ-A	gamete generation	GO:0007276	0.0001
+4FEZ-A	regulation of protein binding	GO:0043393	0.0000
+4FEZ-A	hexose catabolic process	GO:0019320	0.0047
+4FEZ-A	regulation of tube size	GO:0035150	0.0000
+4FEZ-A	sensory perception	GO:0007600	0.0000
+4FEZ-A	cell development	GO:0048468	0.0003
+4FEZ-A	regulation of neuron projection development	GO:0010975	0.0000
+4FEZ-A	regulation of peptide hormone secretion	GO:0090276	0.0000
+4FEZ-A	negative regulation of cell adhesion	GO:0007162	0.0000
+4FEZ-A	chemical synaptic transmission	GO:0007268	0.0000
+4FEZ-A	apoptotic process	GO:0006915	0.0002
+4FEZ-A	defense response	GO:0006952	0.0024
+4FEZ-A	antigen processing and presentation of peptide antigen	GO:0048002	0.0000
+4FEZ-A	response to ethanol	GO:0045471	0.0001
+4FEZ-A	sex differentiation	GO:0007548	0.0000
+4FEZ-A	vacuolar transport	GO:0007034	0.0000
+4FEZ-A	amino sugar metabolic process	GO:0006040	0.0200
+4FEZ-A	regulation of peptidase activity	GO:0052547	0.0000
+4FEZ-A	transport of virus	GO:0046794	0.0000
+4FEZ-A	regulation of chemotaxis	GO:0050920	0.0000
+4FEZ-A	anatomical structure formation involved in morphogenesis	GO:0048646	0.0054
+4FEZ-A	positive regulation of immune system process	GO:0002684	0.0001
+4FEZ-A	cobalamin biosynthetic process	GO:0009236	0.0082
+4FEZ-A	organic hydroxy compound transport	GO:0015850	0.0001
+4FEZ-A	xenobiotic catabolic process	GO:0042178	0.0050
+4FEZ-A	response to stress	GO:0006950	0.1641
+4FEZ-A	stress-activated protein kinase signaling cascade	GO:0031098	0.0000
+4FEZ-A	male gamete generation	GO:0048232	0.0000
+4FEZ-A	epithelial cell proliferation	GO:0050673	0.0000
+4FEZ-A	leukocyte mediated immunity	GO:0002443	0.0000
+4FEZ-A	regulation of intracellular protein transport	GO:0033157	0.0000
+4FEZ-A	glutamine metabolic process	GO:0006541	0.0882
+4FEZ-A	positive regulation of cell activation	GO:0050867	0.0000
+4FEZ-A	DNA topological change	GO:0006265	0.0448
+4FEZ-A	cell cycle phase transition	GO:0044770	0.0000
+4FEZ-A	mitotic nuclear division	GO:0140014	0.0000
+4FEZ-A	positive regulation of macromolecule biosynthetic process	GO:0010557	0.0015
+4FEZ-A	positive regulation of cellular protein localization	GO:1903829	0.0000
+4FEZ-A	regulation of mitotic cell cycle	GO:0007346	0.0001
+4FEZ-A	response to virus	GO:0009615	0.0003
+4FEZ-A	calcium-mediated signaling	GO:0019722	0.0000
+4FEZ-A	positive regulation of kinase activity	GO:0033674	0.0000
+4FEZ-A	phosphatidylinositol phosphorylation	GO:0046854	0.0016
+4FEZ-A	negative regulation of cell activation	GO:0050866	0.0000
+4FEZ-A	cell-substrate adhesion	GO:0031589	0.0000
+4FEZ-A	glycerophospholipid biosynthetic process	GO:0046474	0.0009
+4FEZ-A	threonine metabolic process	GO:0006566	0.1635
+4FEZ-A	methionine metabolic process	GO:0006555	0.0716
+4FEZ-A	removal of superoxide radicals	GO:0019430	0.0028
+4FEZ-A	pyrimidine-containing compound catabolic process	GO:0072529	0.0098
+4FEZ-A	negative regulation of growth	GO:0045926	0.0009
+4FEZ-A	negative regulation of neuron death	GO:1901215	0.0000
+4FEZ-A	establishment of protein localization	GO:0045184	0.0014
+4FEZ-A	serine family amino acid biosynthetic process	GO:0009070	0.1849
+4FEZ-A	glycolytic process	GO:0006096	0.2799
+4FEZ-A	modulation by symbiont of host process	GO:0044003	0.0001
+4FEZ-A	imidazole-containing compound metabolic process	GO:0052803	0.1075
+4FEZ-A	negative regulation of macromolecule metabolic process	GO:0010605	0.0031
+4FEZ-A	anaphase-promoting complex-dependent catabolic process	GO:0031145	0.0000
+4FEZ-A	icosanoid transport	GO:0071715	0.0000
+4FEZ-A	positive regulation of developmental process	GO:0051094	0.0001
+4FEZ-A	aromatic amino acid family biosynthetic process	GO:0009073	0.2489
+4FEZ-A	small molecule biosynthetic process	GO:0044283	0.7714
+4FEZ-A	anion transport	GO:0006820	0.0071
+4FEZ-A	response to metal ion	GO:0010038	0.0014
+4FEZ-A	lysine biosynthetic process	GO:0009085	0.1817
+4FEZ-A	response to interferon-gamma	GO:0034341	0.0000
+4FEZ-A	amine metabolic process	GO:0009308	0.0284
+4FEZ-A	protein trimerization	GO:0070206	0.0006
+4FEZ-A	transcription by RNA polymerase II	GO:0006366	0.0001
+4FEZ-A	monosaccharide catabolic process	GO:0046365	0.0073
+4FEZ-A	regulated exocytosis	GO:0045055	0.0000
+4FEZ-A	myeloid leukocyte mediated immunity	GO:0002444	0.0000
+4FEZ-A	regulation of vesicle-mediated transport	GO:0060627	0.0000
+4FEZ-A	regulation of I-kappaB kinase/NF-kappaB signaling	GO:0043122	0.0000
+4FEZ-A	protein localization to plasma membrane	GO:0072659	0.0000
+4FEZ-A	'de novo' pyrimidine nucleobase biosynthetic process	GO:0006207	0.0919
+4FEZ-A	exit from host	GO:0035890	0.0001
+4FEZ-A	regulation of DNA-templated transcription, elongation	GO:0032784	0.0000
+4FEZ-A	RNA splicing	GO:0008380	0.0002
+4FEZ-A	transmembrane receptor protein serine/threonine kinase signaling pathway	GO:0007178	0.0000
+4FEZ-A	positive regulation of nucleic acid-templated transcription	GO:1903508	0.0007
+4FEZ-A	glucose homeostasis	GO:0042593	0.0001
+4FEZ-A	pyrimidine nucleotide biosynthetic process	GO:0006221	0.3855
+4FEZ-A	phosphate-containing compound metabolic process	GO:0006796	0.7143
+4FEZ-A	negative regulation of transcription by RNA polymerase II	GO:0000122	0.0000
+4FEZ-A	protein ubiquitination	GO:0016567	0.0001
+4FEZ-A	muscle system process	GO:0003012	0.0003
+4FEZ-A	cellular carbohydrate metabolic process	GO:0044262	0.1052
+4FEZ-A	regulation of microtubule cytoskeleton organization	GO:0070507	0.0000
+4FEZ-A	carboxylic acid transport	GO:0046942	0.0037
+4FEZ-A	meiotic nuclear division	GO:0140013	0.0000
+4FEZ-A	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO:0002822	0.0000
+4FEZ-A	cellular response to oxidative stress	GO:0034599	0.0047
+4FEZ-A	sulfur amino acid biosynthetic process	GO:0000097	0.2248
+4FEZ-A	protein secretion	GO:0009306	0.0002
+4FEZ-A	chromosome segregation	GO:0007059	0.0002
+4FEZ-A	polysaccharide transport	GO:0015774	0.0000
+4FEZ-A	regulation of calcium ion transport	GO:0051924	0.0000
+4FEZ-A	cellular protein complex disassembly	GO:0043624	0.0009
+4FEZ-A	regulation of chromosome segregation	GO:0051983	0.0000
+4FEZ-A	neuron projection guidance	GO:0097485	0.0000
+4FEZ-A	regulation of body fluid levels	GO:0050878	0.0000
+4FEZ-A	nervous system process	GO:0050877	0.0001
+4FEZ-A	regulation of calcium-mediated signaling	GO:0050848	0.0000
+4FEZ-A	purine nucleoside metabolic process	GO:0042278	0.2039
+4FEZ-A	DNA geometric change	GO:0032392	0.0020
+4FEZ-A	hematopoietic or lymphoid organ development	GO:0048534	0.0001
+4FEZ-A	acyl-CoA metabolic process	GO:0006637	0.0558
+4FEZ-A	regulation of proteasomal protein catabolic process	GO:0061136	0.0000
+4FEZ-A	protein processing	GO:0016485	0.0022
+4FEZ-A	morphogenesis of an epithelium	GO:0002009	0.0001
+4FEZ-A	regulation of developmental process	GO:0050793	0.0262
+4FEZ-A	response to corticosteroid	GO:0031960	0.0000
+4FEZ-A	regulation of cell-cell adhesion	GO:0022407	0.0000
+4FEZ-A	xenobiotic metabolic process	GO:0006805	0.0021
+4FEZ-A	regulation of cellular component organization	GO:0051128	0.0017
+4FEZ-A	regulation of phosphoprotein phosphatase activity	GO:0043666	0.0000
+4FEZ-A	phagocytosis, engulfment	GO:0006911	0.0000
+4FEZ-A	regulation of cell death	GO:0010941	0.0001
+4FEZ-A	regulation of insulin secretion	GO:0050796	0.0000
+4FEZ-A	protein import into nucleus	GO:0006606	0.0000
+4FEZ-A	catechol-containing compound metabolic process	GO:0009712	0.0027
+4FEZ-A	positive regulation of cell migration	GO:0030335	0.0000
+4FEZ-A	cellular response to fibroblast growth factor stimulus	GO:0044344	0.0000
+4FEZ-A	sodium ion transport	GO:0006814	0.0144
+4FEZ-A	homophilic cell adhesion via plasma membrane adhesion molecules	GO:0007156	0.0000
+4FEZ-A	inflammatory response	GO:0006954	0.0001
+4FEZ-A	cell-cell adhesion via plasma-membrane adhesion molecules	GO:0098742	0.0000
+4FEZ-A	regulation of proteolysis involved in cellular protein catabolic process	GO:1903050	0.0001
+4FEZ-A	organic acid transport	GO:0015849	0.0036
+4FEZ-A	detection of carbohydrate stimulus	GO:0009730	0.0000
+4FEZ-A	positive regulation of cell cycle process	GO:0090068	0.0000
+4FEZ-A	cilium or flagellum-dependent cell motility	GO:0001539	0.0003
+4FEZ-A	proton transmembrane transport	GO:1902600	0.0267
+4FEZ-A	microtubule-based movement	GO:0007018	0.0020
+4FEZ-A	branched-chain amino acid metabolic process	GO:0009081	0.2434
+4FEZ-A	carbohydrate phosphorylation	GO:0046835	0.0122
+4FEZ-A	NADP metabolic process	GO:0006739	0.0458
+4FEZ-A	alcohol metabolic process	GO:0006066	0.0346
+4FEZ-A	sensory system development	GO:0048880	0.0000
+4FEZ-A	positive regulation of nervous system development	GO:0051962	0.0000
+4FEZ-A	positive regulation of MAPK cascade	GO:0043410	0.0000
+4FEZ-A	amine biosynthetic process	GO:0009309	0.0771
+4FEZ-A	regulation of programmed cell death	GO:0043067	0.0001
+4FEZ-A	virion attachment to host cell	GO:0019062	0.0000
+4FEZ-A	glycogen metabolic process	GO:0005977	0.0048
+4FEZ-A	regulation of ion transmembrane transport	GO:0034765	0.0001
+4FEZ-A	establishment or maintenance of cell polarity	GO:0007163	0.0000
+4FEZ-A	ameboidal-type cell migration	GO:0001667	0.0000
+4FEZ-A	DNA repair	GO:0006281	0.0407
+4FEZ-A	transcription by RNA polymerase I	GO:0006360	0.0000
+4FEZ-A	nucleobase-containing small molecule biosynthetic process	GO:0034404	0.1812
+4FEZ-A	secretion	GO:0046903	0.0005
+4FEZ-A	regulation of actin filament-based process	GO:0032970	0.0000
+4FEZ-A	cellular protein catabolic process	GO:0044257	0.0263
+4FEZ-A	muscle tissue development	GO:0060537	0.0000
+4FEZ-A	humoral immune response mediated by circulating immunoglobulin	GO:0002455	0.0000
+4FEZ-A	aromatic amino acid family catabolic process	GO:0009074	0.0027
+4FEZ-A	regulation of cell development	GO:0060284	0.0000
+4FEZ-A	visual system development	GO:0150063	0.0000
+4FEZ-A	negative regulation of RNA biosynthetic process	GO:1902679	0.0008
+4FEZ-A	negative regulation of proteolysis	GO:0045861	0.0000
+4FEZ-A	protein-containing complex assembly	GO:0065003	0.0317
+4FEZ-A	anion transmembrane transport	GO:0098656	0.0042
+4FEZ-A	ATP generation from ADP	GO:0006757	0.2409
+4FEZ-A	positive regulation of protein secretion	GO:0050714	0.0000
+4FEZ-A	polyol metabolic process	GO:0019751	0.0422
+4FEZ-A	cellular macromolecule catabolic process	GO:0044265	0.0721
+4FEZ-A	modulation by virus of host cellular process	GO:0019054	0.0000
+4FEZ-A	epithelial cell migration	GO:0010631	0.0000
+4FEZ-A	nervous system development	GO:0007399	0.0001
+4FEZ-A	viral process	GO:0016032	0.0006
+4FEZ-A	regulation of phosphate metabolic process	GO:0019220	0.0018
+4FEZ-A	monosaccharide metabolic process	GO:0005996	0.1254
+4FEZ-A	cellular response to oxygen levels	GO:0071453	0.0006
+4FEZ-A	nucleic acid phosphodiester bond hydrolysis	GO:0090305	0.0171
+4FEZ-A	cellular divalent inorganic cation homeostasis	GO:0072503	0.0000
+4FEZ-A	negative regulation of transmembrane transport	GO:0034763	0.0000
+4FEZ-A	regulation of humoral immune response	GO:0002920	0.0000
+4FEZ-A	arginine metabolic process	GO:0006525	0.1392
+4FEZ-A	cellular response to interferon-gamma	GO:0071346	0.0000
+4FEZ-A	kidney development	GO:0001822	0.0000
+4FEZ-A	pyrimidine nucleoside monophosphate metabolic process	GO:0009129	0.2197
+4FEZ-A	intracellular protein transmembrane transport	GO:0065002	0.0001
+4FEZ-A	cellular modified amino acid biosynthetic process	GO:0042398	0.0201
+4FEZ-A	nucleoside salvage	GO:0043174	0.0443
+4FEZ-A	tissue homeostasis	GO:0001894	0.0000
+4FEZ-A	developmental process involved in reproduction	GO:0003006	0.0013
+4FEZ-A	cellular response to monosaccharide stimulus	GO:0071326	0.0000
+4FEZ-A	pyrimidine nucleobase biosynthetic process	GO:0019856	0.1844
+4FEZ-A	rhythmic process	GO:0048511	0.0003
+4FEZ-A	calcium ion transport into cytosol	GO:0060402	0.0000
+4FEZ-A	cellular glucose homeostasis	GO:0001678	0.0001
+4FEZ-A	cellular response to cytokine stimulus	GO:0071345	0.0000
+4FEZ-A	production of molecular mediator of immune response	GO:0002440	0.0000
+4FEZ-A	DNA biosynthetic process	GO:0071897	0.0115
+4FEZ-A	regulation of nucleocytoplasmic transport	GO:0046822	0.0000
+4FEZ-A	response to organic substance	GO:0010033	0.0094
+4FEZ-A	cellular response to radiation	GO:0071478	0.0001
+4FEZ-A	hydrogen peroxide catabolic process	GO:0042744	0.0000
+4FEZ-A	immune system process	GO:0002376	0.0038
+4FEZ-A	mitochondrial transport	GO:0006839	0.0003
+4FEZ-A	alpha-amino acid metabolic process	GO:1901605	0.5133
+4FEZ-A	glutamine family amino acid biosynthetic process	GO:0009084	0.2789
+4FEZ-A	movement in host environment	GO:0052126	0.0002
+4FEZ-A	regulation of cellular component size	GO:0032535	0.0001
+4FEZ-A	positive regulation of apoptotic signaling pathway	GO:2001235	0.0000
+4FEZ-A	negative regulation of protein kinase activity	GO:0006469	0.0000
+4FEZ-A	negative regulation of gene expression, epigenetic	GO:0045814	0.0000
+4FEZ-A	adhesion of symbiont to host	GO:0044406	0.0001
+4FEZ-A	positive regulation of transcription, DNA-templated	GO:0045893	0.0005
+4FEZ-A	positive regulation of protein catabolic process	GO:0045732	0.0000
+4FEZ-A	peptidyl-lysine acetylation	GO:0018394	0.0001
+4FEZ-A	DNA integrity checkpoint	GO:0031570	0.0000
+4FEZ-A	response to xenobiotic stimulus	GO:0009410	0.0045
+4FEZ-A	cell surface receptor signaling pathway	GO:0007166	0.0006
+4FEZ-A	pyridoxal phosphate biosynthetic process	GO:0042823	0.0258
+4FEZ-A	regulation of gene silencing	GO:0060968	0.0000
+4FEZ-A	cellular detoxification	GO:1990748	0.0030
+4FEZ-A	viral transcription	GO:0019083	0.0000
+4FEZ-A	sister chromatid segregation	GO:0000819	0.0000
+4FEZ-A	bacterial-type flagellum-dependent cell motility	GO:0071973	0.0001
+4FEZ-A	amide biosynthetic process	GO:0043604	0.4749
+4FEZ-A	histone modification	GO:0016570	0.0004
+4FEZ-A	macroautophagy	GO:0016236	0.0000
+4FEZ-A	icosanoid metabolic process	GO:0006690	0.0001
+4FEZ-A	alpha-amino acid biosynthetic process	GO:1901607	0.6468
+4FEZ-A	pyridine-containing compound metabolic process	GO:0072524	0.1077
+4FEZ-A	alcohol catabolic process	GO:0046164	0.0319
+4FEZ-A	granulocyte migration	GO:0097530	0.0000
+4FEZ-A	viral gene expression	GO:0019080	0.0001
+4FEZ-A	regulation of cellular localization	GO:0060341	0.0000
+4FEZ-A	humoral immune response	GO:0006959	0.0000
+4FEZ-A	positive regulation of neuron projection development	GO:0010976	0.0000
+4FEZ-A	regulation of cell activation	GO:0050865	0.0000
+4FEZ-A	regulation of neuron differentiation	GO:0045664	0.0000
+4FEZ-A	nucleoside phosphate catabolic process	GO:1901292	0.0117
+4FEZ-A	peptide metabolic process	GO:0006518	0.2660
+4FEZ-A	B cell mediated immunity	GO:0019724	0.0000
+4FEZ-A	UMP biosynthetic process	GO:0006222	0.2009
+4FEZ-A	amino sugar catabolic process	GO:0046348	0.0010
+4FEZ-A	regulation of mitotic nuclear division	GO:0007088	0.0000
+4FEZ-A	sulfur amino acid metabolic process	GO:0000096	0.2039
+4FEZ-A	cellular chemical homeostasis	GO:0055082	0.0022
+4FEZ-A	maltose transport	GO:0015768	0.0001
+4FEZ-A	protein phosphorylation	GO:0006468	0.0079
+4FEZ-A	detection of light stimulus	GO:0009583	0.0004
+4FEZ-A	cellular polysaccharide biosynthetic process	GO:0033692	0.0878
+4FEZ-A	xylan metabolic process	GO:0045491	0.0001
+4FEZ-A	nuclear-transcribed mRNA catabolic process	GO:0000956	0.0001
+4FEZ-A	muscle contraction	GO:0006936	0.0002
+4FEZ-A	regulation of mitochondrion organization	GO:0010821	0.0000
+4FEZ-A	neuron death	GO:0070997	0.0000
+4FEZ-A	7-methylguanosine RNA capping	GO:0009452	0.0000
+4FEZ-A	isoleucine metabolic process	GO:0006549	0.1184
+4FEZ-A	cellular response to hypoxia	GO:0071456	0.0001
+4FEZ-A	defense response to fungus	GO:0050832	0.0000
+4FEZ-A	chromosome organization	GO:0051276	0.0335
+4FEZ-A	regulation of neurotransmitter transport	GO:0051588	0.0000
+4FEZ-A	secondary alcohol biosynthetic process	GO:1902653	0.0013
+4FEZ-A	regulation of transcription by RNA polymerase II	GO:0006357	0.0001
+4FEZ-A	nucleobase-containing small molecule catabolic process	GO:0034656	0.0024
+4FEZ-A	Fc receptor mediated stimulatory signaling pathway	GO:0002431	0.0000
+4FEZ-A	killing by virus of host cell	GO:0039633	0.0000
+4FEZ-A	cell wall polysaccharide catabolic process	GO:0044347	0.0001
+4FEZ-A	glycosaminoglycan biosynthetic process	GO:0006024	0.0207
+4FEZ-A	receptor-mediated endocytosis	GO:0006898	0.0000
+4FEZ-A	receptor signaling pathway via JAK-STAT	GO:0007259	0.0000
+4FEZ-A	pyrimidine nucleotide metabolic process	GO:0006220	0.2702
+4FEZ-A	regulation of blood vessel diameter	GO:0097746	0.0000
+4FEZ-A	regulation of symbiotic process	GO:0043903	0.0000
+4FEZ-A	response to light stimulus	GO:0009416	0.0018
+4FEZ-A	modification-dependent macromolecule catabolic process	GO:0043632	0.0021
+4FEZ-A	regulation of cell division	GO:0051302	0.0004
+4FEZ-A	eye development	GO:0001654	0.0000
+4FEZ-A	RNA phosphodiester bond hydrolysis, exonucleolytic	GO:0090503	0.0274
+4FEZ-A	reproductive structure development	GO:0048608	0.0001
+4FEZ-A	2'-deoxyribonucleotide metabolic process	GO:0009394	0.0145
+4FEZ-A	porphyrin-containing compound metabolic process	GO:0006778	0.0475
+4FEZ-A	positive regulation of transporter activity	GO:0032411	0.0000
+4FEZ-A	regulation of neurogenesis	GO:0050767	0.0000
+4FEZ-A	aminoglycan catabolic process	GO:0006026	0.0004
+4FEZ-A	regulation of response to cytokine stimulus	GO:0060759	0.0000
+4FEZ-A	response to nutrient levels	GO:0031667	0.0026
+4FEZ-A	regulation of nucleotide metabolic process	GO:0006140	0.0000
+4FEZ-A	positive regulation of catabolic process	GO:0009896	0.0001
+4FEZ-A	monovalent inorganic cation homeostasis	GO:0055067	0.0002
+4FEZ-A	regulation of neurotransmitter levels	GO:0001505	0.0000
+4FEZ-A	cellular response to external stimulus	GO:0071496	0.0184
+4FEZ-A	glutamine family amino acid catabolic process	GO:0009065	0.0322
+4FEZ-A	response to cadmium ion	GO:0046686	0.0015
+4FEZ-A	response to amino acid	GO:0043200	0.0002
+4FEZ-A	Ras protein signal transduction	GO:0007265	0.0002
+4FEZ-A	positive regulation of protein polymerization	GO:0032273	0.0000
+4FEZ-A	regulation of protein-containing complex disassembly	GO:0043244	0.0005
+4FEZ-A	regulation of cell growth	GO:0001558	0.0002
+4FEZ-A	killing of cells of other organism	GO:0031640	0.0000
+4FEZ-A	neuron apoptotic process	GO:0051402	0.0000
+4FEZ-A	cellular process involved in reproduction in multicellular organism	GO:0022412	0.0000
+4FEZ-A	phosphatidylinositol-mediated signaling	GO:0048015	0.0000
+4FEZ-A	cellular response to superoxide	GO:0071451	0.0020
+4FEZ-A	homeostatic process	GO:0042592	0.0052
+4FEZ-A	regulation of cellular response to stress	GO:0080135	0.0002
+4FEZ-A	pteridine-containing compound biosynthetic process	GO:0042559	0.0038
+4FEZ-A	protein folding	GO:0006457	0.0164
+4FEZ-A	glutamate metabolic process	GO:0006536	0.0154
+4FEZ-A	synaptic signaling	GO:0099536	0.0000
+4FEZ-A	chromatin organization	GO:0006325	0.0025
+4FEZ-A	NADH dehydrogenase complex assembly	GO:0010257	0.0000
+4FEZ-A	regulation of G2/M transition of mitotic cell cycle	GO:0010389	0.0001
+4FEZ-A	regulation of protein kinase activity	GO:0045859	0.0001
+4FEZ-A	response to interleukin-1	GO:0070555	0.0000
+4FEZ-A	microtubule-based process	GO:0007017	0.0043
+4FEZ-A	myeloid leukocyte activation	GO:0002274	0.0000
+4FEZ-A	Golgi vesicle transport	GO:0048193	0.0000
+4FEZ-A	tRNA methylation	GO:0030488	0.0075
+4FEZ-A	protein complex oligomerization	GO:0051259	0.0193
+4FEZ-A	endothelial cell migration	GO:0043542	0.0000
+4FEZ-A	cellular response to hormone stimulus	GO:0032870	0.0002
+4FEZ-A	muscle organ development	GO:0007517	0.0000
+4FEZ-A	response to hydrogen peroxide	GO:0042542	0.0011
+4FEZ-A	negative regulation of RNA metabolic process	GO:0051253	0.0019
+4FEZ-A	cardiovascular system development	GO:0072358	0.0000
+4FEZ-A	hydrogen peroxide metabolic process	GO:0042743	0.0001
+4FEZ-A	inorganic ion homeostasis	GO:0098771	0.0022
+4FEZ-A	cellular component assembly	GO:0022607	0.0433
+4FEZ-A	regulation of system process	GO:0044057	0.0000
+4FEZ-A	organic substance catabolic process	GO:1901575	0.4794
+4FEZ-A	regulation of cell differentiation	GO:0045595	0.0005
+4FEZ-A	cellular nitrogen compound catabolic process	GO:0044270	0.1018
+4FEZ-A	phenol-containing compound metabolic process	GO:0018958	0.0040
+4FEZ-A	macromolecule catabolic process	GO:0009057	0.0815
+4FEZ-A	cellular hormone metabolic process	GO:0034754	0.0016
+4FEZ-A	myeloid cell differentiation	GO:0030099	0.0000
+4FEZ-A	response to fibroblast growth factor	GO:0071774	0.0000
+4FEZ-A	regulation of primary metabolic process	GO:0080090	0.0141
+4FEZ-A	granulocyte activation	GO:0036230	0.0000
+4FEZ-A	multi-organism membrane organization	GO:0044803	0.0000
+4FEZ-A	monosaccharide biosynthetic process	GO:0046364	0.0864
+4FEZ-A	anterograde trans-synaptic signaling	GO:0098916	0.0000
+4FEZ-A	cellular transition metal ion homeostasis	GO:0046916	0.0008
+4FEZ-A	beta-glucan metabolic process	GO:0051273	0.0003
+4FEZ-A	immune response-activating cell surface receptor signaling pathway	GO:0002429	0.0001
+4FEZ-A	antibiotic biosynthetic process	GO:0017000	0.0003
+4FEZ-A	regulation of DNA-templated transcription, initiation	GO:2000142	0.0000
+4FEZ-A	growth	GO:0040007	0.0028
+4FEZ-A	peptidyl-tyrosine phosphorylation	GO:0018108	0.0000
+4FEZ-A	purine ribonucleoside monophosphate biosynthetic process	GO:0009168	0.3787
+4FEZ-A	tRNA modification	GO:0006400	0.0386
+4FEZ-A	positive regulation of apoptotic process	GO:0043065	0.0000
+4FEZ-A	protein-containing complex localization	GO:0031503	0.0000
+4FEZ-A	phospholipid metabolic process	GO:0006644	0.0865
+4FEZ-A	lymphocyte differentiation	GO:0030098	0.0000
+4FEZ-A	pyrimidine ribonucleoside monophosphate biosynthetic process	GO:0009174	0.1382
+4FEZ-A	cysteine biosynthetic process	GO:0019344	0.1158
+4FEZ-A	membrane biogenesis	GO:0044091	0.0000
+4FEZ-A	negative regulation of mitotic cell cycle	GO:0045930	0.0000
+4FEZ-A	antimicrobial humoral response	GO:0019730	0.0000
+4FEZ-A	protein homooligomerization	GO:0051260	0.0172
+4FEZ-A	regulation of purine nucleotide metabolic process	GO:1900542	0.0000
+4FEZ-A	gene silencing by RNA	GO:0031047	0.0000
+4FEZ-A	organelle organization	GO:0006996	0.0613
+4FEZ-A	fusion of virus membrane with host plasma membrane	GO:0019064	0.0000
+4FEZ-A	'de novo' IMP biosynthetic process	GO:0006189	0.1345
+4FEZ-A	cellular localization	GO:0051641	0.0028
+4FEZ-A	Fc-gamma receptor signaling pathway involved in phagocytosis	GO:0038096	0.0000
+4FEZ-A	DNA integration	GO:0015074	0.0000
+4FEZ-A	cellular amino acid biosynthetic process	GO:0008652	0.6386
+4FEZ-A	mitochondrial respiratory chain complex I assembly	GO:0032981	0.0000
+4FEZ-A	negative regulation of ion transport	GO:0043271	0.0000
+4FEZ-A	cell-cell signaling by wnt	GO:0198738	0.0000
+4FEZ-A	regulation of biosynthetic process	GO:0009889	0.0121
+4FEZ-A	glucosamine-containing compound metabolic process	GO:1901071	0.0005
+4FEZ-A	regulation of leukocyte proliferation	GO:0070663	0.0000
+4FEZ-A	organophosphate biosynthetic process	GO:0090407	0.7193
+4FEZ-A	heme metabolic process	GO:0042168	0.0278
+4FEZ-A	external encapsulating structure organization	GO:0045229	0.0288
+4FEZ-A	interspecies interaction between organisms	GO:0044419	0.0153
+4FEZ-A	positive regulation of B cell activation	GO:0050871	0.0000
+4FEZ-A	histidine biosynthetic process	GO:0000105	0.0914
+4FEZ-A	regulation of RNA stability	GO:0043487	0.0001
+4FEZ-A	energy coupled proton transport, down electrochemical gradient	GO:0015985	0.0138
+4FEZ-A	negative regulation of hydrolase activity	GO:0051346	0.0001
+4FEZ-A	ncRNA 3'-end processing	GO:0043628	0.0018
+4FEZ-A	mitotic sister chromatid segregation	GO:0000070	0.0000
+4FEZ-A	interaction with host	GO:0051701	0.0020
+4FEZ-A	spliceosomal complex assembly	GO:0000245	0.0000
+4FEZ-A	carbohydrate homeostasis	GO:0033500	0.0001
+4FEZ-A	positive regulation of chemotaxis	GO:0050921	0.0000
+4FEZ-A	positive regulation of translation	GO:0045727	0.0001
+4FEZ-A	phagocytosis, recognition	GO:0006910	0.0000
+4FEZ-A	tissue remodeling	GO:0048771	0.0000
+4FEZ-A	cell growth	GO:0016049	0.0006
+4FEZ-A	sexual reproduction	GO:0019953	0.0006
+4FEZ-A	response to extracellular stimulus	GO:0009991	0.0203
+4FEZ-A	mRNA-containing ribonucleoprotein complex export from nucleus	GO:0071427	0.0000
+4FEZ-A	cardiac muscle contraction	GO:0060048	0.0000
+4FEZ-A	cell death	GO:0008219	0.0005
+4FEZ-A	regulation of chromosome organization	GO:0033044	0.0001
+4FEZ-A	cellular response to toxic substance	GO:0097237	0.0024
+4FEZ-A	chordate embryonic development	GO:0043009	0.0000
+4FEZ-A	axonogenesis	GO:0007409	0.0000
+4FEZ-A	cell morphogenesis	GO:0000902	0.0365
+4FEZ-A	regulation of B cell activation	GO:0050864	0.0000
+4FEZ-A	tumor necrosis factor-mediated signaling pathway	GO:0033209	0.0000
+4FEZ-A	neurotransmitter transport	GO:0006836	0.0000
+4FEZ-A	indolalkylamine metabolic process	GO:0006586	0.0414
+4FEZ-A	mitigation of host defenses by symbiont	GO:0030682	0.0000
+4FEZ-A	negative regulation of transferase activity	GO:0051348	0.0000
+4FEZ-A	regulation of cellular carbohydrate metabolic process	GO:0010675	0.0005
+4FEZ-A	tRNA aminoacylation	GO:0043039	0.1807
+4FEZ-A	ribonucleotide biosynthetic process	GO:0009260	0.5708
+4FEZ-A	purine ribonucleoside triphosphate metabolic process	GO:0009205	0.1042
+4FEZ-A	ribosomal large subunit assembly	GO:0000027	0.0027
+4FEZ-A	neutrophil mediated immunity	GO:0002446	0.0000
+4FEZ-A	positive regulation of hemopoiesis	GO:1903708	0.0000
+4FEZ-A	regulation of membrane potential	GO:0042391	0.0000
+4FEZ-A	positive regulation of viral process	GO:0048524	0.0000
+4FEZ-A	regulation of T cell activation	GO:0050863	0.0000
+4FEZ-A	organic hydroxy compound catabolic process	GO:1901616	0.0306
+4FEZ-A	chromatin remodeling	GO:0006338	0.0001
+4FEZ-A	transport	GO:0006810	0.0167
+4FEZ-A	fatty acid derivative biosynthetic process	GO:1901570	0.0015
+4FEZ-A	transition metal ion homeostasis	GO:0055076	0.0008
+4FEZ-A	protein modification process	GO:0036211	0.0414
+4FEZ-A	negative regulation of multicellular organismal process	GO:0051241	0.0000
+4FEZ-A	positive regulation of lymphocyte activation	GO:0051251	0.0000
+4FEZ-A	positive regulation of transport	GO:0051050	0.0002
+4FEZ-A	2'-deoxyribonucleotide biosynthetic process	GO:0009265	0.0200
+4FEZ-A	gas transport	GO:0015669	0.0001
+4FEZ-A	glycosyl compound metabolic process	GO:1901657	0.2642
+4FEZ-A	regulation of catabolic process	GO:0009894	0.0007
+4FEZ-A	transition metal ion transport	GO:0000041	0.0015
+4FEZ-A	cell projection organization	GO:0030030	0.0002
+4FEZ-A	protein localization to cell periphery	GO:1990778	0.0000
+4FEZ-A	pyrimidine ribonucleoside triphosphate metabolic process	GO:0009208	0.0606
+4FEZ-A	hemolysis in other organism	GO:0044179	0.0000
+4FEZ-A	negative regulation of cell communication	GO:0010648	0.0000
+4FEZ-A	regulation of receptor signaling pathway via JAK-STAT	GO:0046425	0.0000
+4FEZ-A	carbohydrate transport	GO:0008643	0.0072
+4FEZ-A	transcription elongation from RNA polymerase II promoter	GO:0006368	0.0000
+4FEZ-A	actin filament bundle organization	GO:0061572	0.0000
+4FEZ-A	DNA replication initiation	GO:0006270	0.0001
+4FEZ-A	secondary alcohol metabolic process	GO:1902652	0.0053
+4FEZ-A	regulation of muscle contraction	GO:0006937	0.0000
+4FEZ-A	glycine metabolic process	GO:0006544	0.0240
+4FEZ-A	carboxylic acid metabolic process	GO:0019752	0.8716
+4FEZ-A	polyol catabolic process	GO:0046174	0.0358
+4FEZ-A	response to hypoxia	GO:0001666	0.0024
+4FEZ-A	positive regulation of cytoskeleton organization	GO:0051495	0.0001
+4FEZ-A	organic cyclic compound catabolic process	GO:1901361	0.0780
+4FEZ-A	activation of innate immune response	GO:0002218	0.0000
+4FEZ-A	positive regulation of cation transmembrane transport	GO:1904064	0.0000
+4FEZ-A	peptide biosynthetic process	GO:0043043	0.3407
+4FEZ-A	steroid biosynthetic process	GO:0006694	0.0018
+4FEZ-A	negative regulation of response to stimulus	GO:0048585	0.0001
+4FEZ-A	viral life cycle	GO:0019058	0.0005
+4FEZ-A	polysaccharide catabolic process	GO:0000272	0.0014
+4FEZ-A	maintenance of DNA repeat elements	GO:0043570	0.0003
+4FEZ-A	regulation of Wnt signaling pathway	GO:0030111	0.0000
+4FEZ-A	cellular response to lipopolysaccharide	GO:0071222	0.0000
+4FEZ-A	indolalkylamine biosynthetic process	GO:0046219	0.1141
+4FEZ-A	plasma membrane invagination	GO:0099024	0.0000
+4FEZ-A	release of sequestered calcium ion into cytosol	GO:0051209	0.0000
+4FEZ-A	negative regulation of nitrogen compound metabolic process	GO:0051172	0.0018
+4FEZ-A	purine ribonucleoside metabolic process	GO:0046128	0.1798
+4FEZ-A	regulation of lymphocyte proliferation	GO:0050670	0.0000
+4FEZ-A	establishment of localization in cell	GO:0051649	0.0040
+4FEZ-A	antibiotic metabolic process	GO:0016999	0.0001
+4FEZ-A	cognition	GO:0050890	0.0001
+4FEZ-A	nuclear transport	GO:0051169	0.0004
+4FEZ-A	positive regulation of actin filament polymerization	GO:0030838	0.0000
+4FEZ-A	positive regulation of cellular biosynthetic process	GO:0031328	0.0026
+4FEZ-A	second-messenger-mediated signaling	GO:0019932	0.0001
+4FEZ-A	positive regulation of cell development	GO:0010720	0.0000
+4FEZ-A	pigment biosynthetic process	GO:0046148	0.0563
+4FEZ-A	actin filament bundle assembly	GO:0051017	0.0000
+4FEZ-A	organonitrogen compound catabolic process	GO:1901565	0.3819
+4FEZ-A	antigen receptor-mediated signaling pathway	GO:0050851	0.0001
+4FEZ-A	purine nucleoside bisphosphate metabolic process	GO:0034032	0.0803
+4FEZ-A	negative regulation of protein-containing complex assembly	GO:0031333	0.0000
+4FEZ-A	lymphocyte proliferation	GO:0046651	0.0000
+4FEZ-A	cellular glucan metabolic process	GO:0006073	0.0029
+4FEZ-A	translational elongation	GO:0006414	0.0405
+4FEZ-A	positive regulation of programmed cell death	GO:0043068	0.0001
+4FEZ-A	vitamin metabolic process	GO:0006766	0.0775
+4FEZ-A	positive regulation of intracellular protein transport	GO:0090316	0.0000
+4FEZ-A	regulation of cellular protein catabolic process	GO:1903362	0.0001
+4FEZ-A	recombinational repair	GO:0000725	0.0001
+4FEZ-A	positive regulation of peptidase activity	GO:0010952	0.0000
+4FEZ-A	regulation of immune response	GO:0050776	0.0001
+4FEZ-A	hexose biosynthetic process	GO:0019319	0.0743
+4FEZ-A	cell activation involved in immune response	GO:0002263	0.0000
+4FEZ-A	regulation of angiogenesis	GO:0045765	0.0000
+4FEZ-A	transcription, DNA-templated	GO:0006351	0.0073
+4FEZ-A	cellular response to stimulus	GO:0051716	0.2056
+4FEZ-A	cell cycle G1/S phase transition	GO:0044843	0.0000
+4FEZ-A	long-chain fatty acid metabolic process	GO:0001676	0.0013
+4FEZ-A	response to temperature stimulus	GO:0009266	0.0173
+4FEZ-A	regulation of protein localization to membrane	GO:1905475	0.0000
+4FEZ-A	nucleocytoplasmic transport	GO:0006913	0.0003
+4FEZ-A	import into cell	GO:0098657	0.0007
+4FEZ-A	response to superoxide	GO:0000303	0.0027
+4FEZ-A	organophosphate ester transport	GO:0015748	0.0001
+4FEZ-A	immune system development	GO:0002520	0.0001
+4FEZ-A	multicellular organismal reproductive process	GO:0048609	0.0005
+4FEZ-A	homeostasis of number of cells	GO:0048872	0.0000
+4FEZ-A	positive regulation of cell cycle	GO:0045787	0.0000
+4FEZ-A	regulation of establishment of protein localization	GO:0070201	0.0000
+4FEZ-A	fatty acid metabolic process	GO:0006631	0.2172
+4FEZ-A	positive regulation of phosphorus metabolic process	GO:0010562	0.0005
+4FEZ-A	cellular carbohydrate catabolic process	GO:0044275	0.0111
+4FEZ-A	disaccharide transport	GO:0015766	0.0008
+4FEZ-A	thiamine diphosphate biosynthetic process	GO:0009229	0.0071
+4FEZ-A	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	GO:0000377	0.0000
+4FEZ-A	killing of cells in other organism involved in symbiotic interaction	GO:0051883	0.0000
+4FEZ-A	cellular response to biotic stimulus	GO:0071216	0.0000
+4FEZ-A	antigen processing and presentation of peptide antigen via MHC class I	GO:0002474	0.0000
+4FEZ-A	negative regulation of protein metabolic process	GO:0051248	0.0006
+4FEZ-A	regulation of cellular protein localization	GO:1903827	0.0000
+4FEZ-A	cellular lipid metabolic process	GO:0044255	0.3429
+4FEZ-A	antigen processing and presentation	GO:0019882	0.0000
+4FEZ-A	organic anion transport	GO:0015711	0.0021
+4FEZ-A	adaptive immune response	GO:0002250	0.0000
+4FEZ-A	epithelium development	GO:0060429	0.0002
+4FEZ-A	virion assembly	GO:0019068	0.0000
+4FEZ-A	regulation of translational initiation	GO:0006446	0.0003
+4FEZ-A	regulation of cell communication	GO:0010646	0.0004
+4FEZ-A	protein maturation	GO:0051604	0.0057
+4FEZ-A	glycoprotein biosynthetic process	GO:0009101	0.0007
+4FEZ-A	blood circulation	GO:0008015	0.0000
+4FEZ-A	nucleobase-containing compound transport	GO:0015931	0.0005
+4FEZ-A	histone acetylation	GO:0016573	0.0002
+4FEZ-A	complement activation, classical pathway	GO:0006958	0.0000
+4FEZ-A	detection of chemical stimulus	GO:0009593	0.0000
+4FEZ-A	negative regulation of synaptic transmission	GO:0050805	0.0000
+4FEZ-A	pentose-phosphate shunt	GO:0006098	0.0137
+4FEZ-A	negative regulation of mitotic cell cycle phase transition	GO:1901991	0.0000
+4FEZ-A	positive regulation of cytosolic calcium ion concentration	GO:0007204	0.0000
+4FEZ-A	immune response-regulating cell surface receptor signaling pathway involved in phagocytosis	GO:0002433	0.0000
+4FEZ-A	positive regulation of cell population proliferation	GO:0008284	0.0000
+4FEZ-A	glucose metabolic process	GO:0006006	0.2013
+4FEZ-A	bioluminescence	GO:0008218	0.0000
+4FEZ-A	sensory perception of mechanical stimulus	GO:0050954	0.0000
+4FEZ-A	RNA modification	GO:0009451	0.0271
+4FEZ-A	nonribosomal peptide biosynthetic process	GO:0019184	0.0014
+4FEZ-A	response to fungus	GO:0009620	0.0000
+4FEZ-A	leukocyte migration	GO:0050900	0.0000
+4FEZ-A	muscle cell differentiation	GO:0042692	0.0000
+4FEZ-A	regulation of protein ubiquitination	GO:0031396	0.0000
+4FEZ-A	regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO:0043281	0.0000
+4FEZ-A	chromatin assembly or disassembly	GO:0006333	0.0000
+4FEZ-A	negative regulation of cellular metabolic process	GO:0031324	0.0022
+4FEZ-A	regulation of transferase activity	GO:0051338	0.0002
+4FEZ-A	regulation of response to stimulus	GO:0048583	0.0020
+4FEZ-A	positive regulation of cell adhesion	GO:0045785	0.0000
+4FEZ-A	polysaccharide biosynthetic process	GO:0000271	0.0933
+4FEZ-A	regulation of reactive oxygen species metabolic process	GO:2000377	0.0002
+4FEZ-A	modulation of process of other organism involved in symbiotic interaction	GO:0051817	0.0002
+4FEZ-A	double-strand break repair via homologous recombination	GO:0000724	0.0000
+4FEZ-A	water-soluble vitamin biosynthetic process	GO:0042364	0.1076
+4FEZ-A	multicellular organism development	GO:0007275	0.0043
+4FEZ-A	cellular carbohydrate biosynthetic process	GO:0034637	0.0750
+4FEZ-A	response to hexose	GO:0009746	0.0004
+4FEZ-A	aging	GO:0007568	0.0015
+4FEZ-A	negative regulation of Wnt signaling pathway	GO:0030178	0.0000
+4FEZ-A	ketone biosynthetic process	GO:0042181	0.0125
+4FEZ-A	anatomical structure development	GO:0048856	0.0600
+4FEZ-A	taxis	GO:0042330	0.0007
+4FEZ-A	regulation of macromolecule biosynthetic process	GO:0010556	0.0125
+4FEZ-A	glycosyl compound catabolic process	GO:1901658	0.0037
+4FEZ-A	response to reactive oxygen species	GO:0000302	0.0052
+4FEZ-A	extracellular structure organization	GO:0043062	0.0000
+4FEZ-A	UMP metabolic process	GO:0046049	0.1406
+4FEZ-A	ribonucleoprotein complex biogenesis	GO:0022613	0.0186
+4FEZ-A	entry into host	GO:0044409	0.0001
+4FEZ-A	protein insertion into membrane	GO:0051205	0.0000
+4FEZ-A	nitrogen cycle metabolic process	GO:0071941	0.0119
+4FEZ-A	regulation of mRNA stability	GO:0043488	0.0000
+4FEZ-A	sporulation	GO:0043934	0.0040
+4FEZ-A	rRNA methylation	GO:0031167	0.0026
+4FEZ-A	Fc receptor signaling pathway	GO:0038093	0.0000
+4FEZ-A	regulation of protein stability	GO:0031647	0.0003
+4FEZ-A	immune effector process	GO:0002252	0.0012
+4FEZ-A	anatomical structure maturation	GO:0071695	0.0000
+4FEZ-A	ribonucleotide metabolic process	GO:0009259	0.7036
+4FEZ-A	molybdopterin cofactor metabolic process	GO:0043545	0.0115
+4FEZ-A	hormone-mediated signaling pathway	GO:0009755	0.0000
+4FEZ-A	negative regulation of cell population proliferation	GO:0008285	0.0000
+4FEZ-A	cell part morphogenesis	GO:0032990	0.0000
+4FEZ-A	immune response	GO:0006955	0.0004
+4FEZ-A	hemostasis	GO:0007599	0.0000
+4FEZ-A	establishment of protein localization to extracellular region	GO:0035592	0.0002
+4FEZ-A	regulation of nervous system development	GO:0051960	0.0000
+4FEZ-A	nitric oxide metabolic process	GO:0046209	0.0000
+4FEZ-A	intracellular signal transduction	GO:0035556	0.0062
+4FEZ-A	protein stabilization	GO:0050821	0.0002
+4FEZ-A	regulation of lymphocyte mediated immunity	GO:0002706	0.0000
+4FEZ-A	nucleoside bisphosphate biosynthetic process	GO:0033866	0.0598
+4FEZ-A	maturation of 5.8S rRNA	GO:0000460	0.0001
+4FEZ-A	response to other organism	GO:0051707	0.0032
+4FEZ-A	regulation of localization	GO:0032879	0.0005
+4FEZ-A	deoxyribonucleotide metabolic process	GO:0009262	0.0368
+4FEZ-A	movement of cell or subcellular component	GO:0006928	0.0146
+4FEZ-A	lysine biosynthetic process via diaminopimelate	GO:0009089	0.2461
+4FEZ-A	coenzyme A metabolic process	GO:0015936	0.0144
+4FEZ-A	positive regulation of transmembrane transport	GO:0034764	0.0000
+4FEZ-A	positive regulation of macromolecule metabolic process	GO:0010604	0.0037
+4FEZ-A	pyrimidine nucleoside triphosphate biosynthetic process	GO:0009148	0.0745
+4FEZ-A	immunoglobulin production	GO:0002377	0.0000
+4FEZ-A	immune response-activating signal transduction	GO:0002757	0.0001
+4FEZ-A	protein-DNA complex subunit organization	GO:0071824	0.0000
+4FEZ-A	RNA biosynthetic process	GO:0032774	0.0105
+4FEZ-A	nucleobase metabolic process	GO:0009112	0.1239
+4FEZ-A	acyl-CoA biosynthetic process	GO:0071616	0.0370
+4FEZ-A	reproductive system development	GO:0061458	0.0002
+4FEZ-A	nicotinamide nucleotide biosynthetic process	GO:0019359	0.0248
+4FEZ-A	NIK/NF-kappaB signaling	GO:0038061	0.0000
+4FEZ-A	regulation of nuclear division	GO:0051783	0.0000
+4FEZ-A	glycerolipid biosynthetic process	GO:0045017	0.0019
+4FEZ-A	hormone secretion	GO:0046879	0.0000
+4FEZ-A	cellular response to insulin stimulus	GO:0032869	0.0001
+4FEZ-A	lipid modification	GO:0030258	0.0135
+4FEZ-A	divalent metal ion transport	GO:0070838	0.0001
+4FEZ-A	purine nucleoside monophosphate metabolic process	GO:0009126	0.3848
+4FEZ-A	negative regulation of nucleic acid-templated transcription	GO:1903507	0.0008
+4FEZ-A	T cell differentiation	GO:0030217	0.0000
+4FEZ-A	purine-containing compound catabolic process	GO:0072523	0.0078
+4FEZ-A	sensory perception of sound	GO:0007605	0.0000
+4FEZ-A	animal organ morphogenesis	GO:0009887	0.0000
+4FEZ-A	toll-like receptor signaling pathway	GO:0002224	0.0000
+4FEZ-A	regulation of defense response	GO:0031347	0.0002
+4FEZ-A	respiratory electron transport chain	GO:0022904	0.0025
+4FEZ-A	organophosphate metabolic process	GO:0019637	0.7451
+4FEZ-A	neutrophil migration	GO:1990266	0.0000
+4FEZ-A	RNA localization	GO:0006403	0.0001
+4FEZ-A	multi-multicellular organism process	GO:0044706	0.0000
+4FEZ-A	glucan biosynthetic process	GO:0009250	0.0029
+4FEZ-A	myeloid cell activation involved in immune response	GO:0002275	0.0000
+4FEZ-A	plasma membrane bounded cell projection assembly	GO:0120031	0.0000
+4FEZ-A	fatty acid derivative metabolic process	GO:1901568	0.0035
+4FEZ-A	carbohydrate metabolic process	GO:0005975	0.2143
+4FEZ-A	isopentenyl diphosphate biosynthetic process	GO:0009240	0.0364
+4FEZ-A	regulation of gene expression	GO:0010468	0.0147
+4FEZ-A	lipid metabolic process	GO:0006629	0.2477
+4FEZ-A	regulation of cell size	GO:0008361	0.0001
+4FEZ-A	axon guidance	GO:0007411	0.0000
+4FEZ-A	vitamin B6 biosynthetic process	GO:0042819	0.0716
+4FEZ-A	negative regulation of cellular amide metabolic process	GO:0034249	0.0011
+4FEZ-A	aspartate family amino acid biosynthetic process	GO:0009067	0.3651
+4FEZ-A	aromatic compound catabolic process	GO:0019439	0.0907
+4FEZ-A	negative regulation of nucleobase-containing compound metabolic process	GO:0045934	0.0029
+4FEZ-A	ossification	GO:0001503	0.0000
+4FEZ-A	positive regulation of leukocyte cell-cell adhesion	GO:1903039	0.0000
+4FEZ-A	regulation of leukocyte chemotaxis	GO:0002688	0.0000
+4FEZ-A	pyrimidine nucleoside triphosphate metabolic process	GO:0009147	0.0923
+4FEZ-A	nucleotide biosynthetic process	GO:0009165	0.6315
+4FEZ-A	negative regulation of molecular function	GO:0044092	0.0005
+4FEZ-A	regulation of transmembrane transport	GO:0034762	0.0003
+4FEZ-A	regulation of DNA-binding transcription factor activity	GO:0051090	0.0001
+4FEZ-A	covalent chromatin modification	GO:0016569	0.0005
+4FEZ-A	ribonucleoside bisphosphate metabolic process	GO:0033875	0.0590
+4FEZ-A	microtubule cytoskeleton organization	GO:0000226	0.0001
+4FEZ-A	import into nucleus	GO:0051170	0.0000
+4FEZ-A	regulation of supramolecular fiber organization	GO:1902903	0.0000
+4FEZ-A	calcium ion homeostasis	GO:0055074	0.0000
+4FEZ-A	negative regulation of cell cycle phase transition	GO:1901988	0.0000
+4FEZ-A	tetrapyrrole biosynthetic process	GO:0033014	0.0431
+4FEZ-A	catabolic process	GO:0009056	0.4866
+4FEZ-A	regulation of cytoskeleton organization	GO:0051493	0.0000
+4FEZ-A	negative regulation of cellular biosynthetic process	GO:0031327	0.0028
+4FEZ-A	defense response to other organism	GO:0098542	0.0019
+4FEZ-A	striated muscle contraction	GO:0006941	0.0000
+4FEZ-A	cellular polysaccharide catabolic process	GO:0044247	0.0004
+4FEZ-A	cell wall organization	GO:0071555	0.0559
+4FEZ-A	exit from host cell	GO:0035891	0.0000
+4FEZ-A	positive regulation of signaling	GO:0023056	0.0002
+4FEZ-A	organelle fission	GO:0048285	0.0000
+4FEZ-A	arginine biosynthetic process	GO:0006526	0.1457
+4FEZ-A	response to carbohydrate	GO:0009743	0.0015
+4FEZ-A	cellular alkane metabolic process	GO:0043446	0.0015
+4FEZ-A	cell chemotaxis	GO:0060326	0.0000
+4FEZ-A	cellular response to steroid hormone stimulus	GO:0071383	0.0000
+4FEZ-A	purine nucleoside bisphosphate biosynthetic process	GO:0034033	0.0409
+4FEZ-A	regulation of carbohydrate metabolic process	GO:0006109	0.0014
+4FEZ-A	L-methionine biosynthetic process	GO:0071265	0.0299
+4FEZ-A	small GTPase mediated signal transduction	GO:0007264	0.0003
+4FEZ-A	protein localization	GO:0008104	0.0014
+4FEZ-A	negative regulation of transport	GO:0051051	0.0000
+4FEZ-A	organelle fusion	GO:0048284	0.0000
+4FEZ-A	cellular respiration	GO:0045333	0.0955
+4FEZ-A	positive regulation of cellular metabolic process	GO:0031325	0.0069
+4FEZ-A	thiamine-containing compound metabolic process	GO:0042723	0.0096
+4FEZ-A	cellular cation homeostasis	GO:0030003	0.0012
+4FEZ-A	regulation of DNA replication	GO:0006275	0.0001
+4FEZ-A	regulation of cytokine secretion	GO:0050707	0.0000
+4FEZ-A	signal release from synapse	GO:0099643	0.0000
+4FEZ-A	CTP biosynthetic process	GO:0006241	0.0746
+4FEZ-A	endomembrane system organization	GO:0010256	0.0000
+4FEZ-A	purine ribonucleoside biosynthetic process	GO:0046129	0.2901
+4FEZ-A	membrane invagination	GO:0010324	0.0000
+4FEZ-A	nucleotide salvage	GO:0043173	0.0749
+4FEZ-A	B cell activation	GO:0042113	0.0000
+4FEZ-A	neurotransmitter secretion	GO:0007269	0.0000
+4FEZ-A	transcription preinitiation complex assembly	GO:0070897	0.0000
+4FEZ-A	central nervous system development	GO:0007417	0.0001
+4FEZ-A	positive regulation of response to external stimulus	GO:0032103	0.0000
+4FEZ-A	system development	GO:0048731	0.0024
+4FEZ-A	carbon fixation	GO:0015977	0.0280
+4FEZ-A	positive regulation of multicellular organismal process	GO:0051240	0.0001
+4FEZ-A	glial cell differentiation	GO:0010001	0.0000
+4FEZ-A	positive regulation of molecular function	GO:0044093	0.0018
+4FEZ-A	regulation of translation	GO:0006417	0.0059
+4FEZ-A	phosphatidylinositol metabolic process	GO:0046488	0.0036
+4FEZ-A	cell projection assembly	GO:0030031	0.0001
+4FEZ-A	divalent inorganic cation homeostasis	GO:0072507	0.0000
+4FEZ-A	ncRNA catabolic process	GO:0034661	0.0016
+4FEZ-A	membrane lipid metabolic process	GO:0006643	0.0250
+4FEZ-A	inorganic ion transmembrane transport	GO:0098660	0.0282
+4FEZ-A	regulation of mitotic cell cycle phase transition	GO:1901990	0.0000
+4FEZ-A	ornithine metabolic process	GO:0006591	0.0576
+4FEZ-A	synapse organization	GO:0050808	0.0000
+4FEZ-A	cell activation	GO:0001775	0.0000
+4FEZ-A	cellular amide metabolic process	GO:0043603	0.4922
+4FEZ-A	glycine biosynthetic process	GO:0006545	0.0189
+4FEZ-A	negative regulation of establishment of protein localization	GO:1904950	0.0000
+4FEZ-A	in utero embryonic development	GO:0001701	0.0000
+4FEZ-A	rRNA processing	GO:0006364	0.0087
+4FEZ-A	extrinsic apoptotic signaling pathway	GO:0097191	0.0000
+4FEZ-A	nucleoside biosynthetic process	GO:0009163	0.2160
+4FEZ-A	deoxyribonucleoside triphosphate biosynthetic process	GO:0009202	0.0125
+4FEZ-A	cellular response to organonitrogen compound	GO:0071417	0.0042
+4FEZ-A	base-excision repair	GO:0006284	0.0025
+4FEZ-A	secondary metabolite biosynthetic process	GO:0044550	0.0011
+4FEZ-A	pyrimidine ribonucleotide biosynthetic process	GO:0009220	0.2909
+4FEZ-A	pyruvate family amino acid metabolic process	GO:0009078	0.0157
+4FEZ-A	regulation of epithelial cell proliferation	GO:0050678	0.0000
+4FEZ-A	positive regulation of hydrolase activity	GO:0051345	0.0003
+4FEZ-A	positive regulation of proteolysis	GO:0045862	0.0000
+4FEZ-A	peptidyl-serine phosphorylation	GO:0018105	0.0000
+4FEZ-A	positive regulation of GTPase activity	GO:0043547	0.0000
+4FEZ-A	pyrimidine deoxyribonucleotide metabolic process	GO:0009219	0.0093
+4FEZ-A	axon development	GO:0061564	0.0000
+4FEZ-A	regulation of mononuclear cell proliferation	GO:0032944	0.0000
+4FEZ-A	internal protein amino acid acetylation	GO:0006475	0.0002
+4FEZ-A	protein-DNA complex assembly	GO:0065004	0.0000
+4FEZ-A	regulation of innate immune response	GO:0045088	0.0000
+4FEZ-A	regulation of cellular protein metabolic process	GO:0032268	0.0026
+4FEZ-A	response to acid chemical	GO:0001101	0.0003
+4FEZ-A	regulation of cell projection organization	GO:0031344	0.0000
+4FEZ-A	nicotinamide nucleotide metabolic process	GO:0046496	0.0365
+4FEZ-A	regulation of protein secretion	GO:0050708	0.0000
+4FEZ-A	IMP metabolic process	GO:0046040	0.2211
+4FEZ-A	aminoglycan metabolic process	GO:0006022	0.0448
+4FEZ-A	regulation of signaling	GO:0023051	0.0006
+4FEZ-A	cellular protein localization	GO:0034613	0.0010
+4FEZ-A	cholesterol metabolic process	GO:0008203	0.0009
+4FEZ-A	regulation of binding	GO:0051098	0.0001
+4FEZ-A	multicellular organismal homeostasis	GO:0048871	0.0000
+4FEZ-A	anatomical structure homeostasis	GO:0060249	0.0002
+4FEZ-A	negative regulation of chromosome organization	GO:2001251	0.0000
+4FEZ-A	cellular response to chemical stress	GO:0062197	0.0056
+4FEZ-A	regulation of organelle organization	GO:0033043	0.0002
+4FEZ-A	stem cell differentiation	GO:0048863	0.0000
+4FEZ-A	macromolecule localization	GO:0033036	0.0015
+4FEZ-A	regulation of hemopoiesis	GO:1903706	0.0000
+4FEZ-A	regulation of protein catabolic process	GO:0042176	0.0002
+4FEZ-A	mRNA cis splicing, via spliceosome	GO:0045292	0.0000
+4FEZ-A	protein acylation	GO:0043543	0.0012
+4FEZ-A	regulation of glucose metabolic process	GO:0010906	0.0002
+4FEZ-A	biological adhesion	GO:0022610	0.0004
+4FEZ-A	protein targeting to ER	GO:0045047	0.0016
+4FEZ-A	mRNA transport	GO:0051028	0.0000
+4FEZ-A	mRNA 3'-end processing	GO:0031124	0.0000
+4FEZ-A	glycosyl compound biosynthetic process	GO:1901659	0.2012
+4FEZ-A	protein homotetramerization	GO:0051289	0.0199
+4FEZ-A	positive regulation of protein metabolic process	GO:0051247	0.0008
+4FEZ-A	regulation of G1/S transition of mitotic cell cycle	GO:2000045	0.0000
+4FEZ-A	cellular homeostasis	GO:0019725	0.0031
+4FEZ-A	response to growth factor	GO:0070848	0.0000
+4FEZ-A	negative regulation of protein phosphorylation	GO:0001933	0.0000
+4FEZ-A	response to defenses of other organism	GO:0052173	0.0004
+4FEZ-A	dephosphorylation	GO:0016311	0.0108
+4FEZ-A	establishment of protein localization to mitochondrion	GO:0072655	0.0000
+4FEZ-A	establishment of vesicle localization	GO:0051650	0.0000
+4FEZ-A	negative regulation of signaling	GO:0023057	0.0000
+4FEZ-A	positive regulation of leukocyte migration	GO:0002687	0.0000
+4FEZ-A	positive regulation of protein kinase activity	GO:0045860	0.0001
+4FEZ-A	positive regulation of cell-cell adhesion	GO:0022409	0.0000
+4FEZ-A	wound healing	GO:0042060	0.0000
+4FEZ-A	double-strand break repair	GO:0006302	0.0006
+4FEZ-A	chaperone-mediated protein folding	GO:0061077	0.0001
+4FEZ-A	response to maltose	GO:0034286	0.0000
+4FEZ-A	carbohydrate biosynthetic process	GO:0016051	0.2784
+4FEZ-A	peptide transport	GO:0015833	0.0019
+4FEZ-A	cellular component organization	GO:0016043	0.1954
+4FEZ-A	protein depolymerization	GO:0051261	0.0000
+4FEZ-A	vitamin biosynthetic process	GO:0009110	0.1171
+4FEZ-A	carbohydrate derivative catabolic process	GO:1901136	0.0211
+4FEZ-A	Wnt signaling pathway	GO:0016055	0.0000
+4FEZ-A	long-chain fatty acid transport	GO:0015909	0.0000
+4FEZ-A	regulation of multicellular organismal development	GO:2000026	0.0002
+4FEZ-A	transmembrane transport	GO:0055085	0.0434
+4FEZ-A	negative regulation of DNA-binding transcription factor activity	GO:0043433	0.0000
+4FEZ-A	pyrimidine ribonucleoside triphosphate biosynthetic process	GO:0009209	0.0968
+4FEZ-A	carbohydrate derivative metabolic process	GO:1901135	0.6482
+4FEZ-A	proteasomal ubiquitin-independent protein catabolic process	GO:0010499	0.0002
+4FEZ-A	cellular response to decreased oxygen levels	GO:0036294	0.0001
+4FEZ-A	lipid phosphorylation	GO:0046834	0.0016
+4FEZ-A	regulation of cation transmembrane transport	GO:1904062	0.0000
+4FEZ-A	cellular response to peptide hormone stimulus	GO:0071375	0.0001
+4FEZ-A	tube development	GO:0035295	0.0001
+4FEZ-A	nucleoside monophosphate metabolic process	GO:0009123	0.5571
+4FEZ-A	vitamin B6 metabolic process	GO:0042816	0.0453
+4FEZ-A	ribose phosphate metabolic process	GO:0019693	0.7010
+4FEZ-A	leukocyte cell-cell adhesion	GO:0007159	0.0000
+4FEZ-A	regulation of hormone secretion	GO:0046883	0.0000
+4FEZ-A	protein modification by small protein conjugation	GO:0032446	0.0007
+4FEZ-A	AMP biosynthetic process	GO:0006167	0.0621
+4FEZ-A	arachidonic acid secretion	GO:0050482	0.0000
+4FEZ-A	lipopolysaccharide metabolic process	GO:0008653	0.0395
+4FEZ-A	ribosomal small subunit assembly	GO:0000028	0.0004
+4FEZ-A	lipoprotein metabolic process	GO:0042157	0.0000
+4FEZ-A	'de novo' UMP biosynthetic process	GO:0044205	0.0959
+4FEZ-A	microtubule cytoskeleton organization involved in mitosis	GO:1902850	0.0000
+4FEZ-A	RNA 5'-end processing	GO:0000966	0.0002
+4FEZ-A	positive regulation of cellular component organization	GO:0051130	0.0002
+4FEZ-A	negative regulation of kinase activity	GO:0033673	0.0000
+4FEZ-A	activation of immune response	GO:0002253	0.0000
+4FEZ-A	regulation of phosphorus metabolic process	GO:0051174	0.0017
+4FEZ-A	regulation of GTPase activity	GO:0043087	0.0000
+4FEZ-A	maintenance of location	GO:0051235	0.0001
+4FEZ-A	pteridine-containing compound metabolic process	GO:0042558	0.0351
+4FEZ-A	chromatin silencing	GO:0006342	0.0000
+4FEZ-A	organic acid biosynthetic process	GO:0016053	0.6416
+4FEZ-A	regulation of neurotransmitter secretion	GO:0046928	0.0000
+4FEZ-A	serine family amino acid metabolic process	GO:0009069	0.1339
+4FEZ-A	purine-containing compound biosynthetic process	GO:0072522	0.6450
+4FEZ-A	cytokine secretion	GO:0050663	0.0000
+4FEZ-A	mitotic cell cycle checkpoint	GO:0007093	0.0000
+4FEZ-A	regulation of nitrogen compound metabolic process	GO:0051171	0.0133
+4FEZ-A	T cell proliferation	GO:0042098	0.0000
+4FEZ-A	ncRNA transcription	GO:0098781	0.0000
+4FEZ-A	regulation of ion transport	GO:0043269	0.0001
+4FEZ-A	neuron differentiation	GO:0030182	0.0000
+4FEZ-A	inorganic cation transmembrane transport	GO:0098662	0.0298
+4FEZ-A	actomyosin structure organization	GO:0031032	0.0000
+4FEZ-A	cellular iron ion homeostasis	GO:0006879	0.0004
+4FEZ-A	endoplasmic reticulum to Golgi vesicle-mediated transport	GO:0006888	0.0000
+4FEZ-A	RNA 3'-end processing	GO:0031123	0.0022
+4FEZ-A	positive regulation of MAP kinase activity	GO:0043406	0.0000
+4FEZ-A	cell cycle arrest	GO:0007050	0.0000
+4FEZ-A	regulation of MAP kinase activity	GO:0043405	0.0000
+4FEZ-A	maturation of LSU-rRNA	GO:0000470	0.0003
+4FEZ-A	detection of maltose stimulus	GO:0034289	0.0000
+4FEZ-A	nucleotide-sugar biosynthetic process	GO:0009226	0.0895
+4FEZ-A	reactive oxygen species metabolic process	GO:0072593	0.0029
+4FEZ-A	monocarboxylic acid transport	GO:0015718	0.0001
+4FEZ-A	pathogenesis	GO:0009405	0.0061
+4FEZ-A	organic acid metabolic process	GO:0006082	0.8570
+4FEZ-A	regulation of cell morphogenesis involved in differentiation	GO:0010769	0.0000
+4FEZ-A	protein polymerization	GO:0051258	0.0002
+4FEZ-A	ribonucleoside monophosphate metabolic process	GO:0009161	0.4889
+4FEZ-A	glycosaminoglycan catabolic process	GO:0006027	0.0002
+4FEZ-A	negative regulation of cell differentiation	GO:0045596	0.0000
+4FEZ-A	regulation of small GTPase mediated signal transduction	GO:0051056	0.0000
+4FEZ-A	liposaccharide metabolic process	GO:1903509	0.0722
+4FEZ-A	divalent inorganic cation transport	GO:0072511	0.0004
+4FEZ-A	regulation of response to wounding	GO:1903034	0.0000
+4FEZ-A	regulation of adaptive immune response	GO:0002819	0.0000
+4FEZ-A	regulation of peptide transport	GO:0090087	0.0000
+4FEZ-A	monocarboxylic acid biosynthetic process	GO:0072330	0.1591
+4FEZ-A	regulation of protein localization	GO:0032880	0.0000
+4FEZ-A	autophagosome organization	GO:1905037	0.0000
+4FEZ-A	CTP metabolic process	GO:0046036	0.0743
+4FEZ-A	fatty acid transport	GO:0015908	0.0000
+4FEZ-A	cellular response to hydrogen peroxide	GO:0070301	0.0004
+4FEZ-A	amino acid activation	GO:0043038	0.1791
+4FEZ-A	plasma membrane bounded cell projection morphogenesis	GO:0120039	0.0000
+4FEZ-A	regulation of cell killing	GO:0031341	0.0000
+4FEZ-A	system process	GO:0003008	0.0003
+4FEZ-A	stress-activated MAPK cascade	GO:0051403	0.0000
+4FEZ-A	glycosylation	GO:0070085	0.0010
+4FEZ-A	calcium ion transmembrane import into cytosol	GO:0097553	0.0000
+4FEZ-A	mitochondrial respiratory chain complex assembly	GO:0033108	0.0000
+4FEZ-A	negative regulation of actin filament polymerization	GO:0030837	0.0000
+4FEZ-A	cellular response to inorganic substance	GO:0071241	0.0007
+4FEZ-A	ubiquitin-dependent protein catabolic process	GO:0006511	0.0015
+4FEZ-A	tissue migration	GO:0090130	0.0000
+4FEZ-A	maltodextrin transport	GO:0042956	0.0000
+4FEZ-A	disaccharide metabolic process	GO:0005984	0.0027
+4FEZ-A	negative regulation of developmental process	GO:0051093	0.0004
+4FEZ-A	pentose metabolic process	GO:0019321	0.0078
+4FEZ-A	cytolysis in other organism	GO:0051715	0.0000
+4FEZ-A	detection of stimulus	GO:0051606	0.0047
+4FEZ-A	response to insulin	GO:0032868	0.0003
+4FEZ-A	regulation of complement activation	GO:0030449	0.0000
+4FEZ-A	purine ribonucleotide biosynthetic process	GO:0009152	0.4467
+4FEZ-A	lymphocyte activation	GO:0046649	0.0000
+4FEZ-A	T cell activation	GO:0042110	0.0000
+4FEZ-A	negative regulation of secretion by cell	GO:1903531	0.0000
+4FEZ-A	negative regulation of cellular process	GO:0048523	0.0030
+4FEZ-A	regulation of nucleobase-containing compound metabolic process	GO:0019219	0.0082
+4FEZ-A	actin filament-based process	GO:0030029	0.0001
+4FEZ-A	cell wall biogenesis	GO:0042546	0.0217
+4FEZ-A	modulation by virus of host process	GO:0019048	0.0001
+4FEZ-A	cellular lactam metabolic process	GO:0072338	0.0000
+4FEZ-A	mitotic cell cycle	GO:0000278	0.0004
+4FEZ-A	negative regulation of intracellular signal transduction	GO:1902532	0.0000
+4FEZ-A	endocytosis	GO:0006897	0.0000
+4FEZ-A	cell redox homeostasis	GO:0045454	0.0017
+4FEZ-A	pyrimidine ribonucleotide metabolic process	GO:0009218	0.3071
+4FEZ-A	nuclear division	GO:0000280	0.0000
+4FEZ-A	aspartate family amino acid metabolic process	GO:0009066	0.2880
+4FEZ-A	polyol biosynthetic process	GO:0046173	0.0034
+4FEZ-A	regulation of stress-activated MAPK cascade	GO:0032872	0.0000
+4FEZ-A	intrinsic apoptotic signaling pathway	GO:0097193	0.0000
+4FEZ-A	establishment of protein localization to endoplasmic reticulum	GO:0072599	0.0016
+4FEZ-A	B cell receptor signaling pathway	GO:0050853	0.0000
+4FEZ-A	purine nucleoside triphosphate biosynthetic process	GO:0009145	0.0923
+4FEZ-A	DNA-templated transcription, initiation	GO:0006352	0.0001
+4FEZ-A	regulation of locomotion	GO:0040012	0.0003
+4FEZ-A	germ cell development	GO:0007281	0.0000
+4FEZ-A	cell junction organization	GO:0034330	0.0000
+4FEZ-A	purine ribonucleotide metabolic process	GO:0009150	0.5974
+4FEZ-A	circulatory system process	GO:0003013	0.0000
+4FEZ-A	cell wall polysaccharide metabolic process	GO:0010383	0.0002
+4FEZ-A	mitochondrial electron transport, NADH to ubiquinone	GO:0006120	0.0000
+4FEZ-A	ERK1 and ERK2 cascade	GO:0070371	0.0000
+4FEZ-A	cellular response to molecule of bacterial origin	GO:0071219	0.0000
+4FEZ-A	positive regulation of protein serine/threonine kinase activity	GO:0071902	0.0000
+4FEZ-A	oligosaccharide biosynthetic process	GO:0009312	0.0306
+4FEZ-A	cellular lactam catabolic process	GO:0072340	0.0000
+4FEZ-A	aminoglycan biosynthetic process	GO:0006023	0.0268
+4FEZ-A	positive regulation of cellular component biogenesis	GO:0044089	0.0003
+4FEZ-A	regulation of lipid biosynthetic process	GO:0046890	0.0001
+4FEZ-A	regulation of actin cytoskeleton organization	GO:0032956	0.0000
+4FEZ-A	G1/S transition of mitotic cell cycle	GO:0000082	0.0000
+4FEZ-A	regulation of actin filament organization	GO:0110053	0.0000
+4FEZ-A	regulation of anatomical structure morphogenesis	GO:0022603	0.0279
+4FEZ-A	process utilizing autophagic mechanism	GO:0061919	0.0000
+4FEZ-A	negative regulation of supramolecular fiber organization	GO:1902904	0.0000
+4FEZ-A	iron ion homeostasis	GO:0055072	0.0006
+4FEZ-A	organelle assembly	GO:0070925	0.0061
+4FEZ-A	positive regulation of innate immune response	GO:0045089	0.0000
+4FEZ-A	regulation of intracellular signal transduction	GO:1902531	0.0008
+4FEZ-A	positive regulation of defense response	GO:0031349	0.0000
+4FEZ-A	cellular response to nitrogen compound	GO:1901699	0.0058
+4FEZ-A	enzyme linked receptor protein signaling pathway	GO:0007167	0.0000
+4FEZ-A	cytokine-mediated signaling pathway	GO:0019221	0.0000
+4FEZ-A	regulation of cellular component biogenesis	GO:0044087	0.0008
+4FEZ-A	gland development	GO:0048732	0.0000
+4FEZ-A	response to cytokine	GO:0034097	0.0000
+4FEZ-A	response to steroid hormone	GO:0048545	0.0000
+4FEZ-A	multi-organism membrane fusion	GO:0044800	0.0000
+4FEZ-A	blood vessel development	GO:0001568	0.0000
+4FEZ-A	nucleosome organization	GO:0034728	0.0000
+4FEZ-A	defense response to bacterium	GO:0042742	0.0003
+4FEZ-A	cytoplasmic translation	GO:0002181	0.0077
+4FEZ-A	branched-chain amino acid biosynthetic process	GO:0009082	0.1682
+4FEZ-A	leucine metabolic process	GO:0006551	0.1046
+4FEZ-A	cell communication	GO:0007154	0.0325
+4FEZ-A	beta-lactam antibiotic catabolic process	GO:0030655	0.0000
+4FEZ-A	adhesion of symbiont to host cell	GO:0044650	0.0000
+4FEZ-A	phosphorelay signal transduction system	GO:0000160	0.0005
+4FEZ-A	temperature homeostasis	GO:0001659	0.0000
+4FEZ-A	nucleobase-containing compound catabolic process	GO:0034655	0.0796
+4FEZ-A	regulation of epithelial cell migration	GO:0010632	0.0000
+4FEZ-A	regulation of protein metabolic process	GO:0051246	0.0058
+4FEZ-A	coagulation	GO:0050817	0.0000
+4FEZ-A	regulation of autophagy	GO:0010506	0.0000
+4FEZ-A	negative regulation of biological process	GO:0048519	0.0049
+4FEZ-A	organic acid catabolic process	GO:0016054	0.1095
+4FEZ-A	deoxyribose phosphate metabolic process	GO:0019692	0.0613
+4FEZ-A	cell cycle process	GO:0022402	0.0034
+4FEZ-A	mononuclear cell proliferation	GO:0032943	0.0000
+4FEZ-A	multi-organism localization	GO:1902579	0.0000
+4FEZ-A	regulation of DNA metabolic process	GO:0051052	0.0007
+4FEZ-A	establishment of organelle localization	GO:0051656	0.0001
+4FEZ-A	cellular response to stress	GO:0033554	0.0840
+4FEZ-A	macromolecule glycosylation	GO:0043413	0.0007
+4FEZ-A	amide transport	GO:0042886	0.0019
+4FEZ-A	aerobic respiration	GO:0009060	0.1167
+4FEZ-A	cellular calcium ion homeostasis	GO:0006874	0.0000
+4FEZ-A	spliceosomal snRNP assembly	GO:0000387	0.0000
+4FEZ-A	polysaccharide metabolic process	GO:0005976	0.0552
+4FEZ-A	positive regulation of gene expression	GO:0010628	0.0019
+4FEZ-A	purine ribonucleoside triphosphate biosynthetic process	GO:0009206	0.1297
+4FEZ-A	post-translational protein modification	GO:0043687	0.0004
+4FEZ-A	negative regulation of cytokine production	GO:0001818	0.0000
+4FEZ-A	embryonic morphogenesis	GO:0048598	0.0000
+4FEZ-A	response to tumor necrosis factor	GO:0034612	0.0000
+4FEZ-A	regulation of protein serine/threonine kinase activity	GO:0071900	0.0000
+4FEZ-A	tetrahydrofolate biosynthetic process	GO:0046654	0.0050
+4FEZ-A	regulation of growth	GO:0040008	0.0023
+4FEZ-A	response to calcium ion	GO:0051592	0.0000
+4FEZ-A	regulation of signal transduction by p53 class mediator	GO:1901796	0.0000
+4FEZ-A	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO:0002460	0.0000
+4FEZ-A	oxoacid metabolic process	GO:0043436	0.8652
+4FEZ-A	phosphorylation	GO:0016310	0.4283
+4FEZ-A	nucleotide-excision repair	GO:0006289	0.0023
+4FEZ-A	protein modification by small protein conjugation or removal	GO:0070647	0.0007
+4FEZ-A	defense response to Gram-positive bacterium	GO:0050830	0.0000
+4FEZ-A	protein methylation	GO:0006479	0.0005
+4FEZ-A	cytokinetic process	GO:0032506	0.0030
+4FEZ-A	peptidoglycan-based cell wall biogenesis	GO:0009273	0.0241
+4FEZ-A	receptor signaling pathway via STAT	GO:0097696	0.0000
+4FEZ-A	viral genome replication	GO:0019079	0.0002
+4FEZ-A	epithelial cell differentiation	GO:0030855	0.0000
+4FEZ-A	skeletal system development	GO:0001501	0.0000
+4FEZ-A	negative regulation of cytoskeleton organization	GO:0051494	0.0000
+4FEZ-A	negative regulation of cell cycle process	GO:0010948	0.0000
+4FEZ-A	pattern recognition receptor signaling pathway	GO:0002221	0.0000
+4FEZ-A	regulation of heart contraction	GO:0008016	0.0000
+4FEZ-A	detection of disaccharide stimulus	GO:0034288	0.0000
+4FEZ-A	ribosomal large subunit biogenesis	GO:0042273	0.0021
+4FEZ-A	cellulose catabolic process	GO:0030245	0.0002
+4FEZ-A	mitotic cell cycle phase transition	GO:0044772	0.0000
+4FEZ-A	membrane lipid biosynthetic process	GO:0046467	0.0487
+4FEZ-A	protein modification by small protein removal	GO:0070646	0.0002
+4FEZ-A	macromolecule methylation	GO:0043414	0.0108
+4FEZ-A	nuclear export	GO:0051168	0.0001
+4FEZ-A	amino acid transport	GO:0006865	0.0024
+4FEZ-A	electron transport chain	GO:0022900	0.0171
+4FEZ-A	response to toxic substance	GO:0009636	0.0056
+4FEZ-A	cotranslational protein targeting to membrane	GO:0006613	0.0010
+4FEZ-A	response to starvation	GO:0042594	0.0008
+4FEZ-A	NADPH regeneration	GO:0006740	0.0305
+4FEZ-A	regulation of transport	GO:0051049	0.0002
+4FEZ-A	cellular response to environmental stimulus	GO:0104004	0.0005
+4FEZ-A	monosaccharide transmembrane transport	GO:0015749	0.0001
+4FEZ-A	regulation of cellular ketone metabolic process	GO:0010565	0.0016
+4FEZ-A	rRNA modification	GO:0000154	0.0019
+4FEZ-A	telomere maintenance	GO:0000723	0.0001
+4FEZ-A	terpenoid metabolic process	GO:0006721	0.0109
+4FEZ-A	tetrapyrrole metabolic process	GO:0033013	0.0633
+4FEZ-A	regulation of muscle system process	GO:0090257	0.0000
+4FEZ-A	peptidyl-proline modification	GO:0018208	0.0010
+4FEZ-A	regulation of calcium ion transmembrane transport	GO:1903169	0.0000
+4FEZ-A	ribonucleoside bisphosphate biosynthetic process	GO:0034030	0.0578
+4FEZ-A	AMP metabolic process	GO:0046033	0.0714
+4FEZ-A	arachidonate transport	GO:1903963	0.0000
+4FEZ-A	peptidyl-lysine modification	GO:0018205	0.0046
+4FEZ-A	peptidoglycan biosynthetic process	GO:0009252	0.0272
+4FEZ-A	mRNA catabolic process	GO:0006402	0.0026
+4FEZ-A	regulation of intrinsic apoptotic signaling pathway	GO:2001242	0.0000
+4FEZ-A	regulation of metal ion transport	GO:0010959	0.0000
+4FEZ-A	proteasome-mediated ubiquitin-dependent protein catabolic process	GO:0043161	0.0003
+4FEZ-A	pyrimidine deoxyribonucleoside monophosphate metabolic process	GO:0009176	0.0144
+4FEZ-A	nucleoside catabolic process	GO:0009164	0.0052
+4FEZ-A	peptidyl-tyrosine modification	GO:0018212	0.0007
+4FEZ-A	transmembrane receptor protein tyrosine kinase signaling pathway	GO:0007169	0.0000
+4FEZ-A	response to UV	GO:0009411	0.0006
+4FEZ-A	negative regulation of catabolic process	GO:0009895	0.0003
+4FEZ-A	cytokinesis	GO:0000910	0.0040
+4FEZ-A	meiosis I cell cycle process	GO:0061982	0.0000
+4FEZ-A	membrane fusion involved in viral entry into host cell	GO:0039663	0.0000
+4FEZ-A	positive regulation of cell death	GO:0010942	0.0002
+4FEZ-A	energy reserve metabolic process	GO:0006112	0.0041
+4FEZ-A	apoptotic mitochondrial changes	GO:0008637	0.0000
+4FEZ-A	regulation of actin filament length	GO:0030832	0.0000
+4FEZ-A	defense response to virus	GO:0051607	0.0004
+4FEZ-A	positive regulation of establishment of protein localization	GO:1904951	0.0000
+4FEZ-A	DNA conformation change	GO:0071103	0.0310
+4FEZ-A	ribonucleoprotein complex subunit organization	GO:0071826	0.0024
+4FEZ-A	protein localization to endoplasmic reticulum	GO:0070972	0.0020
+4FEZ-A	positive regulation of small molecule metabolic process	GO:0062013	0.0000
+4FEZ-A	regulation of actin polymerization or depolymerization	GO:0008064	0.0000
+4FEZ-A	iron-sulfur cluster assembly	GO:0016226	0.0068
+4FEZ-A	ATP synthesis coupled electron transport	GO:0042773	0.0027
