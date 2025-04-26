@@ -125,7 +125,7 @@ After successfully running the ENGINE_GUI_platform.py file, you can follow the s
 #### Plot
 - In the 'Plot' on the right, we have provided a bar graph to show how the predicted scores for GO terms are arranged from highest to lowest.
 - You can customise the number of ‘Top’ displayed.  
-Fig2.................
+![image](https://github.com/Ranzixu99/ENGINE/blob/main/GUI/GUI_img/2.png)
 #### Results Table
 - On the right-hand side, in `Prediction`, we provide a table of prediction results showing the functional annotation information of the entered proteins, including the PDB ID of the underlying proteins as well as GO terms, in addition to the names corresponding to the GO terms, and the last column represents the predicted scores.  
 ![image](https://github.com/Ranzixu99/ENGINE/blob/main/GUI/GUI_img/1.png)
