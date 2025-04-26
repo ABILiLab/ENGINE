@@ -116,7 +116,7 @@ After successfully running the ENGINE_GUI_platform.py file, you can follow the s
 - Please upload a PDB file for one of the proteins you want to predict!
 ### Select Parameters
 - Set 'MF', 'BP', or 'CC' and choose one of the categories for GO terms prediction.  
-Fig1.................
+![image](https://github.com/Ranzixu99/ENGINE/blob/main/GUI/GUI_img/prediction_page.png)
 ### Predict and save results
 - Clicking the ‘Predict’ button allows you to perform prediction operations on the input PDB and selected parameters.  
 - Click ‘Save results’ button to save the prediction result as a csv file.  
