@@ -1,0 +1,490 @@
+,Proteins,Gonames,Goterms,Probability
+0,4FEZ-A,"oxidoreductase activity, acting on diphenols and related substances as donors, cytochrome as acceptor",GO:0016681,0.0
+1,4FEZ-A,cytokine receptor binding,GO:0005126,0.0
+2,4FEZ-A,transcription factor binding,GO:0008134,0.0015
+3,4FEZ-A,chlorophyll binding,GO:0016168,0.0
+4,4FEZ-A,translation regulator activity,GO:0045182,0.0001
+5,4FEZ-A,exoribonuclease activity,GO:0004532,0.0009
+6,4FEZ-A,"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",GO:0003918,0.0002
+7,4FEZ-A,peptidyl-prolyl cis-trans isomerase activity,GO:0003755,0.0
+8,4FEZ-A,ribonuclease activity,GO:0004540,0.0005
+9,4FEZ-A,adenyl ribonucleotide binding,GO:0032559,0.1991
+10,4FEZ-A,drug binding,GO:0008144,0.0001
+11,4FEZ-A,rRNA binding,GO:0019843,0.0001
+12,4FEZ-A,protein transmembrane transporter activity,GO:0008320,0.0
+13,4FEZ-A,"carbon-nitrogen ligase activity, with glutamine as amido-N-donor",GO:0016884,0.0059
+14,4FEZ-A,"endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters",GO:0016893,0.0001
+15,4FEZ-A,nickel cation binding,GO:0016151,0.0021
+16,4FEZ-A,alcohol binding,GO:0043178,0.0
+17,4FEZ-A,glutathione transferase activity,GO:0004364,0.0
+18,4FEZ-A,carboxypeptidase activity,GO:0004180,0.0003
+19,4FEZ-A,antigen binding,GO:0003823,0.0
+20,4FEZ-A,beta-glucosidase activity,GO:0008422,0.0
+21,4FEZ-A,maltose binding,GO:1901982,0.0
+22,4FEZ-A,transmembrane transporter activity,GO:0022857,0.0023
+23,4FEZ-A,oxygen binding,GO:0019825,0.0
+24,4FEZ-A,enzyme regulator activity,GO:0030234,0.0028
+25,4FEZ-A,transcription corepressor activity,GO:0003714,0.0
+26,4FEZ-A,peroxiredoxin activity,GO:0051920,0.0
+27,4FEZ-A,penicillin binding,GO:0008658,0.0
+28,4FEZ-A,"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor",GO:0016655,0.0002
+29,4FEZ-A,DNA polymerase activity,GO:0034061,0.0
+30,4FEZ-A,"oxidoreductase activity, acting on CH-OH group of donors",GO:0016614,0.2547
+31,4FEZ-A,histone methyltransferase activity,GO:0042054,0.0
+32,4FEZ-A,lipid binding,GO:0008289,0.0001
+33,4FEZ-A,protease binding,GO:0002020,0.0
+34,4FEZ-A,chemokine receptor binding,GO:0042379,0.0
+35,4FEZ-A,"peptidase activity, acting on L-amino acid peptides",GO:0070011,0.0193
+36,4FEZ-A,serine-type peptidase activity,GO:0008236,0.0022
+37,4FEZ-A,"intramolecular oxidoreductase activity, interconverting aldoses and ketoses",GO:0016861,0.0009
+38,4FEZ-A,DNA-binding transcription factor activity,GO:0003700,0.0002
+39,4FEZ-A,"oxidoreductase activity, acting on NAD(P)H",GO:0016651,0.0005
+40,4FEZ-A,carboxyl- or carbamoyltransferase activity,GO:0016743,0.0286
+41,4FEZ-A,endodeoxyribonuclease activity,GO:0004520,0.0004
+42,4FEZ-A,kinase activity,GO:0016301,0.0204
+43,4FEZ-A,carbohydrate transmembrane transporter activity,GO:0015144,0.0001
+44,4FEZ-A,RNA glycosylase activity,GO:0030597,0.0
+45,4FEZ-A,protein tyrosine kinase activity,GO:0004713,0.0
+46,4FEZ-A,"transferase activity, transferring nitrogenous groups",GO:0016769,0.0035
+47,4FEZ-A,serine hydrolase activity,GO:0017171,0.0019
+48,4FEZ-A,proton transmembrane transporter activity,GO:0015078,0.0001
+49,4FEZ-A,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",GO:0016709,0.0
+50,4FEZ-A,cobalt ion binding,GO:0050897,0.0075
+51,4FEZ-A,transaminase activity,GO:0008483,0.0045
+52,4FEZ-A,carboxylic ester hydrolase activity,GO:0052689,0.0018
+53,4FEZ-A,protein domain specific binding,GO:0019904,0.0001
+54,4FEZ-A,"oxidoreductase activity, acting on the CH-NH2 group of donors",GO:0016638,0.0189
+55,4FEZ-A,aminoacyl-tRNA ligase activity,GO:0004812,0.0005
+56,4FEZ-A,extracellular ligand-gated ion channel activity,GO:0005230,0.0
+57,4FEZ-A,lyase activity,GO:0016829,0.2458
+58,4FEZ-A,"endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 3'-phosphomonoesters",GO:0016894,0.0
+59,4FEZ-A,deaminase activity,GO:0019239,0.0102
+60,4FEZ-A,wide pore channel activity,GO:0022829,0.0
+61,4FEZ-A,sulfur compound binding,GO:1901681,0.0065
+62,4FEZ-A,molecular function regulator,GO:0098772,0.0016
+63,4FEZ-A,chemokine activity,GO:0008009,0.0
+64,4FEZ-A,RNA polymerase binding,GO:0070063,0.0
+65,4FEZ-A,threonine-type peptidase activity,GO:0070003,0.0023
+66,4FEZ-A,potassium ion transmembrane transporter activity,GO:0015079,0.0
+67,4FEZ-A,monosaccharide binding,GO:0048029,0.003
+68,4FEZ-A,N-acetyltransferase activity,GO:0008080,0.0006
+69,4FEZ-A,host cell surface binding,GO:0046812,0.0
+70,4FEZ-A,"phosphotransferase activity, carboxyl group as acceptor",GO:0016774,0.0056
+71,4FEZ-A,omega peptidase activity,GO:0008242,0.0025
+72,4FEZ-A,N-methyltransferase activity,GO:0008170,0.0
+73,4FEZ-A,microtubule binding,GO:0008017,0.0
+74,4FEZ-A,"transferase activity, transferring acyl groups",GO:0016746,0.2223
+75,4FEZ-A,"racemase and epimerase activity, acting on carbohydrates and derivatives",GO:0016857,0.0008
+76,4FEZ-A,"translation factor activity, RNA binding",GO:0008135,0.0
+77,4FEZ-A,serine-type carboxypeptidase activity,GO:0004185,0.0
+78,4FEZ-A,deoxyribonuclease activity,GO:0004536,0.0004
+79,4FEZ-A,metalloexopeptidase activity,GO:0008235,0.0012
+80,4FEZ-A,ubiquitinyl hydrolase activity,GO:0101005,0.0
+81,4FEZ-A,"hydrolase activity, acting on acid phosphorus-nitrogen bonds",GO:0016825,0.0022
+82,4FEZ-A,protein-macromolecule adaptor activity,GO:0030674,0.0
+83,4FEZ-A,aminopeptidase activity,GO:0004177,0.0015
+84,4FEZ-A,protein serine/threonine phosphatase activity,GO:0004722,0.0
+85,4FEZ-A,organic acid binding,GO:0043177,0.0631
+86,4FEZ-A,carbohydrate kinase activity,GO:0019200,0.002
+87,4FEZ-A,lipid transporter activity,GO:0005319,0.0
+88,4FEZ-A,purine nucleotide binding,GO:0017076,0.1608
+89,4FEZ-A,"phosphotransferase activity, nitrogenous group as acceptor",GO:0016775,0.0
+90,4FEZ-A,vitamin binding,GO:0019842,0.0588
+91,4FEZ-A,threonine-type endopeptidase activity,GO:0004298,0.0003
+92,4FEZ-A,modified amino acid binding,GO:0072341,0.0001
+93,4FEZ-A,galactosidase activity,GO:0015925,0.0
+94,4FEZ-A,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines",GO:0016813,0.0028
+95,4FEZ-A,"4 iron, 4 sulfur cluster binding",GO:0051539,0.0008
+96,4FEZ-A,voltage-gated potassium channel activity,GO:0005249,0.0
+97,4FEZ-A,disaccharide binding,GO:0048030,0.0
+98,4FEZ-A,ATP binding,GO:0005524,0.1805
+99,4FEZ-A,cellulase activity,GO:0008810,0.0
+100,4FEZ-A,"racemase and epimerase activity, acting on amino acids and derivatives",GO:0016855,0.0056
+101,4FEZ-A,phosphoric diester hydrolase activity,GO:0008081,0.0
+102,4FEZ-A,molecular adaptor activity,GO:0060090,0.0
+103,4FEZ-A,isoprenoid binding,GO:0019840,0.0
+104,4FEZ-A,actin filament binding,GO:0051015,0.0
+105,4FEZ-A,ferrous iron binding,GO:0008198,0.0
+106,4FEZ-A,"transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer",GO:0046912,0.0408
+107,4FEZ-A,electron transfer activity,GO:0009055,0.0001
+108,4FEZ-A,"translation regulator activity, nucleic acid binding",GO:0090079,0.0001
+109,4FEZ-A,ubiquinol-cytochrome-c reductase activity,GO:0008121,0.0
+110,4FEZ-A,fatty acid synthase activity,GO:0004312,0.019
+111,4FEZ-A,snRNA binding,GO:0017069,0.0
+112,4FEZ-A,protein transporter activity,GO:0140318,0.0
+113,4FEZ-A,superoxide dismutase activity,GO:0004784,0.0
+114,4FEZ-A,purine ribonucleoside triphosphate binding,GO:0035639,0.1372
+115,4FEZ-A,"transferase activity, transferring alkyl or aryl (other than methyl) groups",GO:0016765,0.2294
+116,4FEZ-A,"oxidoreductase activity, acting on diphenols and related substances as donors",GO:0016679,0.0
+117,4FEZ-A,exopeptidase activity,GO:0008238,0.0026
+118,4FEZ-A,inorganic anion transmembrane transporter activity,GO:0015103,0.0002
+119,4FEZ-A,cysteine-type endopeptidase inhibitor activity,GO:0004869,0.0
+120,4FEZ-A,chaperone binding,GO:0051087,0.0
+121,4FEZ-A,"hydrolase activity, hydrolyzing O-glycosyl compounds",GO:0004553,0.0
+122,4FEZ-A,signaling receptor activity,GO:0038023,0.0003
+123,4FEZ-A,oxygen carrier activity,GO:0005344,0.0
+124,4FEZ-A,"catalytic activity, acting on DNA",GO:0140097,0.0038
+125,4FEZ-A,histone-lysine N-methyltransferase activity,GO:0018024,0.0
+126,4FEZ-A,"oxidoreductase activity, acting on superoxide radicals as acceptor",GO:0016721,0.0
+127,4FEZ-A,cysteine-type peptidase activity,GO:0008234,0.0002
+128,4FEZ-A,carboxylic acid binding,GO:0031406,0.0561
+129,4FEZ-A,cyclic-nucleotide phosphodiesterase activity,GO:0004112,0.0001
+130,4FEZ-A,"hydrolase activity, acting on glycosyl bonds",GO:0016798,0.0004
+131,4FEZ-A,"oxidoreductase activity, acting on iron-sulfur proteins as donors",GO:0016730,0.0002
+132,4FEZ-A,amide transmembrane transporter activity,GO:0042887,0.0
+133,4FEZ-A,protein kinase regulator activity,GO:0019887,0.0
+134,4FEZ-A,cysteine-type endopeptidase activity,GO:0004197,0.0
+135,4FEZ-A,calcium ion binding,GO:0005509,0.0
+136,4FEZ-A,flavin adenine dinucleotide binding,GO:0050660,0.0027
+137,4FEZ-A,pyrophosphatase activity,GO:0016462,0.076
+138,4FEZ-A,nucleoside diphosphate kinase activity,GO:0004550,0.0003
+139,4FEZ-A,ubiquitin protein ligase binding,GO:0031625,0.0
+140,4FEZ-A,5'-3' RNA polymerase activity,GO:0034062,0.0
+141,4FEZ-A,RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,0.0
+142,4FEZ-A,guanyl nucleotide binding,GO:0019001,0.0056
+143,4FEZ-A,"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",GO:0016702,0.0
+144,4FEZ-A,histone binding,GO:0042393,0.0
+145,4FEZ-A,polysaccharide binding,GO:0030247,0.0
+146,4FEZ-A,protein tyrosine/serine/threonine phosphatase activity,GO:0008138,0.0
+147,4FEZ-A,histone acetyltransferase activity,GO:0004402,0.0
+148,4FEZ-A,purine ribonucleoside binding,GO:0032550,0.0046
+149,4FEZ-A,heme-copper terminal oxidase activity,GO:0015002,0.0
+150,4FEZ-A,large ribosomal subunit rRNA binding,GO:0070180,0.0
+151,4FEZ-A,ribosome binding,GO:0043022,0.0
+152,4FEZ-A,double-stranded DNA binding,GO:0003690,0.0002
+153,4FEZ-A,helicase activity,GO:0004386,0.0002
+154,4FEZ-A,small GTPase binding,GO:0031267,0.0
+155,4FEZ-A,protein kinase binding,GO:0019901,0.0001
+156,4FEZ-A,"hydrolase activity, acting on acid anhydrides",GO:0016817,0.0628
+157,4FEZ-A,steroid hormone receptor activity,GO:0003707,0.0
+158,4FEZ-A,enzyme activator activity,GO:0008047,0.0
+159,4FEZ-A,nuclease activity,GO:0004518,0.0023
+160,4FEZ-A,methyltransferase activity,GO:0008168,0.0002
+161,4FEZ-A,guanyl-nucleotide exchange factor activity,GO:0005085,0.0
+162,4FEZ-A,"phospholipase A2 activity (consuming 1,2-dipalmitoylphosphatidylcholine)",GO:0102567,0.0
+163,4FEZ-A,enzyme inhibitor activity,GO:0004857,0.0002
+164,4FEZ-A,fatty acid binding,GO:0005504,0.0
+165,4FEZ-A,xylanase activity,GO:0097599,0.0
+166,4FEZ-A,"ligase activity, forming carbon-sulfur bonds",GO:0016877,0.0052
+167,4FEZ-A,glucosidase activity,GO:0015926,0.0
+168,4FEZ-A,molecular carrier activity,GO:0140104,0.0
+169,4FEZ-A,G protein-coupled receptor binding,GO:0001664,0.0
+170,4FEZ-A,protein homodimerization activity,GO:0042803,0.0127
+171,4FEZ-A,tubulin binding,GO:0015631,0.0001
+172,4FEZ-A,molecular transducer activity,GO:0060089,0.0008
+173,4FEZ-A,phospholipase A2 activity,GO:0004623,0.0
+174,4FEZ-A,"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,0.0
+175,4FEZ-A,ubiquitin-like protein transferase activity,GO:0019787,0.0
+176,4FEZ-A,guanyl ribonucleotide binding,GO:0032561,0.0044
+177,4FEZ-A,host cell surface receptor binding,GO:0046789,0.0
+178,4FEZ-A,"oxidoreductase activity, acting on the aldehyde or oxo group of donors",GO:0016903,0.0244
+179,4FEZ-A,hormone binding,GO:0042562,0.0
+180,4FEZ-A,growth factor receptor binding,GO:0070851,0.0
+181,4FEZ-A,ligand-gated cation channel activity,GO:0099094,0.0
+182,4FEZ-A,protein methyltransferase activity,GO:0008276,0.0
+183,4FEZ-A,N-acyltransferase activity,GO:0016410,0.0035
+184,4FEZ-A,amino-acid racemase activity,GO:0047661,0.0041
+185,4FEZ-A,transcription regulator activity,GO:0140110,0.0001
+186,4FEZ-A,GTPase activator activity,GO:0005096,0.0
+187,4FEZ-A,unfolded protein binding,GO:0051082,0.0002
+188,4FEZ-A,"oxidoreductase activity, acting on a sulfur group of donors",GO:0016667,0.0
+189,4FEZ-A,single-stranded DNA binding,GO:0003697,0.0001
+190,4FEZ-A,chitin binding,GO:0008061,0.0
+191,4FEZ-A,carbohydrate binding,GO:0030246,0.0002
+192,4FEZ-A,peptidase activity,GO:0008233,0.0231
+193,4FEZ-A,ion channel binding,GO:0044325,0.0
+194,4FEZ-A,translation initiation factor binding,GO:0031369,0.0
+195,4FEZ-A,"ligase activity, forming carbon-nitrogen bonds",GO:0016879,0.0332
+196,4FEZ-A,peptide N-acetyltransferase activity,GO:0034212,0.0
+197,4FEZ-A,transmembrane signaling receptor activity,GO:0004888,0.0
+198,4FEZ-A,phosphatase regulator activity,GO:0019208,0.0
+199,4FEZ-A,transition metal ion binding,GO:0046914,0.0643
+200,4FEZ-A,3'-5' exonuclease activity,GO:0008408,0.0005
+201,4FEZ-A,peptidoglycan muralytic activity,GO:0061783,0.0
+202,4FEZ-A,"intramolecular transferase activity, phosphotransferases",GO:0016868,0.0134
+203,4FEZ-A,nucleobase-containing compound kinase activity,GO:0019205,0.0042
+204,4FEZ-A,carbonate dehydratase activity,GO:0004089,0.0001
+205,4FEZ-A,"transferase activity, transferring acyl groups other than amino-acyl groups",GO:0016747,0.1158
+206,4FEZ-A,"hydroxymethyl-, formyl- and related transferase activity",GO:0016742,0.0033
+207,4FEZ-A,endonuclease activity,GO:0004519,0.0015
+208,4FEZ-A,transcription coregulator activity,GO:0003712,0.0
+209,4FEZ-A,ion channel activity,GO:0005216,0.0003
+210,4FEZ-A,"endoribonuclease activity, producing 5'-phosphomonoesters",GO:0016891,0.0
+211,4FEZ-A,DNA-directed DNA polymerase activity,GO:0003887,0.0
+212,4FEZ-A,acid-amino acid ligase activity,GO:0016881,0.0016
+213,4FEZ-A,calcium channel activity,GO:0005262,0.0
+214,4FEZ-A,structural molecule activity,GO:0005198,0.0004
+215,4FEZ-A,DNA helicase activity,GO:0003678,0.0
+216,4FEZ-A,kinase binding,GO:0019900,0.0001
+217,4FEZ-A,active transmembrane transporter activity,GO:0022804,0.0015
+218,4FEZ-A,phosphorus-oxygen lyase activity,GO:0016849,0.004
+219,4FEZ-A,cadherin binding,GO:0045296,0.0
+220,4FEZ-A,carbon-sulfur lyase activity,GO:0016846,0.0031
+221,4FEZ-A,sodium channel regulator activity,GO:0017080,0.0
+222,4FEZ-A,GTP binding,GO:0005525,0.005
+223,4FEZ-A,proton channel activity,GO:0015252,0.0
+224,4FEZ-A,cytokine activity,GO:0005125,0.0
+225,4FEZ-A,oxo-acid-lyase activity,GO:0016833,0.0144
+226,4FEZ-A,"oxidoreductase activity, acting on a heme group of donors, oxygen as acceptor",GO:0016676,0.0
+227,4FEZ-A,glycosaminoglycan binding,GO:0005539,0.0
+228,4FEZ-A,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",GO:0016705,0.0001
+229,4FEZ-A,cell adhesion molecule binding,GO:0050839,0.0
+230,4FEZ-A,antioxidant activity,GO:0016209,0.0003
+231,4FEZ-A,passive transmembrane transporter activity,GO:0022803,0.0003
+232,4FEZ-A,sodium channel inhibitor activity,GO:0019871,0.0
+233,4FEZ-A,S-adenosylmethionine-dependent methyltransferase activity,GO:0008757,0.0
+234,4FEZ-A,GTPase activity,GO:0003924,0.0012
+235,4FEZ-A,sequence-specific double-stranded DNA binding,GO:1990837,0.0
+236,4FEZ-A,"carbon-oxygen lyase activity, acting on phosphates",GO:0016838,0.0059
+237,4FEZ-A,potassium channel activity,GO:0005267,0.0
+238,4FEZ-A,peroxidase activity,GO:0004601,0.0
+239,4FEZ-A,peptide-lysine-N-acetyltransferase activity,GO:0061733,0.0
+240,4FEZ-A,"phosphotransferase activity, phosphate group as acceptor",GO:0016776,0.0109
+241,4FEZ-A,cytokine receptor activity,GO:0004896,0.0
+242,4FEZ-A,enzyme binding,GO:0019899,0.0024
+243,4FEZ-A,serine-type endopeptidase activity,GO:0004252,0.0019
+244,4FEZ-A,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",GO:0016818,0.0615
+245,4FEZ-A,thiol-dependent ubiquitinyl hydrolase activity,GO:0036459,0.0
+246,4FEZ-A,tRNA-specific ribonuclease activity,GO:0004549,0.0
+247,4FEZ-A,phosphoric ester hydrolase activity,GO:0042578,0.0031
+248,4FEZ-A,"transferase activity, transferring sulfur-containing groups",GO:0016782,0.0085
+249,4FEZ-A,cytoskeletal protein binding,GO:0008092,0.0001
+250,4FEZ-A,isomerase activity,GO:0016853,0.0247
+251,4FEZ-A,ubiquitin-like protein binding,GO:0032182,0.0
+252,4FEZ-A,carbon-carbon lyase activity,GO:0016830,0.106
+253,4FEZ-A,carbohydrate derivative binding,GO:0097367,0.1389
+254,4FEZ-A,Ras GTPase binding,GO:0017016,0.0
+255,4FEZ-A,active ion transmembrane transporter activity,GO:0022853,0.0009
+256,4FEZ-A,double-stranded RNA binding,GO:0003725,0.0001
+257,4FEZ-A,DNA binding,GO:0003677,0.0082
+258,4FEZ-A,signaling receptor activator activity,GO:0030546,0.0
+259,4FEZ-A,GTPase regulator activity,GO:0030695,0.0
+260,4FEZ-A,damaged DNA binding,GO:0003684,0.0014
+261,4FEZ-A,NADH dehydrogenase activity,GO:0003954,0.0
+262,4FEZ-A,"phosphotransferase activity, alcohol group as acceptor",GO:0016773,0.0068
+263,4FEZ-A,ubiquitin-like protein ligase binding,GO:0044389,0.0
+264,4FEZ-A,tetrapyrrole binding,GO:0046906,0.0004
+265,4FEZ-A,exo-alpha-sialidase activity,GO:0004308,0.0
+266,4FEZ-A,iron ion binding,GO:0005506,0.001
+267,4FEZ-A,actin binding,GO:0003779,0.0
+268,4FEZ-A,heat shock protein binding,GO:0031072,0.0
+269,4FEZ-A,"oxidoreductase activity, acting on a heme group of donors",GO:0016675,0.0
+270,4FEZ-A,tRNA binding,GO:0000049,0.0024
+271,4FEZ-A,hormone receptor binding,GO:0051427,0.0
+272,4FEZ-A,RNA-directed 5'-3' RNA polymerase activity,GO:0003968,0.0
+273,4FEZ-A,microtubule motor activity,GO:0003777,0.0
+274,4FEZ-A,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",GO:0016811,0.0605
+275,4FEZ-A,phosphatase binding,GO:0019902,0.0
+276,4FEZ-A,"transferase activity, transferring one-carbon groups",GO:0016741,0.0015
+277,4FEZ-A,"catalytic activity, acting on a rRNA",GO:0140102,0.0
+278,4FEZ-A,"oxidoreductase activity, acting on the CH-NH group of donors",GO:0016645,0.0012
+279,4FEZ-A,immune receptor activity,GO:0140375,0.0
+280,4FEZ-A,ubiquitin-like protein-specific protease activity,GO:0019783,0.0
+281,4FEZ-A,neurotransmitter receptor activity,GO:0030594,0.0
+282,4FEZ-A,protein kinase activity,GO:0004672,0.0001
+283,4FEZ-A,FAD binding,GO:0071949,0.0013
+284,4FEZ-A,ubiquitin-like protein ligase activity,GO:0061659,0.0
+285,4FEZ-A,protein tyrosine phosphatase activity,GO:0004725,0.0
+286,4FEZ-A,cytochrome-c oxidase activity,GO:0004129,0.0
+287,4FEZ-A,hydro-lyase activity,GO:0016836,0.1574
+288,4FEZ-A,"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,0.0
+289,4FEZ-A,protein phosphatase regulator activity,GO:0019888,0.0
+290,4FEZ-A,endopeptidase regulator activity,GO:0061135,0.0
+291,4FEZ-A,growth factor activity,GO:0008083,0.0
+292,4FEZ-A,ion channel regulator activity,GO:0099106,0.0
+293,4FEZ-A,metal cluster binding,GO:0051540,0.001
+294,4FEZ-A,"transferase activity, transferring phosphorus-containing groups",GO:0016772,0.0369
+295,4FEZ-A,serine-type endopeptidase inhibitor activity,GO:0004867,0.0
+296,4FEZ-A,UDP-glycosyltransferase activity,GO:0008194,0.0
+297,4FEZ-A,"2 iron, 2 sulfur cluster binding",GO:0051537,0.0001
+298,4FEZ-A,single-stranded RNA binding,GO:0003727,0.0
+299,4FEZ-A,rRNA N-glycosylase activity,GO:0030598,0.0
+300,4FEZ-A,sequence-specific DNA binding,GO:0043565,0.0
+301,4FEZ-A,channel activity,GO:0015267,0.0003
+302,4FEZ-A,"oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor",GO:0016646,0.0014
+303,4FEZ-A,"hydrolase activity, hydrolyzing N-glycosyl compounds",GO:0016799,0.0073
+304,4FEZ-A,lysine N-methyltransferase activity,GO:0016278,0.0
+305,4FEZ-A,ATPase-coupled transmembrane transporter activity,GO:0042626,0.0008
+306,4FEZ-A,sulfurtransferase activity,GO:0016783,0.0065
+307,4FEZ-A,"catalytic activity, acting on a tRNA",GO:0140101,0.0034
+308,4FEZ-A,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines",GO:0016814,0.018
+309,4FEZ-A,beta-lactamase activity,GO:0008800,0.0
+310,4FEZ-A,dioxygenase activity,GO:0051213,0.0
+311,4FEZ-A,aldo-keto reductase (NADP) activity,GO:0004033,0.0
+312,4FEZ-A,"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen",GO:0016701,0.0003
+313,4FEZ-A,carbon-nitrogen lyase activity,GO:0016840,0.0091
+314,4FEZ-A,purine nucleoside binding,GO:0001883,0.0041
+315,4FEZ-A,protein disulfide oxidoreductase activity,GO:0015035,0.0
+316,4FEZ-A,metalloendopeptidase activity,GO:0004222,0.0014
+317,4FEZ-A,ATPase-coupled ion transmembrane transporter activity,GO:0042625,0.0003
+318,4FEZ-A,vitamin B6 binding,GO:0070279,0.0181
+319,4FEZ-A,chromatin binding,GO:0003682,0.0
+320,4FEZ-A,prenyltransferase activity,GO:0004659,0.0004
+321,4FEZ-A,"oxidoreductase activity, acting on CH or CH2 groups",GO:0016725,0.0011
+322,4FEZ-A,"ligase activity, forming carbon-oxygen bonds",GO:0016875,0.0006
+323,4FEZ-A,phospholipid binding,GO:0005543,0.0
+324,4FEZ-A,amino acid binding,GO:0016597,0.0791
+325,4FEZ-A,cation transmembrane transporter activity,GO:0008324,0.0004
+326,4FEZ-A,ligand-gated channel activity,GO:0022834,0.0
+327,4FEZ-A,regulatory region nucleic acid binding,GO:0001067,0.0
+328,4FEZ-A,triose-phosphate isomerase activity,GO:0004807,0.0002
+329,4FEZ-A,voltage-gated channel activity,GO:0022832,0.0
+330,4FEZ-A,transmitter-gated channel activity,GO:0022835,0.0
+331,4FEZ-A,hormone activity,GO:0005179,0.0
+332,4FEZ-A,nucleoside monophosphate kinase activity,GO:0050145,0.0001
+333,4FEZ-A,copper ion binding,GO:0005507,0.0001
+334,4FEZ-A,protein-lysine N-methyltransferase activity,GO:0016279,0.0
+335,4FEZ-A,ubiquitin protein ligase activity,GO:0061630,0.0
+336,4FEZ-A,cis-trans isomerase activity,GO:0016859,0.0
+337,4FEZ-A,purine ribonucleotide binding,GO:0032555,0.1499
+338,4FEZ-A,inorganic molecular entity transmembrane transporter activity,GO:0015318,0.0008
+339,4FEZ-A,adenyl nucleotide binding,GO:0030554,0.1951
+340,4FEZ-A,serine-type exopeptidase activity,GO:0070008,0.0
+341,4FEZ-A,monooxygenase activity,GO:0004497,0.0008
+342,4FEZ-A,"transferase activity, transferring hexosyl groups",GO:0016758,0.0
+343,4FEZ-A,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides",GO:0016812,0.0121
+344,4FEZ-A,nucleoside-triphosphatase regulator activity,GO:0060589,0.0
+345,4FEZ-A,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",GO:0016810,0.0763
+346,4FEZ-A,peptidase inhibitor activity,GO:0030414,0.0
+347,4FEZ-A,"oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor",GO:0016668,0.0001
+348,4FEZ-A,"oxidoreductase activity, acting on other nitrogenous compounds as donors",GO:0016661,0.0001
+349,4FEZ-A,NADH dehydrogenase (quinone) activity,GO:0050136,0.0
+350,4FEZ-A,metallopeptidase activity,GO:0008237,0.0165
+351,4FEZ-A,Rho GTPase binding,GO:0017048,0.0
+352,4FEZ-A,ligand-gated ion channel activity,GO:0015276,0.0
+353,4FEZ-A,"hydrolase activity, acting on ester bonds",GO:0016788,0.046
+354,4FEZ-A,porin activity,GO:0015288,0.0
+355,4FEZ-A,carbon-oxygen lyase activity,GO:0016835,0.1499
+356,4FEZ-A,toxin activity,GO:0090729,0.0
+357,4FEZ-A,"oxidoreductase activity, acting on peroxide as acceptor",GO:0016684,0.0001
+358,4FEZ-A,immunoglobulin binding,GO:0019865,0.0
+359,4FEZ-A,ribonucleoside binding,GO:0032549,0.0049
+360,4FEZ-A,protein serine/threonine kinase activity,GO:0004674,0.0001
+361,4FEZ-A,"phospholipase A2 activity consuming 1,2-dioleoylphosphatidylethanolamine)",GO:0102568,0.0
+362,4FEZ-A,"oxidoreductase activity, oxidizing metal ions",GO:0016722,0.0
+363,4FEZ-A,channel inhibitor activity,GO:0016248,0.0
+364,4FEZ-A,translation initiation factor activity,GO:0003743,0.0
+365,4FEZ-A,ion channel inhibitor activity,GO:0008200,0.0
+366,4FEZ-A,transmembrane receptor protein tyrosine kinase activity,GO:0004714,0.0
+367,4FEZ-A,DNA N-glycosylase activity,GO:0019104,0.0002
+368,4FEZ-A,heparin binding,GO:0008201,0.0
+369,4FEZ-A,aspartic-type peptidase activity,GO:0070001,0.0002
+370,4FEZ-A,iron-sulfur cluster binding,GO:0051536,0.0012
+371,4FEZ-A,RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,0.0
+372,4FEZ-A,DNA-binding transcription factor binding,GO:0140297,0.0
+373,4FEZ-A,deacetylase activity,GO:0019213,0.009
+374,4FEZ-A,gated channel activity,GO:0022836,0.0
+375,4FEZ-A,FMN binding,GO:0010181,0.001
+376,4FEZ-A,transcription coactivator activity,GO:0003713,0.0
+377,4FEZ-A,identical protein binding,GO:0042802,0.1107
+378,4FEZ-A,ligase activity,GO:0016874,0.0484
+379,4FEZ-A,transmembrane receptor protein kinase activity,GO:0019199,0.0
+380,4FEZ-A,ATPase-coupled cation transmembrane transporter activity,GO:0019829,0.0001
+381,4FEZ-A,adenylyltransferase activity,GO:0070566,0.0008
+382,4FEZ-A,protein dimerization activity,GO:0046983,0.042
+383,4FEZ-A,protein heterodimerization activity,GO:0046982,0.0004
+384,4FEZ-A,zinc ion binding,GO:0008270,0.0784
+385,4FEZ-A,NAD binding,GO:0051287,0.1552
+386,4FEZ-A,endopeptidase activity,GO:0004175,0.0034
+387,4FEZ-A,ion transmembrane transporter activity,GO:0015075,0.0009
+388,4FEZ-A,thiolester hydrolase activity,GO:0016790,0.0043
+389,4FEZ-A,Rab GTPase binding,GO:0017137,0.0
+390,4FEZ-A,DNA-dependent ATPase activity,GO:0008094,0.0005
+391,4FEZ-A,glucosyltransferase activity,GO:0046527,0.0
+392,4FEZ-A,"oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor",GO:0016628,0.0029
+393,4FEZ-A,hexosaminidase activity,GO:0015929,0.0
+394,4FEZ-A,monovalent inorganic cation transmembrane transporter activity,GO:0015077,0.0005
+395,4FEZ-A,"exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters",GO:0016796,0.0008
+396,4FEZ-A,O-methyltransferase activity,GO:0008171,0.0
+397,4FEZ-A,structural constituent of ribosome,GO:0003735,0.0001
+398,4FEZ-A,monocarboxylic acid binding,GO:0033293,0.0003
+399,4FEZ-A,magnesium ion binding,GO:0000287,0.4949
+400,4FEZ-A,cation channel activity,GO:0005261,0.0001
+401,4FEZ-A,endoribonuclease activity,GO:0004521,0.0
+402,4FEZ-A,ATPase activity,GO:0016887,0.011
+403,4FEZ-A,O-acyltransferase activity,GO:0008374,0.002
+404,4FEZ-A,nucleotidyltransferase activity,GO:0016779,0.0118
+405,4FEZ-A,"endodeoxyribonuclease activity, producing 5'-phosphomonoesters",GO:0016888,0.0002
+406,4FEZ-A,tRNA methyltransferase activity,GO:0008175,0.0
+407,4FEZ-A,signaling receptor binding,GO:0005102,0.0002
+408,4FEZ-A,structural constituent of nuclear pore,GO:0017056,0.0
+409,4FEZ-A,alpha-sialidase activity,GO:0016997,0.0
+410,4FEZ-A,"racemase activity, acting on amino acids and derivatives",GO:0036361,0.0041
+411,4FEZ-A,carboxy-lyase activity,GO:0016831,0.0241
+412,4FEZ-A,motor activity,GO:0003774,0.0
+413,4FEZ-A,transcription regulatory region sequence-specific DNA binding,GO:0000976,0.0
+414,4FEZ-A,inorganic cation transmembrane transporter activity,GO:0022890,0.0004
+415,4FEZ-A,NADP binding,GO:0050661,0.0107
+416,4FEZ-A,phosphatidylinositol binding,GO:0035091,0.0
+417,4FEZ-A,secondary active transmembrane transporter activity,GO:0015291,0.0003
+418,4FEZ-A,DNA-directed 5'-3' RNA polymerase activity,GO:0003899,0.0
+419,4FEZ-A,RNA helicase activity,GO:0003724,0.0
+420,4FEZ-A,racemase and epimerase activity,GO:0016854,0.0054
+421,4FEZ-A,RNA methyltransferase activity,GO:0008173,0.0
+422,4FEZ-A,ferric iron binding,GO:0008199,0.0
+423,4FEZ-A,"catalytic activity, acting on RNA",GO:0140098,0.0048
+424,4FEZ-A,calmodulin binding,GO:0005516,0.0
+425,4FEZ-A,phosphatase activity,GO:0016791,0.0063
+426,4FEZ-A,peptidase regulator activity,GO:0061134,0.0
+427,4FEZ-A,calcium ion transmembrane transporter activity,GO:0015085,0.0
+428,4FEZ-A,transporter activity,GO:0005215,0.0011
+429,4FEZ-A,aldehyde-lyase activity,GO:0016832,0.0219
+430,4FEZ-A,peptide transmembrane transporter activity,GO:1904680,0.0
+431,4FEZ-A,nucleoside-triphosphate diphosphatase activity,GO:0047429,0.0003
+432,4FEZ-A,intramolecular transferase activity,GO:0016866,0.0307
+433,4FEZ-A,NAD+ binding,GO:0070403,0.0065
+434,4FEZ-A,ribonucleoprotein complex binding,GO:0043021,0.0
+435,4FEZ-A,lipase activity,GO:0016298,0.0
+436,4FEZ-A,receptor ligand activity,GO:0048018,0.0
+437,4FEZ-A,nucleoside binding,GO:0001882,0.0057
+438,4FEZ-A,"exoribonuclease activity, producing 5'-phosphomonoesters",GO:0016896,0.0014
+439,4FEZ-A,steroid binding,GO:0005496,0.0
+440,4FEZ-A,nucleoside-triphosphatase activity,GO:0017111,0.0166
+441,4FEZ-A,receptor regulator activity,GO:0030545,0.0
+442,4FEZ-A,transmitter-gated ion channel activity,GO:0022824,0.0
+443,4FEZ-A,endopeptidase inhibitor activity,GO:0004866,0.0
+444,4FEZ-A,phospholipase activity,GO:0004620,0.0
+445,4FEZ-A,heme binding,GO:0020037,0.0001
+446,4FEZ-A,glutamate receptor activity,GO:0008066,0.0
+447,4FEZ-A,anion transmembrane transporter activity,GO:0008509,0.0012
+448,4FEZ-A,amide binding,GO:0033218,0.0016
+449,4FEZ-A,voltage-gated ion channel activity,GO:0005244,0.0
+450,4FEZ-A,intramolecular oxidoreductase activity,GO:0016860,0.0016
+451,4FEZ-A,quinone binding,GO:0048038,0.0001
+452,4FEZ-A,protein-containing complex binding,GO:0044877,0.0002
+453,4FEZ-A,peptide binding,GO:0042277,0.0002
+454,4FEZ-A,exonuclease activity,GO:0004527,0.0009
+455,4FEZ-A,pyridoxal phosphate binding,GO:0030170,0.015
+456,4FEZ-A,oligosaccharide binding,GO:0070492,0.0
+457,4FEZ-A,"transferase activity, transferring glycosyl groups",GO:0016757,0.0297
+458,4FEZ-A,translation elongation factor activity,GO:0003746,0.0
+459,4FEZ-A,DNA topoisomerase activity,GO:0003916,0.0
+460,4FEZ-A,manganese ion binding,GO:0030145,0.0195
+461,4FEZ-A,macromolecule transmembrane transporter activity,GO:0022884,0.0
+462,4FEZ-A,"oxidoreductase activity, acting on the CH-CH group of donors",GO:0016627,0.0058
+463,4FEZ-A,RNA binding,GO:0003723,0.0066
+464,4FEZ-A,kinase regulator activity,GO:0019207,0.0
+465,4FEZ-A,G protein-coupled receptor activity,GO:0004930,0.0
+466,4FEZ-A,RNA polymerase activity,GO:0097747,0.0
+467,4FEZ-A,Ras guanyl-nucleotide exchange factor activity,GO:0005088,0.0
+468,4FEZ-A,"transferase activity, transferring pentosyl groups",GO:0016763,0.0956
+469,4FEZ-A,lysozyme activity,GO:0003796,0.0
+470,4FEZ-A,NADH dehydrogenase (ubiquinone) activity,GO:0008137,0.0
+471,4FEZ-A,rRNA methyltransferase activity,GO:0008649,0.0
+472,4FEZ-A,voltage-gated cation channel activity,GO:0022843,0.0
+473,4FEZ-A,phosphoprotein phosphatase activity,GO:0004721,0.0
+474,4FEZ-A,disulfide oxidoreductase activity,GO:0015036,0.0
+475,4FEZ-A,"catalytic activity, acting on a protein",GO:0140096,0.0349
+476,4FEZ-A,channel regulator activity,GO:0016247,0.0
+477,4FEZ-A,metal ion transmembrane transporter activity,GO:0046873,0.0001
+478,4FEZ-A,immunoglobulin receptor binding,GO:0034987,0.0
+479,4FEZ-A,GTPase binding,GO:0051020,0.0
+480,4FEZ-A,primary active transmembrane transporter activity,GO:0015399,0.0007
+481,4FEZ-A,aspartic-type endopeptidase activity,GO:0004190,0.0001
+482,4FEZ-A,acetyltransferase activity,GO:0016407,0.0157
+483,4FEZ-A,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0016616,0.2162
+484,4FEZ-A,ubiquitin-protein transferase activity,GO:0004842,0.0
+485,4FEZ-A,ionotropic glutamate receptor activity,GO:0004970,0.0
+486,4FEZ-A,"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",GO:0016620,0.0132
+487,4FEZ-A,mRNA binding,GO:0003729,0.0008
+488,4FEZ-A,ribonucleotide binding,GO:0032553,0.1488
