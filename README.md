@@ -177,7 +177,7 @@ After successfully running the ENGINE_GUI_platform.py file, you can follow the s
 ![image](GUI/GUI_img/upload_pdb.png)
 ### Select Parameters
 - Set 'MF', 'BP', or 'CC' and choose one of the categories for GO terms prediction.  
-![image](GUI/GUI_img/prediction_page.png)
+![image](GUI/GUI_img/prediction_page1.png)
 ### Predict and save results
 
 - Click the 'Predict' button to perform the prediction operation.
