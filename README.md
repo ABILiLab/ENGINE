@@ -192,3 +192,6 @@ After successfully running the ENGINE_GUI_platform.py file, you can follow the s
 - On the right-hand side, in `Prediction`, we provide a table of prediction results showing the functional annotation information of the entered proteins, including the PDB ID of the underlying proteins as well as GO terms, in addition to the names corresponding to the GO terms, and the last column represents the predicted scores.  
 - Click ‘Save results’ button to save the prediction result as a csv file.  
 ![image](GUI/GUI_img/1.png)
+# License
+This source code is licensed under the MIT license.
+
