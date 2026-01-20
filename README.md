@@ -34,6 +34,9 @@ Protein function research helps in understanding complex biological processes wi
 - [License](#License)
 # Data
 The original input dataset is in **FASTA format**, containing amino acid sequences of target proteins. To obtain corresponding 3D structures in **PDB format**, we use [**ESMFold**](https://github.com/facebookresearch/esm) for structure prediction.
+
+# Model
+Due to GitHub's file size limitations, the .pt file of the ENGINE model can be downloaded from [**ENGINE model**](https://).
 # Installation
 
 ## Environment
