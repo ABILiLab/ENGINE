@@ -6,6 +6,7 @@ Protein function research helps in understanding complex biological processes wi
 - [Advancing Protein Function Annotation with Equivariant Graph Networks](#advancing-protein-function-annotation-with-equivariant-graph-networks)
 - [Table of Contents](#table-of-contents)
 - [Data](#data)
+- [Model](#model)
 - [Installation](#installation)
   - [Environment](#environment)
   - [Dependency](#dependency)
@@ -36,7 +37,7 @@ Protein function research helps in understanding complex biological processes wi
 The original input dataset is in **FASTA format**, containing amino acid sequences of target proteins. To obtain corresponding 3D structures in **PDB format**, we use [**ESMFold**](https://github.com/facebookresearch/esm) for structure prediction.
 
 # Model
-Due to GitHub's file size limitations, the .pt file of the ENGINE model can be downloaded from [**ENGINE model**](https://).
+Due to GitHub's file size limitations, the .pt file of the ENGINE model can be downloaded from [**ENGINE model**](https://doi.org/10.5281/zenodo.18314863).
 # Installation
 
 ## Environment
